@@ -1,0 +1,2 @@
+//Lighten (+) or darken (-)
+function shadeColor(e,t){var n=parseInt(e.slice(1),16),r=Math.round(2.55*t),i=(n>>16)+r,s=(n>>8&255)+r,o=(n&255)+r;return"#"+(16777216+(i<255?i<1?0:i:255)*65536+(s<255?s<1?0:s:255)*256+(o<255?o<1?0:o:255)).toString(16).slice(1)};

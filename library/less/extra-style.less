@@ -1,0 +1,55 @@
+/******************************************************************
+Site Name: 
+Author: 
+
+Stylesheet: Main Stylesheet
+
+Here's where the magic happens. Here, you'll see we are calling in
+the separate media queries. The base mobile goes outside any query
+and is called at the beginning, after that we call the rest
+of the styles inside media queries.
+
+Ultimo aggiornamento a bones scaricato 25 giugno 2012
+
+******************************************************************/
+
+/* import mixins */
+@import "mixins.less";
+
+
+/******************************************************************
+BASE (MOBILE) SIZE 
+This is the average viewing window. So Desktops, Laptops, and 
+in general anyone not viewing on a mobile device. Here's where
+you can add resource intensive styles.
+******************************************************************/
+
+/* styles in base.less */
+@import "extra-base.less";
+
+/******************************************************************
+LARGER THAN MOBILE
+******************************************************************/
+@media only screen and (min-width: 768px) {
+	
+	/* styles in 768up.less */
+	@import "extra-768up.less";
+
+} /* end of media query */
+
+/******************************************************************
+RETINA (2x RESOLUTION DEVICES)
+This applies to the retina iPhone (4s) and iPad (2,3) along with 
+other displays with a 2x resolution. You can also create a media
+query for retina AND a certain size if you want. Go Nuts.
+******************************************************************/
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+       only screen and (min--moz-device-pixel-ratio: 1.5),
+       only screen and (min-device-pixel-ratio: 1.5) {
+	
+	/* styles in 2x.less */
+	@import "extra-2x.less"; 
+
+} /* end of media query */
+

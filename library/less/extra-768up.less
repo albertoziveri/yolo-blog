@@ -1,0 +1,291 @@
+/*********************
+PAGEVIEW ciao, lab, social...
+*********************/
+//SOCIAL FOOTER in PAGES
+.page footer.article-footer {
+	display:block;
+}
+
+
+/*AUTHOR AND AUTHORS PAGE!*/
+#author-header {
+	
+	#avatar {
+		img {
+		}
+	}
+	
+	#author-title {
+		h1 {
+		}
+		
+		h2 {
+		}
+	}
+}
+
+#author-details {
+	#bio {
+		width:50%;
+		float:left;
+		margin-right:5%;
+		margin-bottom:0;
+	}
+	
+	#stats {
+		width:20%;
+		float:left;
+		margin-right:3%;
+		margin-bottom:0;
+	}
+	
+	#social {
+		width:20%;
+		float:left;
+		margin-bottom:0;
+		float:right;
+	}
+	
+}
+
+//PAGE CONTENT HEADER and MENU, usata per raccolte come Tasc for Business o per la header di ogni pagina di ogni autore.
+.content-menu-cut {margin-top:-60px;}
+#content-menu {
+	position:absolute;
+	li {
+		a,a:visited{
+			background-color:#fff;
+			color:@text;
+		}
+	}
+}
+
+//TOP AUTHORS PAGE
+#topauthors {
+	
+	.hidemobile {
+		display:table-cell !important;
+	}
+	
+	th {
+		&.medal {
+			text-align:center;
+			vertical-align:middle;
+			color: transparent;
+			span {
+				display:inline-block;
+				margin:0 auto;
+				width:15px;
+				height:15px;
+				.rounded(15px);
+			}
+			
+		}
+		
+		&.gold span {
+			background-color: #fdd33c;
+		}
+		&.silver span {
+			background-color:#b1b1b1;
+		}
+		&.bronze span {
+			background-color:#aa6908;
+		}
+	}
+
+	tr {
+		td {
+			display:table-cell;
+			&.points_pos {
+				width:5%;
+			}
+			&.author_name {
+				width:40%;
+			}
+			&.points_user_day {
+				width:15%;
+			}
+			&.points_record_day {
+				width:15%;
+			}
+			&.points_record_place {
+				width:10%;
+			}
+			&.points_first_place {
+				width:5%;
+			}
+			&.points_second_place {
+				width:5%;
+			}
+			&.points_third_place {
+				width:5%;
+			}
+		}
+	}
+}
+
+
+//FULL-WIDTH TEMPLATE
+.full-width {
+
+	#main {
+
+	}
+	.article-header {
+
+		h1 {
+			font-size:140px;
+			&.smaller {
+				font-size:100px;
+			}
+
+		}
+		h2 {
+			font-size:35px;
+			&.smaller {
+				font-size:30px;
+			}
+		}
+		
+		h3 {
+			font-size:40px;
+		}
+		
+		//Icona col cerchio
+		.page-icon {
+			width:250px;
+			height:250px;
+			.rounded(250px);
+			font-size:120px;
+			line-height:250px;
+		}
+		
+		//Descrizione pagina veloce sotto titolo
+		.desc {
+			font-size:18px;
+		}
+		
+	}
+	
+	.story {}
+	.story-left {
+		float:right;
+		margin-bottom:50px;
+		height:auto;
+		overflow:hidden;
+		.story-img {
+			margin-right:30px;
+			float:left;
+		}
+		
+		p{overflow:hidden;}
+	}
+	.story-right {
+		float:left;
+		margin-bottom:50px;
+		height:auto;
+		overflow:hidden;
+		.story-img {
+			margin-left:30px;
+			float:right;
+		}
+		p{overflow:hidden;}
+	}
+	
+	
+	
+	.story-big {
+		
+		.story-img {
+			display:block; float:none; width:100%;
+		}
+		
+		
+		p {
+			font-size:40px;
+		}
+	}
+
+
+	table.clean {
+		table-layout: fixed;
+		tr {
+			td {
+				display: table-cell;
+				border-bottom:0px;
+				padding:30px;
+				border-bottom:0;
+			}
+		}
+	}
+
+
+	table.regular {
+		tr {
+			td {
+				width:20%;
+				display:table-cell;
+				margin-bottom:0;
+			}
+		}
+	}
+}
+
+
+/*DARK FULL WIDTH*/
+.dark {
+	.full-width {
+		
+	}
+}
+
+/*CIAO PAGE BY DOMENICO*/
+
+#lab-creations {
+	h1 {
+		font-size: 100px;	
+	}
+
+   	ul li {
+		width: 21%;
+		margin: 0 2%;
+   	}
+}
+
+#lab-users {
+	form {
+		input {
+		}
+		textarea {
+		}
+	}
+}
+
+
+/*__PAGINA TEAM DI TASC__BY GREGORIO__*/
+
+#inner-content {
+	.users-unordered-list{
+		width:100%;
+		margin-left:auto;
+		margin-right:auto;
+		list-style-type:none;
+		margin:0;
+		padding:0;
+			
+		.users-list-item{
+			text-align:center;
+			width:20%;
+		}
+		
+	}
+	
+	.profile-category{
+		padding-left:10px;
+		width:100%;
+	}
+
+	.profile{
+	}
+	
+}

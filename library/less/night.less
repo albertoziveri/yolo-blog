@@ -1,0 +1,40 @@
+/******************************************************************
+Site Name:  Tasc.it
+Author: Alberto Ziveri
+
+Stylesheet: NIGHT MODE EXCLUSIVE TASC STYLESHEET
+
+This style contains all the corrections applied to the night mode.
+Come funziona? Night.less non è alto che una copia di Base.less con solo gli stili riguardanti i colori. A loro volta i colori vengono presi da mixins, che ha una parte in fondo con tutti i colori della notte. wow.
+
+******************************************************************/
+
+@night-background : #2c2c2c;
+/*********************
+GENERAL STYLES
+*********************/
+
+body {
+	color: @text;
+	background-color:@night-background;
+}
+
+.spr {
+	background-image: url('../images/sprnight2x.png') ;
+	background-size:150px 50px; 
+}
+
+
+
+/*
+INIZIO CORREZIONI MANUALI - LAVORO DA CERTOSINO - GLI ARTIGIANI DI TASC
+Tenere in ordine però ed eliminare correzioni non più necessarie
+*/
+
+
+#disqus_thread {
+	background-color:#fff !important;
+padding:10px;
+}
+
+ul.sidebar-menu li a, ul.sidebar-menu li a:visited {color:@grafite !important;}

@@ -1,0 +1,1044 @@
+/******************************************************************
+Site Name: 
+Author: 
+
+Stylesheet: Tablet & Small Desktop Stylesheet
+
+Here's where you can start getting into the good stuff.
+This size will work on iPads, other tablets, and desktops.
+So you can start working with more styles, background images,
+and other resources. You'll also notice the grid starts to
+come into play. Have fun!
+
+******************************************************************/
+
+
+/*********************
+GENERAL STYLES
+*********************/
+
+body {}
+#container {display:block;}
+
+
+/*********************
+LAYOUT & GRID STYLES
+*********************/
+
+.wrap {
+	max-width: 1050px;
+	//padding:0px;
+	height:auto;
+	overflow:hidden;
+	margin:0 auto;
+	padding:0;
+}
+/*
+	This is a combination of the 1140 grid and Twitter Boostrap.
+	I liked 1140 but Boostrap's grid was way more detailed so
+	I merged them together, let's see how this works out.
+	If you want to use 1140, the original values are commented
+	out on each line.
+*/
+.onecol    { width: 5.801104972%;  }       /* 4.85%;  } /* grid_1  */
+.twocol    { width: 14.364640883%; }       /* 13.45%; } /* grid_2  */
+.threecol  { width: 22.928176794%; }       /* 22.05%; } /* grid_3  */
+.fourcol   { width: 31.491712705%; }       /* 30.75%; } /* grid_4  */
+.fivecol   { width: 40.055248616%; }       /* 39.45%; } /* grid_5  */
+.sixcol    { width: 48.618784527%; }       /* 48%;    } /* grid_6  */
+.sevencol  { width: 57.182320438000005%; } /* 56.75%; } /* grid_7  */
+.eightcol  { width: 65.74585634900001%; }  /* 65.4%;  } /* grid_8  */
+.ninecol   { width: 74.30939226%; }        /* 74.05%; } /* grid_9  */
+.tencol    { width: 82.87292817100001%; }  /* 82.7%;  } /* grid_10 */
+.elevencol { width: 91.436464082%; }       /* 91.35%; } /* grid_11 */
+.twelvecol { width: 99.999999993%; }       /* 100%;   } /* grid_12 */
+
+/* layout & column defaults */
+.onecol, .twocol, .threecol, .fourcol, .fivecol, .sixcol, .sevencol, .eightcol, .ninecol, .tencol, .elevencol, .twelvecol { 
+	position: relative;
+	/*float: left; */
+	/*margin-left: 2.762430939%;*/
+}
+
+.first {
+	margin-left: 0;
+}
+
+.last {
+	float: right;
+}
+
+.fourcol {margin-left:0px;}
+
+#content {
+	float: left;
+	margin-right: -290px;
+	margin-bottom:2.5em;
+	width: 100%;	
+}
+
+#inner-content {
+	margin-right: 290px;
+	border-right: 1px solid @border-gray;	
+	padding-right:20px;
+}
+	
+
+#main {
+	width:100%;
+	max-width:700px;
+}
+
+#content.full-width {
+	margin-right:0px;
+	#inner-content {
+		margin-right:0px;
+		border-right:0px;
+		padding-right:0px;
+		display:block;
+	}
+	#main {
+		max-width:none;
+	}
+}
+	
+.sidebar {
+	width:250px;
+	float:right;
+	margin-top:15px;
+	padding:0;
+}
+
+
+/********************
+WORDPRESS BODY CLASSES
+style a page via class
+********************/
+
+.rtl {}
+.home {}                            /* home page */
+.blog {}                            /* blog page */
+.archive {}                         /* archive page */
+.date {}                            /* date archive page */
+	.date-paged-1 {}                /* replace the number to the corresponding page number */
+.search {}                          /* search page */
+	.search-results {}              /* search result page */
+	.search-no-results {}           /* no results search page */
+	.search-paged-1 {}              /* individual paged search (i.e. body.search-paged-3) */
+.error404 {}                        /* 404 page */
+.single {}                          /* single post page */
+	.postid-1 {}                    /* individual post page by id (i.e. body.postid-73) */
+	.single-paged-1 {}              /* individual paged single (i.e. body.single-paged-3) */
+.attachment {}                      /* attatchment page */
+	.attachmentid-1 {}              /* individual attatchment page (i.e. body.attachmentid-763) */
+	.attachment-mime-type {}        /* style mime type pages */
+.author {}                          /* author page */
+	.author-nicename {}             /* user nicename (i.e. body.author-samueladams) */
+	.author-paged-1 {}              /* paged author archives (i.e. body.author-paged-4) for page 4 */
+.category {}                        /* category page */
+	.category-1 {}                  /* individual category page (i.e. body.category-6) */
+	.category-paged-1 {}            /* replace the number to the corresponding page number */
+.tag {}                             /* tag page */
+	.tag-slug {}                    /* individual tag page (i.e. body.tag-news) */
+	.tag-paged-1 {}                 /* replace the number to the corresponding page number */
+.page-template {}                   /* custom page template page */
+	.page-template-page-php {}      /* individual page template (i.e. body.page-template-contact-php */
+	.page-paged-1 {}                /* replace the number to the corresponding page number */
+	.page-parent {}
+	.page-child {}
+	.parent-pageid-1 {}             /* replace the number to the corresponding page number */
+.logged-in {}                       /* if user is logged in */
+.paged {}                           /* paged items like search results or archives */
+	.paged-1 {}                     /* individual paged (i.e. body.paged-3) */
+	
+/*********************
+HEADER SYTLES
+*********************/
+#logo {
+	float:left; 
+	margin-right:3em;
+}
+
+header.header {
+	padding:1.2em 0 1.1em 0;
+	text-align:left;
+	
+	#social {
+		float:right;
+		display:block; 
+		margin-right:1%;
+		width:auto;
+		height:25px;
+		margin-top:15px;
+		a {float:left; display:block; width:20px; height:20px; margin-right:15px; border-bottom:0px !important;}
+		span {display:block; width:20px; height:20px; .transition(opacity,.5s); opacity:.5}
+		.rss {background-position:-127px -3px;}
+		.fb {background-position:-72px -3px;}
+		.tw {background-position:-100px -3px;}
+		.ig {background-position:-45px -3px;}
+		span:hover {opacity:1;}
+	}
+	
+	#search {	
+		float:right;
+		border: 0px;
+		height: 24px;
+		width: 150px;
+		margin-top:10px;
+	}
+}
+
+
+/*********************
+CATEGORIES
+*********************/
+#sub-header.desktop {
+	
+	.inner-cats {
+		
+		ul {
+			
+			li {
+				a, a:visited { 
+					/* on hover */
+					&:hover, &:focus {
+					}
+					
+					/* on click */
+					&:active {
+					}
+					
+				}
+			}
+		}
+	}
+}
+
+
+/*********************
+NAVIGATION STYLES
+*********************/
+header nav {
+	float:left;
+	/*.menu {*/
+		ul.top-nav{
+			height:44px;
+			line-height:51px;
+			margin:0;
+			
+			li {
+				padding:0 10px;
+				display:block;
+				&:first-child {}
+				&:last-child {}
+						
+				a, a:visited {
+					padding: 0;
+					
+					&:hover, &:focus {
+						color: lighten(@tasc-green, 10%);
+						border-bottom:1px solid #dee7e1;
+					}
+					
+					/* on click */
+					&:active {
+						color:darken(@tasc-green,10%);
+						
+					}
+				}
+				
+				/*
+				plan your menus and drop-downs wisely.
+				*/
+				ul.sub-menu,
+				ul.children {
+					width: 200px;
+					border: 1px solid #ccc;
+					border-top: 0;
+					position: absolute;
+					display: none;
+					z-index: 8999;
+								
+					li {
+				
+						a {
+							padding-left: 10px;
+							border-right: 0;
+							display: block;
+							width: 180px;
+							border-bottom: 1px solid #ccc;
+									
+							&:hover,
+							&:focus {}
+				
+							&:link {}
+						}
+				
+						&:first-child {}
+			
+						&:last-child {
+				
+							a {
+								border-bottom: 0;
+							}
+						}
+								
+						/*
+						if you need to go deeper, go nuts
+						just remember deeper menus suck
+						for usability. k, bai.
+						*/
+						ul {}
+					}
+							
+					/* highlight sub-menu current page */
+					li.current-menu-item, 
+					li.current_page_item,
+					li.current-page-ancestor {
+						border-bottom:2px solid #a3d627;
+						a {}
+					}
+				}
+						
+				/* showing sub-menus */
+				&:hover ul {
+					top: auto;
+					display: block;
+				}
+				
+			} //End ul li
+		} //End ul
+	//} End .menu
+
+	/* highlight current page */
+	li.current-menu-item, 
+	li.current_page_item,
+	li.current-page-ancestor {
+		a {}
+	}  /* end current highlighters */
+
+	
+}
+
+
+/*********************
+POSTS & CONTENT STYLES
+*********************/
+
+
+/*********************
+ARTICOLO GENERICO (snack, small, large)
+*********************/
+article.small {
+
+	.post-info {
+		width:275px;
+		float:left;
+		margin-right:20px;
+		
+		.thumbnail {
+			width: 100%;
+			height:185px;
+			text-align: left;
+			float:none;
+			margin:0;
+		}
+	}	
+
+	header {
+	}
+		
+}
+
+footer.article-footer {
+	min-height:21px;
+	display:block;
+	padding-top:1em;
+	margin-top:1em;
+	overflow:hidden;
+	border-top: 1px solid #e1e1e1;
+	.tags {
+		display:block;
+		min-height:21px; 
+		float:left;
+		font-size:.9em;
+		margin-bottom:10px;
+		.gray_link();
+		
+		.tags_icon {background-position: -23px -6px; height: 16px; width: 16px; display:block; margin-right:8px; margin-top:2px; float:left}
+	}
+
+	.shareme {
+		height: 21px;
+		display:block;
+		float:none;
+		margin:0px 0px 15px 0px;
+		
+		.buttons {position:absolute; width:234px;}
+		.button {
+			float:left;
+		}
+		
+		.facebook {width:84px;}
+		.twitter {width:90px;}
+		.googleplus {width:60px;}
+	} 
+}
+	
+	
+	
+/*********************
+STYLE FOR ARCHIVES
+*********************/
+articles {
+	article:last-child {border-bottom:0px;}
+}
+
+#articles article {		
+	header {
+		
+		h1 {
+			font-size:1.6em;
+			margin-bottom:0;
+		}
+			
+	}
+	
+	footer.article-footer  {
+		margin-top:0;
+		.readtime {
+			color: @pure-gray;
+			display:block;
+			margin-top:0;
+		}
+		
+	}
+	.post-content {
+		margin-left:295px !important;
+		padding-bottom:20px;
+	}
+	
+	p {
+		display:inline;
+	}
+	
+}
+
+
+
+/*********************
+ARTICLE LARGE
+*********************/
+
+#articles article.large {
+	.post-content {
+		margin-left:0 !important;
+	}
+}
+
+
+article.large {	
+	header {
+		h1 {
+			font-size:2.4em !important;
+		}
+	}
+		
+	footer {
+		.tags {max-width:450px;}
+		.shareme {
+			max-width: 270px;
+			float: right;
+			.buttons {
+				margin-left:-234px;
+			}	
+		}
+	}
+}
+
+
+//SINGLE VIEW POST
+article.single {
+		footer {
+			margin-bottom:1em;
+			
+			.tags {
+				width: 100%;
+				text-align: left;
+				margin-bottom: 1em;
+				float: none;
+				padding-bottom: 1em;
+				max-width: 100%;
+				border-bottom: 1px solid #ededed;		
+			}
+			.shareme {
+				width: 100%;
+				display: block;
+				max-width: 100%;
+				float: none;
+				padding-bottom: 1em;
+				border-bottom: 1px solid #ededed;	
+				.buttons {
+					width:100%;
+					margin-left:0px;
+				}	
+				.fancy {width:90px;}
+			}
+		}
+		
+		header {
+			border-bottom: 1px solid #ededed; 
+		}
+}
+
+
+
+
+/*********************
+MAIN STORIES
+*********************/
+#top-stories {
+	border-bottom:2px solid @border-gray;
+	margin-bottom:3em;
+	padding-bottom:2em;
+	height:auto;
+	overflow:hidden;
+	 -webkit-backface-visibility:hidden;
+}
+
+.overlay {
+	.transition(all,300ms);
+	background: #000;
+	opacity: 0.3;
+	height: 100%;
+	width: 100%;
+	position: absolute;
+	top: 0;
+	z-index: 1;
+}
+
+.second-story .overlay {
+	opacity:.5;
+}
+
+.big-story:hover .overlay,.second-story:hover .overlay {
+		opacity:0;
+
+}
+
+#main-story {
+	float:left;
+	width:48%;
+	
+	article.main-post {
+		width:100%; 
+		max-width:500px;
+		height: auto;
+		border-bottom:0;
+		margin-bottom:0;
+	}
+
+}
+	
+
+#side-story {
+	display:block; 
+	width:48%;
+	float:right;
+
+	article.side-post {
+		float:right; 
+		width:100%;
+		max-width:500px;
+		border-bottom:0;
+		margin-bottom:0;
+	}
+}
+
+
+.big-story,.second-story {
+	 -webkit-backface-visibility:hidden;
+	.thumbnail {
+		width: 100%;
+		margin:0;
+		float:none;
+		opacity:.9;
+		position:relative;
+		
+		&:hover {
+			opacity:1;
+		}
+			
+		img {
+			width:100%;
+			height:auto;
+			vertical-align:top;
+		}
+	}
+				
+	.title {
+		bottom:0;
+		padding:15px;
+		font-size:1.7em;
+		font-weight: 600;
+		font-family: @serif;
+		position:absolute;
+		text-align:left;
+		z-index:2;
+		color: #fff;
+		text-transform:uppercase;
+		&:hover {
+			color: #fff;
+		}
+	}
+	
+	a,a:visited {
+		color: #fff;
+		display:block;
+		&:hover {
+			color: #fff;
+		}
+	}
+}
+		
+		
+		
+#second-stories {
+	border-bottom:2px solid @border-gray;
+	margin-bottom:3em;
+	
+	ul::after {width: 100%; display: inline-block; content: ""; visibility: hidden}
+
+	ul {
+		padding:0;
+		display:block;
+		text-align:justify;
+		li {
+			list-style-type:none;
+			display:inline-block;
+			max-width:300px;
+			width:30%;
+			vertical-align: top;
+			 -webkit-backface-visibility:hidden;
+			
+			//&:last-child {float:right}
+			
+			.thumbnail {
+				width:100%;
+				height:auto;
+				
+				img {
+					width:100%;
+					height:auto;
+				}
+			}
+			
+			.title {
+				font-size:1.5em;
+				font-weight:400;
+				text-shadow:0px 0px 13px #000;
+				text-transform:uppercase;
+			}
+		}
+	}
+}
+		
+
+/*********************
+REVIEW BOX
+*********************/
+.post-content {
+	
+	.review {
+		display:block; padding: 10px; background-color: @bg-gray; color:#696969; overflow:hidden; margin:1em 0;
+		
+		.image {
+			height: 160px;
+			width:160px;
+			margin-right:15px;
+			
+			img {
+				max-width:160px;
+				max-height:160px;
+			}
+			
+			.icon_rounded {
+				.rounded(28px)
+			}
+		}
+		
+		.header {
+			overflow:hidden;
+			.h2 {}
+			.h1 {font-size: 1.5em;}
+			.download {width:auto;float:right;margin-top:-27px;
+				.icon {}
+			}
+		}
+		
+		.content {
+			margin-top:10px;
+			.field {}
+			.icon {}
+
+			.price {float:left; .icon {background-image: url('../images/rev_price.png');}}
+			.cat {display:block; float:right; .icon {background-image: url('../images/rev_cat.png');}}
+			.author {display:block; float:left; .icon {background-image: url('../images/rev_author.png');}}
+			.rating {display:block; float:right; margin-right:105px; width:125px;background-image: url('../images/rev_rating_empty.png');background-position:left center;
+				.icon {background-image: url('../images/rev_rating.png'); background-repeat:repeat-x; background-position:left center; max-width:125px; }
+			}
+		}
+	}
+	
+	.googleplay {
+		.image {
+			height: 140px;
+			width:140px;
+			
+			img {
+				max-width:140px;
+				max-height:140px;
+			}
+		}
+	}
+
+}
+
+/*********************
+AUTHOR BOX
+*********************/
+article {
+	.theauthor {
+		.image{
+			width:100px;
+			height:100px;
+			img {
+				width:100px;
+				height:100px;
+			}
+		}
+	}
+}
+
+
+/*********************
+QUOTE BOX
+*********************/
+.post-content {
+	
+	.quote-box {
+		width:300px; 
+		margin:0px 1em 1em 1em;
+		
+		&.sinistra {
+			float:left;
+			margin-left:0px;
+			margin-right: 1em;
+		}
+		&.destra {
+			float:right;
+			margin-right:0px;
+			margin-left:1em;
+		}
+		&.centro {
+			float:none;
+			display:block;
+			margin-left:0px;
+			width:auto;
+			margin-right:0px;
+			text-align:center !important;
+		}
+		
+	}
+	
+}
+
+/*********************
+PAGEVIEW ciao, lab, social...
+*********************/
+.full-width {
+
+	#main {
+
+	}
+	.article-header {
+
+		h1 {
+			font-size:225px;
+		}
+		h2 {
+			font-size:50px;
+		}
+	}
+	
+	.post-content {
+		.story-left {
+			float:right;
+			margin-bottom:50px;
+			.story-img {
+				margin-right:30px;
+				float:left;
+			}
+		}
+		.story-right {
+			float:left;
+			margin-bottom:50px;
+			.story-img {
+				margin-left:30px;
+				float:right;
+			}
+		}
+		
+		//Ciao page
+		.story-born .story-img {width: 197px; }
+		.story-info .story-img { width: 430px; }
+		.story-lab .story-img {width: 321px; }
+		.story-toknow .story-img {width: 426px;}
+		
+		//Social page
+		.social .story-img  {width: 270px; }
+		
+	}
+}
+/*********************
+SIDEBARS & ASIDES
+*********************/
+
+.sidebar {
+	.tasc-button,.tasc-button:visited {padding:0px;}
+	.twitter-follow-button, .fb-like-box {
+		margin-bottom:1em;
+		width:248px;
+	}
+	.fb-like-box, .iAb {
+		border:1px solid #DCDCDC !important;
+	}
+}
+
+	.widgettitle {
+		margin:0 0 0.75em 0;
+		border-bottom:0px;
+		border-top:0px;
+		padding:0px;
+	}
+
+	.widget {
+		margin: 0 0 2.1em 0;
+		padding-bottom:1.2em;
+		border-bottom:1px solid @light-border-gray;
+		
+		ul {
+			li {
+				margin-bottom: 0.75em;
+				
+				&:first-child {}
+				&:last-child {}
+				a {}
+				/* deep nesting */
+				
+				ul {
+					margin-top: 0.75em;
+					padding-left: 1em;
+				}
+			}
+		}
+	}
+
+
+	/* links widget */
+	.widget_links {}
+	.widget_links ul {}
+	.widget_links ul li {}
+	.widget_links ul li a {}
+	
+	/* meta widget */
+	.widget_meta {}
+	.widget_meta ul {}
+	.widget_meta ul li {}
+	.widget_meta ul li a {}
+	
+	/* pages widget */
+	.widget_pages {}
+	.widget_pages ul {}
+	.widget_pages ul li {}
+	.widget_pages ul li a {}
+	
+	/* recent-posts widget */
+	.widget_recent_entries {}
+	.widget_recent_entries ul {}
+	.widget_recent_entries ul li {}
+	.widget_recent_entries ul li a {}
+	
+	/* archives widget */
+	.widget_archive {}
+	.widget_archive ul {}
+	.widget_archive ul li {} 
+	.widget_archive ul li a {}
+	.widget_archive select {}
+	.widget_archive option {}
+	
+	/* tag-cloud widget */
+	.widget_links {}
+	.widget_links li:after {}
+	.widget_links li:before {}
+	.widget_tag_cloud {}
+	.widget_tag_cloud a {}
+	.widget_tag_cloud a:after {}
+	.widget_tag_cloud a:before {}
+	
+	/* calendar widget */
+	.widget_calendar {}
+	#calendar_wrap {}
+	#calendar_wrap th {}
+	#calendar_wrap td {}
+	#wp-calendar tr td {}
+	#wp-calendar caption {}
+	#wp-calendar a {}
+	#wp-calendar #today {}
+	#wp-calendar #prev {}
+	#wp-calendar #next {}
+	#wp-calendar #next a {}
+	#wp-calendar #prev a {}
+	
+	/* category widget */
+	.widget_categories {}
+	.widget_categories ul {}
+	.widget_categories ul li {} 
+	.widget_categories ul ul.children {}
+	.widget_categories a {}
+	.widget_categories select{}
+	.widget_categories select#cat {}
+	.widget_categories select.postform {}
+	.widget_categories option {}
+	.widget_categories .level-0 {}
+	.widget_categories .level-1 {}
+	.widget_categories .level-2 {}
+	.widget_categories .level-3 {}
+	
+	/* recent-comments widget */
+	.recentcomments {}
+	#recentcomments {}
+	#recentcomments li {}
+	#recentcomments li a {}
+	.widget_recent_comments {}
+	
+	/* search widget 
+	#searchform {}
+	.widget_search {}
+	.screen-reader-text {}*/
+	
+	/* text widget */
+	.textwidget {}
+	.widget_text {}
+	.textwidget p {}
+	
+/* SLIMBOX */
+
+#lbOverlay {
+	position: fixed;
+	z-index: 9999;
+	left: 0;
+	top: 0;
+	width: 100%;
+	height: 100%;
+	background-color: #000;
+	cursor: pointer;
+}
+
+#lbCenter, #lbBottomContainer {
+	position: absolute;
+	z-index: 9999;
+	overflow: hidden;
+	background-color: #fff;
+}
+
+.lbLoading {
+	background: #fff url(loading.gif) no-repeat center;
+}
+
+#lbImage {
+	position: absolute;
+	left: 0;
+	top: 0;
+	border: 10px solid #fff;
+	background-repeat: no-repeat;
+}
+
+#lbPrevLink, #lbNextLink {
+	display: block;
+	position: absolute;
+	top: 0;
+	width: 50%;
+	outline: none;
+}
+
+#lbPrevLink {
+	left: 0;
+}
+
+#lbPrevLink:hover {
+	background: transparent url(prevlabel.gif) no-repeat 0 15%;
+}
+
+#lbNextLink {
+	right: 0;
+}
+
+#lbNextLink:hover {
+	background: transparent url(nextlabel.gif) no-repeat 100% 15%;
+}
+
+#lbBottom {
+	font-family: Verdana, Arial, Geneva, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #666;
+	line-height: 1.4em;
+	text-align: left;
+	border: 10px solid #fff;
+	border-top-style: none;
+}
+
+#lbCloseLink {
+	display: block;
+	float: right;
+	width: 66px;
+	height: 22px;
+	background: transparent url(closelabel.gif) no-repeat center;
+	margin: 5px 0;
+	outline: none;
+}
+
+#lbCaption, #lbNumber {
+	margin-right: 71px;
+}
+
+#lbCaption {
+	font-weight: bold;
+}
+
+
+/*********************
+FOOTER STYLES
+*********************/
+
+/*
+you'll probably need to do quite a bit
+of overriding here if you styled them for
+mobile. Make sure to double check these!
+*/
+.footer-links {
+	ul {
+		li {
+			a {
+				&:hover {}
+			}
+			/* 
+			be careful with the depth of your menus.
+			it's very rare to have multi-depth menus in
+			the footer.
+			*/
+			ul {}
+		}
+	}
+} /* end .footer-links */
+			

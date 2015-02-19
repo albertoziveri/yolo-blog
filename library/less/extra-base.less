@@ -1,0 +1,666 @@
+/*********************
+CUSTOM PAGES
+*********************/
+
+/*ICON FONTS EXTRA*/
+/* Just click to select the code */
+ 
+@charset "UTF-8";
+ 
+@font-face {
+  font-family: "tascextra";
+  src:url("../fontsextra/tascextra.eot");
+  src:url("../fontsextra/tascextra.eot?#iefix") format("embedded-opentype"),
+    url("../fontsextra/tascextra.ttf") format("truetype"),
+    url("../fontsextra/tascextra.svg#tasc") format("svg"),
+    url("../fontsextra/tascextra.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+.iconfontextra {
+	font-family:"tascextra" !important;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	font-style: normal !important;
+	font-weight: normal !important;
+	font-variant: normal !important;
+	text-transform: none !important;
+	line-height: 1;
+	speak: none;
+	-webkit-touch-callout: none;
+	-webkit-user-select: none;
+	-khtml-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+}
+
+
+/*********************
+PAGEVIEW ciao, lab, social...
+*********************/
+.page footer.article-footer {display:none;}
+
+.full-width {	
+	.article-header {
+		display:block;
+		text-align:center;
+		height:auto;
+		margin-bottom:2em;
+		
+		//Titolo enorme verde
+		h1 {
+			color:@tasc-light-green;
+			font-size:80px;
+			text-transform: uppercase;
+			display:block;
+			font-family: @large;
+			text-align:center;
+			font-weight:400;
+			margin-bottom:0;
+			margin-top:0;
+			border-bottom:0;
+			padding-bottom:0;
+			&.smaller {
+				font-size:4em;
+			}
+		}
+		
+		//Icona col cerchio
+		.page-icon {
+			display:block;
+			width:150px;
+			height:150px;
+			.rounded(150px);
+			text-align:center;
+			font-size:70px;
+			margin:0 auto;
+			line-height:150px;
+		}
+		
+		//Sottotitolo dell'H1
+		h2 {
+			font-weight:300;
+			color:@tascsmoke;
+			font-family:@large;
+			font-size:25px;
+			text-align:center;
+			&.smaller {
+				font-size:1.5em;
+			}
+		}
+		
+		//Titolo medio
+		h3 {
+			font-weight:500;
+			font-family: @large;
+			font-size:30px;
+			display:block;
+			text-align:center;
+			text-transform:uppercase;
+		}
+		
+		//Descrizione pagina veloce sotto titolo
+		.desc {
+			display:block;
+			text-align:center;
+			font-weight:300;
+			font-size:16px;
+			margin:1em auto;
+			color: @tascgray;
+			
+		}
+	}
+	
+	
+	//Titolo di ogni paragrafo delle pagine, con versione mini black	
+	h1 {
+		font-size:22px;text-align:left; margin:20px 0; text-transform:uppercase;
+		color: @text; letter-spacing:2px;
+		border-top:0px;
+		font-weight:700;
+		
+		&.black {
+			width:auto;
+			text-align:center;
+			margin:40px auto;
+			background-color:@darkgrafite;
+			color: @white;
+			font-weight: 500;
+			font-size:18px;
+			text-transform:uppercase;
+			display:inline-block;
+			width:250px;
+			padding:6px;
+		}
+	}
+	
+	p {color:@tascgray;}
+	
+	.story-img {background-repeat:no-repeat; background-position: center center; margin:30px auto 0 auto; display:block; width:100%; height:auto; overflow:hidden; background-size: 100% auto;}
+	
+	ul.linklist {
+		padding-left:0;
+		li {
+			list-style-type:none;
+			display:block;
+			margin:10px 0;
+			.black_link();
+			a,a:visited {
+				text-transform: uppercase;
+			}
+		}
+	}
+	
+	.story-left {
+		float:right;
+		display:block;
+		padding:1em 0;
+	}
+	.story-right {
+		display:block;
+		padding:1em 0;
+	}
+	
+	.story-centered {
+		text-align:center !important;
+		p {
+			text-align:center !important;
+		}
+	}
+	
+	.story-big {
+		padding:1em 0;
+		
+		.story-img {
+			display:block; float:none; width:100%;
+		}
+		
+		h1 {
+			text-align:center; display:block; font-weight:500;
+		}
+		
+		p {
+			font-size:20px; text-align:center;
+		}
+	}
+	
+	.simple-story,.story-center  {
+		margin:2em auto;
+		text-align:center;
+		display:block;
+		overflow:hidden;
+		text-align:center;
+		
+		.story-icon {
+			font-size:60px;
+			color: @tascsmoke;
+		}
+		h1 { margin:1em 0;text-align:center;}
+		p {text-align:justify;}
+	}
+	
+	.gray-story {
+		background-color:@tascpure;
+	}
+	
+	table.clean {
+		width:100%;
+		tr {
+			td {
+				display: block;
+				vertical-align: top;
+				text-align:left;
+				padding:2em 0;
+				border-bottom:1px solid @tascpure;
+				margin-bottom:-1px;
+				font-size:14px;
+				span {display:block; font-weight:500; font-size:15px; text-transform:uppercase; margin-bottom:10px;}
+				&:first-child {
+					padding-left:0px;
+				}
+				
+				&:last-child {
+					padding-right:0px;
+				}
+			}
+		}
+	}
+	
+	table.regular {
+		th {text-align:left;}
+		tr {
+			td {
+				display:block;
+				padding:15px;
+				text-align:left;
+				border:1px @tascpure solid;
+				margin-bottom:-1px;
+				span {display:block; font-weight:500;}
+			}
+		}
+	}
+	
+	table {.black_link();}
+	
+}
+
+
+/*LAB PAGE */
+#lab-users {
+	background-color: @tascpure;
+	width: 100%;
+	
+	#inner_lab-users {
+		width: 98%;
+		margin: 0 auto;
+	}
+	h1  {
+	}
+	form {
+		width: 100%;	
+		input, textarea {
+			display: block;
+			width:100%;
+			box-sizing: border-box;
+			margin: 0 0 12px 0;
+		}
+		input {
+			padding: 10px 12px;
+		}
+		textarea {
+			padding: 10px 12px;
+			min-height: 150px;
+		}
+		label {
+			text-transform: uppercase;
+		}
+		#contact-submit {
+			margin-top: 24px;
+			padding: 8px 18px;
+			font-size: 18px;
+			width: auto;
+		}
+	}
+}
+
+//AUTHORS
+.people_list {
+	text-align: justify;
+	
+	
+	* {display: inline;}
+	
+	ul {
+		list-style-type:none;
+		padding:0px;
+		
+		li {
+			width:180px;
+			height:180px;
+			display:inline-block;
+			
+			a {
+			display:block;
+			border-bottom:0px;
+			opacity:.8;
+				&:hover, &:focus {
+					opacity:1;
+				}
+			}
+			img {
+				border:1px solid @tascsmoke;
+				width:120px;
+				height:120px;
+				margin-bottom:10px;
+				display:block;
+			}
+			span {
+				text-transform:uppercase;
+				font-weight:600;
+				text-align:left;
+				width:100%;
+			}
+		}
+	}
+	
+	.clearul {
+	  display: inline-block ;
+	  position: relative;
+	  width: 100%;
+	  height: 0;
+	}
+}
+
+//AUTHOR PROFILE
+#author-header {
+	display:block;
+	height:auto;
+	overflow:hidden;
+	padding:2em 0;
+	
+	#avatar {
+		padding:10px;
+		margin:0 auto 1em auto;
+		max-width:150px;
+		
+		img {
+			width:100%;
+			height:auto;
+			.rounded (100%);
+			vertical-align:top;
+		}
+	}
+	
+	#author-title {
+		display:block
+		float:left;
+		h1 {
+			font-size:3em;
+			font-weight:300;
+			text-align:center;
+			font-family:@large;
+			color: @text;
+		}
+		
+		h2 {
+			color: @tascgray;
+			font-weight:300;
+			margin:0;
+			text-align:center;
+			font-size:1.7em;
+			text-transform:lowercase;
+			max-width:90%;
+			margin:0 auto;
+		}
+	}
+}
+
+
+#author-details {
+	font-size:1.2em;
+	overflow:hidden;
+	padding:1em 0;
+	
+	h2 {
+		margin:0 0 .6em 0;
+	}
+	ul {padding-left:0;}
+	ul li {list-style-type: none;}
+	
+	#bio {
+		display:block;
+		margin-bottom:30px;
+		float:none;
+		text-align:justify;
+	}
+	
+	#stats {
+		display:block;
+		margin-bottom:30px;
+		float:none;
+	}
+	
+	#social {
+		display:block;
+		margin-bottom:30px;
+		float:none;
+	}
+	
+}
+
+//PAGE CONTENT HEADER and MENU, usata per raccolte come Tasc for Business o per la header di ogni pagina di ogni autore.
+#content-header {
+	height:auto;
+	overflow:hidden;
+	padding-bottom:2em;
+	max-width:1200px;
+	padding:0 10px;
+	margin: 0 auto;
+	
+	
+	#backto {
+	display:block;
+	margin-bottom:10px;
+		span {
+			text-transform:uppercase;
+			font-size:.9em;
+			
+		}
+	}
+	.header-image {
+		width:100%;
+		height:auto;
+		background-size:cover;
+		color:transparent;
+	}
+	
+	.business {
+		max-height:368px;
+		background-image: url('../images/immagini/txb-header.png');
+		padding-top:35.04%; //368*100/1050  -.. 1050 è la larghezza coglione!!
+	}
+	.howto {
+		max-height:283px;
+		background-image: url('../images/immagini/howto-header.jpg');
+		padding-top:26.95%; //368*100/1050  -.. 1050 è la larghezza coglione!!
+	}
+}
+
+
+.content-menu-cut {margin-top:10px;}
+#content-menu {
+	display:block;
+	padding:0;
+	text-align:center;
+	width:100%;
+	
+	li {
+		display:inline-block;	
+		margin-bottom:8px;
+		margin-right:10px;	
+		a,a:visited{
+			display:block; 
+			background-color:@text;
+			opacity:.9;
+			font-weight:400;
+			text-transform:uppercase;
+			color:@white;
+			padding:3px 5px;
+			.rounded (3px);
+			border-bottom:0px !important;
+			
+			&:hover {
+				opacity:1;
+			}
+		}
+	}
+}
+
+
+//TOP AUTHORS PAGE
+#topauthors {
+	width:99.8%;
+	th {
+		text-transform: uppercase;
+		font-size: 15px;
+		cursor:pointer;
+	}
+	
+	.hidemobile {
+		display:none !important;
+	}
+
+	tr {
+		td {
+			display:none;
+			margin-bottom:0;
+			&.author_name {
+				line-height:30px;
+				text-align:left;
+				img {
+					width:30px;
+					height:30px;
+					display:inline;
+					margin: 0 10px 0 0;
+					float:left;
+					.rounded(30px);
+				}
+			}
+			
+			&.points_pos {
+				width:10%;
+				display:table-cell;
+			}
+			&.author_name {
+				width:60%;
+				display:table-cell;
+			}
+			&.points_user_day {
+				width:30%;
+				display:table-cell;
+			}
+		}
+	}
+}
+
+
+/*
+
+OPINIONS WRITE
+
+*/
+
+#theopinion{
+	border-bottom:0px;
+}
+
+
+
+
+
+
+/*__PAGINA IL CAST DI TASC__BY GREGORIO + ALBERTO__*/
+
+
+#inner-content  {
+	
+	.profile-category {
+		display:block;
+		width:100%;
+		
+		.hr-pagecast {
+			display:block ;
+			border-top:solid 1px @text;
+			padding:0;
+			margin:0 30px 0 0;
+		}
+		
+	}
+	
+	.users-unordered-list {
+		text-align: justify;
+		display: block;
+		margin-top:1em;
+		li {
+			display: inline-block;
+			width:100%;
+			margin:1em 0;		
+		}
+		&:after {
+			 content: "";
+			  width: 100%;
+			  display: inline-block;
+			
+			  zoom: 1;
+			  *display: inline;		
+	  }
+		
+	}
+	
+	.pochimembri{
+		text-align:center !important;
+	}
+	
+	.profile{
+		display:block;
+		margin:0 auto;
+		overflow:hidden;
+		width:100%;
+		height:250px;
+		opacity:.8;
+		text-align:center;
+		.transition(opacity,.5s);
+		
+		
+		.image-user {
+			width:100%;
+			height:250px;
+			position: relative;
+			overflow:hidden;
+			
+			img{
+				width:150px;
+				height:150px;
+				border:0;
+				.rounded(100%);
+			}
+		}
+				
+		.boxtext {
+			text-overflow: ellipsis;
+			width: 100%;
+			height:200px;
+			border-bottom:0px;
+			display:block;
+		}
+		
+		.text {
+			color: @white;
+		}
+			
+		&:hover {	
+			opacity:1;
+		}
+		
+	}	
+
+	.h1-pagecast{
+		text-align: center;
+		margin: 0px auto;
+		padding: 0px;
+		font-weight: 300;
+		font-size:140px;
+		color: @white;
+		font-family:@large;
+	}
+	
+	.h2-pagecast{
+		font-family:@large;
+		padding:0;
+		font-size:25px;
+		text-align:center;
+		font-weight:400;
+		text-transform: uppercase;
+		margin-bottom:1em;
+		display:block;
+	}
+	
+	.name {
+		padding:5px 0;
+		margin:0;
+		font-weight:400;
+		font-size:1em;
+		color:@white;
+		text-align:center;
+	}
+	
+	#map {
+		height:650px;
+		width:100%;
+	}
+
+}
+
+

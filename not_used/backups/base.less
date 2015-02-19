@@ -1,0 +1,1150 @@
+/******************************************************************
+Site Name: 
+Author: 
+
+Stylesheet: Base Mobile Stylesheet
+
+Be light and don't over style since everything here will be
+loaded by mobile devices. You want to keep it as minimal as
+possible. This is called at the top of the main stylsheet
+and will be used across all viewports.
+
+******************************************************************/
+
+/*********************
+GENERAL STYLES
+*********************/
+
+body {
+	font-family: @typekit;
+	font-size: 14px;
+	line-height: 1.5;
+	color: @text;
+}
+
+.spr {
+	background-image: url('../images/spr.png'); 
+	background-repeat: no-repeat;
+}
+
+
+/*********************
+LAYOUT & GRID STYLES
+*********************/
+
+.wrap { 
+	display: block;
+	margin: 0 auto;
+	padding:0 10px;
+}
+
+#container {overflow: hidden; height: auto;}
+
+#content-container {overflow: hidden; height:auto;}
+
+/*
+No Grid? Say Whaaaat?
+There's really no need for all that
+extraneous grid css since floating 
+columns wouldn't really fit on such a 
+small screen, so let's only bring it in
+when we're ready for it.
+*/
+
+
+/*********************
+HEADER
+*********************/
+
+header.header {
+	text-align:center;	
+	padding:10px 10px 20px 10px;
+	margin-bottom:0;
+	background-color:#4b4b4b;
+	
+	a {border-bottom:0px !important;}
+	.logoimg {
+		width:182px;
+		height:44px;
+	}
+	
+	#social {display:none;}
+	
+	#search {	
+		border: 1px solid #696969;
+		height: 25px;
+		margin:0 auto;
+		.rounded(@radius: 2px);
+	}
+	
+	#search #searchsubmit {
+		border:0px;
+		background-position:-5px -6px;
+		height:16px;
+		width:16px;
+		background-color:transparent;
+		float:left;
+		margin: 5px 5px 0 5px;
+		padding:0px;
+	}
+	
+	#search #s {
+		border:1px;	
+		width: 76%;
+		background-color: transparent;
+		padding-top: 5px;
+		padding-left:0px;
+		float:left;
+		color:#fff;
+		font-weight:400;
+	}
+}
+
+/*********************
+CATEGORIES
+*********************/
+#sub-header.desktop {
+	border-bottom:2px solid @border-gray;
+	text-align: left;
+	height:auto;
+	padding:12px 0 0 0;
+	margin-bottom: 3em;
+	width:100%;
+	
+	.inner-cats {
+		margin:0 auto;
+		float:left;
+			
+		ul {
+			list-style-type:none;
+			padding-left:0px;
+			.current-menu-item a {border-bottom:3px solid @tasc-light-green}
+			
+			li {
+				float:left;
+				&:last-child a {margin-right:0 !important;}
+			}
+		}
+	}
+		
+	
+	a, a:visited { 
+		color:@text;
+		border-bottom:0px;
+		text-decoration: none;
+		text-transform:uppercase;
+		font-size:18px;
+		display:block;
+		margin-right:20px;
+		padding-bottom:12px;
+		margin-bottom:-1px;
+		font-weight:300;
+		/* on hover */
+		&:hover, &:focus {
+			//color:lighten(@text,20%);
+			color: @tasc-green;
+		}
+		
+		/* on click */
+		&:active {
+			color:darken(@text,10%);
+		}
+	}
+	
+	
+	#header-tools {
+		float:right;
+		
+		ul {
+			list-style-type:none;
+			li{
+				min-width:23px;
+				min-height:16px;
+				float:left;
+				&:last-child a {margin-right:0 !important;}
+				span {display:block; width:23px;height:16px; background-repeat:no-repeat; float:left; margin-top:3px;}
+				.tasclab {background-position:-1px -31px; margin-right:3px;}
+			}
+		}
+	}
+	
+}
+
+
+#sub-header.mobile {
+	border-bottom:1px solid @border-gray;
+	display:block;
+	height:auto;
+	overflow:hidden;
+	
+	.inner-cats {
+		display:block;
+		margin:0 auto;
+
+		ul {
+			list-style-type:none;
+			padding-left:0px;
+			
+			li {
+				background-color:#f2f2f2;
+				border: 1px #c2c2c2 solid;
+				margin-top:-1px;
+				a, a:visited { 
+					color:@text;
+					border-bottom:0px;
+					text-decoration: none;
+					text-transform:uppercase;
+					font-size:13px;
+					display:block;
+					padding:6px;
+					/* on hover */
+					&:hover, &:focus {
+						//color:lighten(@text,20%);
+						color: @tasc-green;
+					}
+					
+					/* on click */
+					&:active {
+						color:darken(@text,10%);
+					}
+					
+				}
+			}
+		}
+	}
+}
+
+
+/********************
+WORDPRESS BODY CLASSES
+style a page via class
+********************/
+
+.rtl {}                           /* for sites that are read right to left (i.e. hebrew) */
+.home {}                          /* home page */
+.blog {}                          /* blog template page */
+.archive {}                       /* archive page */
+.date {}                          /* date archive page */
+	.date-paged-1 {}              /* replace the number to the corresponding page number */
+.search {}                        /* search page */
+	.search-results {}            /* search result page */
+	.search-no-results {}         /* no results search page */
+	.search-paged-1 {}            /* individual paged search (i.e. body.search-paged-3) */
+.error404 {
+	#post-not-found {
+		margin-top:1em;
+	}
+}                      /* 404 page */
+.single {}                        /* single post page */
+	.postid-1 {}                  /* individual post page by id (i.e. body.postid-73) */
+	.single-paged-1 {}            /* individual paged single (i.e. body.single-paged-3) */
+.attachment {}                    /* attatchment page */
+	.attachmentid-1 {}            /* individual attatchment page (i.e. body.attachmentid-763) */
+	.attachment-mime-type {}      /* style mime type pages */
+.author {}                        /* author page */
+	.author-nicename {}           /* user nicename (i.e. body.author-samueladams) */
+	.author-paged-1 {}            /* paged author archives (i.e. body.author-paged-4) for page 4 */
+.category {}                      /* category page */
+	.category-1 {}                /* individual category page (i.e. body.category-6) */
+	.category-paged-1 {}          /* replace the number to the corresponding page number */
+.tag {}                           /* tag page */
+	.tag-slug {}                  /* individual tag page (i.e. body.tag-news) */
+	.tag-paged-1 {}               /* replace the number to the corresponding page number */
+.page-template {}                 /* custom page template page */
+	.page-template-page-php {}    /* individual page template (i.e. body.page-template-contact-php */
+	.page-paged-1 {}              /* replace the number to the corresponding page number */
+	.page-parent {}               /* parent page template */
+	.page-child {}                /* child page template */
+	.parent-pageid-1 {}           /* replace the number to the corresponding page number */
+.logged-in {}                     /* if user is logged in */
+.paged {}                         /* paged items like search results or archives */
+	.paged-1 {}                   /* individual paged (i.e. body.paged-3) */
+
+/*********************
+LINK STYLES
+*********************/
+
+.classic_link();
+
+a.nohover,a.nohover:visited {
+	border-bottom:0px;
+	&:hover {
+		border-bottom:0px;
+	}
+}
+
+/******************************************************************
+H1, H2, H3, H4, H5 STYLES
+******************************************************************/
+
+h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5,.permalink { 
+	text-rendering : optimizelegibility;
+	/* 
+	if you're going to use webfonts, be sure to check your weights 
+	http://css-tricks.com/watch-your-font-weight/
+	*/
+	
+	/* removing text decoration from all headline links */
+	a,a:visited {
+		text-decoration: none;
+		color:@text;
+		border-bottom:0px;
+		
+		&:hover, &:focus{
+			color:darken(@text,50%) !important;
+			border-bottom:0px;
+		}
+	}
+}
+
+h1, .h1 { 
+	font-size: 2.5em; 
+	line-height: 1.333em; 
+}
+
+h2, .h2 { 
+	font-size: 1.75em; 
+	line-height: 1.4em; 
+	margin-bottom: 0.375em; 
+}
+
+h3, .h3 { 
+	font-size: 1.125em; 
+}
+
+h4, .h4 { 
+	font-size: 1.2em; 
+	font-weight: 700; 
+	text-transform:uppercase;
+}
+
+h5, .h5 { 
+	font-size: 0.846em; 
+	line-height: 2.09em; 
+	text-transform: uppercase; 
+	letter-spacing: 2px; 
+}
+
+/*********************
+NAVIGATION STYLES
+*********************/
+
+.nav {}
+
+	/* .menu is clearfixed inside mixins.scss 
+	.menu {*/
+		ul.top-nav {
+			overflow:hidden;
+			padding-left:0px;
+			margin: 1em auto;
+			display: inline-block;
+			
+
+			li {
+				float:left;
+				
+				a, a:visited {
+					font-weight: 400;
+					text-transform: uppercase;
+					font-size:1.2em;
+					color: @bg-gray;
+					padding:0 10px;
+					/*
+					you can use hover styles here even though this size
+					has the possibility of being a mobile device.
+					*/
+					&:hover, &:focus {
+					
+					}
+				}
+				
+				&:first-child {}
+				&:last-child {}
+				
+				/*
+				plan your menus and drop-downs wisely.
+				*/
+				ul.sub-menu,
+				ul.children {
+					li {
+						a {
+							&:hover,
+							&:focus {}
+							&:link {}
+						}
+						&:first-child {}
+						&:last-child {}
+					}
+				}
+			} /* end .menu ul li */
+			
+			/* highlight current page */
+			li.current-menu-item, 
+			li.current_page_item,
+			li.current-page-ancestor {
+				a {}
+			}  /* end current highlighters */
+		} /* end ul.top-nav  */
+	/*}  end .menu */
+
+
+/*********************
+POSTS & CONTENT STYLES
+*********************/
+#main {
+	color: @text
+}
+
+//ARCHIVIO
+.archive-title {font-size:3em; text-transform:uppercase; border-bottom:1px solid @border-gray; padding-bottom:20px; margin-bottom:20px; margin-top:0px;}
+
+//STILE PAGINA
+h1.page-title {font-size:3em; font-family: @typekit; text-transform: uppercase;color:@tasc-light-green; font-weight: 400;}
+
+
+/*********************
+ARTICOLO GENERICO (snack, small, large)
+*********************/
+article {
+	border-bottom:2px solid @border-gray;
+	margin-bottom:4em;
+	
+	header {
+		margin-bottom:1em;
+		
+		h1 {
+			margin-top:0px;
+			margin-bottom:10px;
+			font-size:2.4em;
+			font-weight: 600;
+			color:@text;
+			font-family: @serif;
+		}
+		
+		p.meta {
+			margin:0px;
+			color:@pure-gray;
+			font-size:.9em;
+			a, a:visited {
+				color: @pure-gray;				
+				&:hover {
+					color:darken(@pure-gray,20%);
+				}
+			}
+			
+		}
+		
+		.cat {
+			margin-bottom:4px;
+			a, a:visited {
+				font-weight: 400;
+				text-transform: uppercase;
+				color: @pure-gray;
+				font-size:.9em;
+				
+				&:hover {
+					color:darken(@pure-gray,20%);
+				}
+			}
+		}
+		
+	}
+	
+	footer {
+		display:none;
+	}
+			
+}
+
+
+/*********************
+ARTICOLO SMALL NOT IMPORTANT
+*********************/
+article.small {
+
+	.thumbnail {
+		width: 100%;
+		text-align: center;
+		height:auto;
+		overflow: hidden;
+		margin:0 auto 10px auto;
+		float:left;
+			
+		img {
+			max-width:100%;
+			height:auto;
+		}
+	}
+	
+}
+
+
+/*********************
+LARGE STYLE both SNACK and POST
+*********************/
+article.large {	
+	header {
+		border-bottom:0px;
+		margin-bottom:0px;
+		padding-bottom:0px;
+		
+		h1.single-title {
+			font-size:2.5em;
+		}
+		span {background-color:@bg-soft-green; color:@white; padding:3px; .rounded(3px); font-weight:600;}
+		
+		.cat{
+			margin-bottom:1em;
+		}
+	}
+}
+
+
+/*********************
+FORMATTING CONTENT
+*********************/
+
+#content { 
+}
+	
+		.hentry {
+		
+			header {}
+			
+			footer {}
+		
+		} /* end .hentry */
+		
+		.single-title, 
+		.page-title {}
+		
+		.single-title {}
+		
+		.page-title {}
+		
+		.archive_title { }
+	
+		/* want to style individual post classes? Booya! */
+		.post-id {} /* post by id (i.e. post-3) */
+		.post {} /* general post style */
+		.page {} /* general article on a page style */
+		.attachment {} /* general style on an attatchment */
+		.sticky {} /* sticky post style */
+		.hentry {} /* hentry class */
+		.category-slug {} /* style by category (i.e. category-videos) */
+		.tag-slug {} /* style by tag (i.e. tag-news) */
+	
+		/* post meta */
+		.meta {
+			color: #999;
+		
+			time {}
+		}
+			
+		/* post content */
+		.post-content {
+			text-align:justify;
+			line-height:1.6;
+			font-size:1.1em;
+			
+			.alignleft, img.alignleft { 
+				margin-right: 1.5em; 
+				display: inline; 
+				float: left; 
+			}
+			.alignright, img.alignright{ 
+				margin-left: 1.5em; 
+				display: inline; 
+				float: right; 
+			}
+			.aligncenter, img.aligncenter, .centro { 
+				margin-right: auto; 
+				margin-left: auto; 
+				display: block; 
+				clear: both; 
+			}
+				
+			strong {font-weight:700;}
+			
+			h1, .h1 { font-size:2em; font-weight:700; margin:1em 0 .67em 0;}
+			h2, .h2 { font-size:1.8em; font-weight:400;}
+			
+			p {}
+			
+			.wp-smiley {margin-bottom:0px; margin-top:0;}
+			
+			
+			ul, ol, table, dl {margin-bottom:1em;}
+			
+			ul, ol {
+				
+				li {}
+			
+			}
+			
+			ul {
+			
+				li {}
+			
+			}
+			
+			ol {
+			
+				li {}
+			
+			}
+			
+			blockquote {
+				font-style:italic;
+				color: lighten(@text,20%);
+				
+				&:before {}
+			
+			}
+			
+			dl {}
+			
+			dt {}
+			
+			dd {
+				margin-left: 0;
+				font-size: 0.9em;
+				color: #787878;
+				margin-bottom: 1.5em;
+			}
+			
+			img { 
+				margin: 1em 0; 
+				max-width: 100%; 
+				height:auto;
+				vertical-align:top;
+			}
+			.centrato {display:block; text-align:center; } //Usato solo per le immagini da flickr, centrate dall'A
+
+			/*
+			image alignment on a screen this size may be
+			a bit difficult. It's set to start aligning 
+			and floating images at the next breakpoint,
+			but it's up to you. Feel free to change it up.
+			*/
+			.alignleft, img.alignleft {}
+			.alignright, img.alignright {}
+			.aligncenter, img.aligncenter {}
+			
+			video, object { 
+				max-width: 100%; 
+			}
+			
+			pre, code {
+				background: #eee;
+				border: 1px solid #cecece;
+				padding: 10px;
+			}
+			
+		} /* end .post-content */
+			
+		.wp-caption {
+			background: #eee;
+			padding: 5px;
+			
+			/* images inside wp-caption */
+			img {
+				margin-bottom: 0;
+				width: 100%;
+			}
+			
+			p.wp-caption-text {
+				font-size: 0.85em;
+				margin: 4px 0 7px;
+				text-align: center;
+			}
+			
+		} /* end .wp-caption */
+			
+		/* image gallery styles */
+		.gallery {
+			
+			dl {
+				
+				a {}
+			
+				img {}
+				
+			}
+			
+			dt {}
+			
+			dd {}
+		
+		} /* end .gallery */
+		
+		/* gallery caption styles */	
+		.gallery-caption {}
+		
+		.size-full {}
+		.size-large {}
+		.size-medium {}
+		.size-thumbnail {}
+
+
+
+
+
+/*********************
+SHORTCODE REVIEW BOX
+*********************/
+.post-content {
+	
+	.review {
+		padding: 10px; background-color: @bg-gray; color:#696969; margin:1em 0;
+		
+		.image {
+			float:left;
+			height: 60px;
+			width:60px;
+			margin-right:10px;
+			
+			img {
+				max-width:60px;
+				max-height:60px;
+			}
+			
+			.icon_rounded {
+				.rounded(11px);
+				margin-top:0px !important;
+			}
+		}
+		
+		
+		.header {
+			.h2 {font-size:.9em; color:#7e7e7e; font-weight:400; margin: 0px;}
+			.h1 {font-size: 1.3em; font-weight:600 !important; margin: 6px 0px 0px 0px;}
+			.download {width:100%; margin-top:30px; line-height:25px; font-size:1.1em; font-weight:600; text-transform: uppercase;  .light_green_link();
+				.icon {width:25px; height:25px; float:left; display: block; margin-right: 5px; background-repeat:no-repeat; background-position:center center; background-image: url('../images/rev_down.png');}
+			}
+		}
+		
+		.content {
+			.field {width:230px; height: 25px; line-height:25px; margin: 10px 0;}
+			.icon {width:25px; height:25px; display: block; margin-right: 5px; background-repeat:no-repeat; background-position:center center; float:left;}
+
+			.price {float:left; .icon {background-image: url('../images/rev_price.png');}}
+			.cat {display:none}
+			.author {display:none}
+			.rating {display:none}
+		}
+	}
+
+}
+
+/*********************
+SHORTCODE QUOTE BOX
+*********************/
+.post-content {
+	
+	.quote-box {
+		display:block;
+		margin:1em 0;
+		font-style: italic !important;
+		color: #80ba66;
+		font-weight:600 !important;
+		font-size:18px;
+		font-family: @serif;
+		border:1px #eeeeee solid; 
+		padding:10px;
+	}
+}
+
+/*********************
+SHORTCODE PANORAMA BOX
+*********************/
+.panorama {
+	display:block;
+	height:auto;
+	max-height:460px;
+	max-height:
+	margin:1em 0;
+	padding:20px 30px;
+	overflow:auto;
+	background-color:darken(@text,40%);
+}
+
+.panorama img {
+	max-height:450px;
+	max-width:none;
+	margin:0px;
+	width:auto;
+}
+
+
+/*********************
+FLICKR BOX
+*********************/
+
+
+/*********************
+AUTHOR BOX
+*********************/
+article {
+	.theauthor {
+		padding:1em 0px;
+		border-top:1px solid @border-gray;
+		border-bottom:1px solid @border-gray;
+		margin:1em 0px;
+		.image{
+			width:60px;
+			height:60px;
+			float:left;
+			width:21%;
+			margin-left:4%;
+			margin-top:0;
+			img {
+				width:60px;
+				height:60px;
+				.rounded(17%);
+			}
+		}
+		
+		.about {
+			max-width:70%;
+			float:right;
+			text-align:justify;
+			
+			h1 {
+				margin:0px;
+				font-size:1.5em;
+			}
+			
+		}
+	}
+}
+
+
+/*********************
+AUTHORS PAGE
+*********************/
+.people_list {
+	text-align: justify;
+	
+	
+	* {display: inline;}
+	
+	ul {
+		list-style-type:none;
+		padding:0px;
+		
+		li {
+			width:180px;
+			height:180px;
+			display:inline-block;
+			
+			a {
+			display:block;
+			border-bottom:0px;
+			opacity:.8;
+				&:hover, &:focus {
+					opacity:1;
+				}
+			}
+			img {
+				border:1px solid @border-gray;
+				width:120px;
+				height:120px;
+				margin-bottom:10px;
+				display:block;
+			}
+			span {
+				text-transform:uppercase;
+				font-weight:600;
+				text-align:left;
+				width:100%;
+			}
+		}
+	}
+	
+	.clearul {
+	  display: inline-block ;
+	  position: relative;
+	  width: 100%;
+	  height: 0;
+	}
+}
+
+
+#author_details {
+	border-bottom:1px solid @border-gray;
+	padding-bottom:20px;
+	margin-bottom:20px;
+	img {
+		float:left;
+		margin-right:10px;
+		margin-left:10px;
+		width:100px;
+		height:100px;
+	}
+		
+	a {
+		font-weight:600; text-transform:uppercase;
+	}
+	
+	p {display:block; margin:.5em 0;}
+	.social_links a {margin-right:15px;}
+}
+
+
+/******************************************************************
+PAGE NAVI STYLES
+******************************************************************/
+
+
+.wp-prev-next {
+	margin:1em 0;
+	ul {
+		padding-left:0;
+		li {
+			float:left;
+			&:first-child {
+				margin-right:20px;
+			}
+		}
+		a {
+			font-family: museo-slab;
+			color: #4b4b4b;
+			font-size: 20px;
+		}
+	}
+}
+
+
+
+
+
+/******************************************************************
+COMMENT STYLES
+******************************************************************/
+
+/* h3 comment title */
+#comments {
+	
+	/* number of comments span */
+	span {}
+
+}
+		
+/*********************
+SIDEBARS & ASIDES
+*********************/
+
+.sidebar {
+	padding: 0 10px;
+	
+	strong {font-weight:600;} 
+	margin-top:-20px;
+	.tasc-button,.tasc-button:visited {padding:0px 10px;}
+}
+
+	.widgettitle {
+		margin:20px 0;
+		padding:6px 0px;
+		border-bottom:1px solid @light-border-gray;
+		border-top:1px solid @light-border-gray;
+		font-size:1.3em;
+	}
+
+	.widget {
+		//INFLUADS
+		.influads_block,.influads_text,.influads_powered_div {text-align:left !important;}
+		
+		ul {
+			list-style-type: none;
+			padding-left:0px;
+			li {
+			
+				&:first-child {}
+				
+				&:last-child {}
+				
+				a {}
+				
+				/* deep nesting */
+				ul {}
+			
+			}
+		
+		}
+		
+		/*.box-list li {
+			img {float:left; margin-right:5%; width: 40px; height:40px; margin-top:2px;}
+			a {font-size:1.1em; font-weight:600; display:block; border-bottom:0px !important; min-height:40px; padding-bottom:5px;}
+			span {padding-top:6px;}
+		}*/
+	
+	}
+	
+	ul.sidebar-menu {
+		display:block;
+		.rounded(3px);
+		
+		li {
+			border-right: solid 1px @border-gray;
+			border-left: solid 1px @border-gray;
+			border-bottom: solid 1px @light-border-gray;
+			border-top:solid 1px transparent;
+			margin:0px 0px 0px 0px !important;
+			
+			&:hover {
+				border-top: solid 1px #097716 !important;
+				border-right: solid 1px #097716;
+				border-left: solid 1px #097716;
+				border-bottom: solid 1px #097716 !important;
+			}
+			&:first-child {
+				border-top: solid 1px @border-gray;
+				.rounded-top(@radius: 4px);
+				a {
+					.rounded-top(@radius: 3px);
+				}
+			} 
+			&:last-child {
+				border-bottom: solid 1px @border-gray;
+				margin-bottom:0px !important;
+				.rounded-bottom(@radius: 4px);
+				a {
+					.rounded-bottom(@radius: 3px);
+				}
+			} 
+
+			a, a:visited {
+				padding:5px 7px;
+				display:block;
+				height:30px;
+				line-height:30px;
+				color: @text;
+				font-size:16px;
+				font-weight:600;
+				border-bottom: 0px !important;
+				
+				&:hover {
+					background-color: @tasc-logo-green;
+					color:#fff;
+					border-bottom:0px !important;
+					
+				}
+			}
+			
+		}
+	}
+	
+	
+
+/*********************
+FOOTER STYLES
+*********************/
+
+.footer {
+	clear: both;
+	background-color: @bg-gray;
+	border:1px solid darken(@bg-gray,10%);
+	padding:10px;
+	display:block;
+	color: #696969;
+	margin-top:2.5em;
+	
+	p{
+		display:block; 
+		margin:0 0 .7em 0;
+		padding-bottom:.7em; 
+		border-bottom:1px solid darken(@bg-gray,10%);
+		
+		&:last-child {border-bottom:0px;padding-bottom:0px; margin-bottom:0px;}
+	}
+}
+	
+	/*
+	if you checked out the link above:
+	http://www.alistapart.com/articles/organizing-mobile/
+	you'll want to style the footer nav
+	a bit more in-depth. Remember to keep
+	it simple because you'll have to 
+	override these styles for the desktop
+	view.
+	*/
+	.footer-links {
+	
+		ul {
+		
+			li {}
+		
+		}
+		
+	} /* end .footer-links */
+
+			
+	.attribution {}
+	
+	
+	
+/*********************
+PAGEVIEW ciao, lab, social...
+*********************/
+.full-width {
+
+	#main {
+		margin-top: 10px;
+	}
+	.article-header {
+		display:block;
+		padding-bottom: 20px;
+		text-align:center;
+		height:auto;
+		border-bottom:1px solid @light-border-gray;
+		margin-bottom:20px;
+		h1 {
+			color:@tasc-light-green;
+			font-size:8em;
+			text-transform: uppercase;
+			display:block;
+			font-family: @typekit;
+			font-weight:700;
+			margin-bottom:0px;
+			margin-top:0;
+		}
+		h2 {
+			font-weight:600;
+			color:@gray-h2;
+			font-size:2em;
+			margin-top:-20px;
+		}
+	}
+	
+	.post-content {
+		padding:0 20px;
+		
+		
+		h1 {font-size:40px;font-weight: 100; text-align:left; color: @text; margin:20px 0;}
+		p {font-size: 20px; color:@text-page;}
+		.story-left {
+			float:right;
+			display:block;
+			margin-bottom:25px;
+		}
+		.story-right {
+			display:block;
+			margin-bottom:25px;
+		}
+		
+		//Ciao page
+		.story-img {background-repeat:no-repeat; background-position: center center; margin:30px auto 0 auto; display:block; width:100%; height:auto; overflow:hidden; background-size: 100% auto;}
+		.story-born .story-img {background-image:url('../images/immagini/tasc-bulb.png'); height:313px; max-width:197px; }
+		.story-info .story-img {background-image:url('../images/immagini/blueprint.png'); height:258px; max-width:430px; }
+		.story-lab .story-img {background-image:url('../images/immagini/logo-lab.png'); height:264px; max-width:321px;  }
+		.story-toknow .story-img {background-image:url('../images/immagini/to-know.png'); height:284px; max-width:426px;  }
+		
+		//social page
+		.facebook .story-img {background-image:url('../images/immagini/instagram.png'); height:270px; }
+		.instagram .story-img {background-image:url('../images/immagini/instagram.png'); height:270px; }
+		.twitter .story-img {background-image:url('../images/immagini/instagram.png'); height:270px; }
+		.rss .story-img {background-image:url('../images/immagini/instagram.png'); height:270px; }
+	}
+}
+

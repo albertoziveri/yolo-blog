@@ -1,0 +1,39 @@
+CACHE MANIFEST
+#THIS DOESN't work, viene caricata sul server poi dal file bones viene aggiornata.
+# http://blog.grayghostvisuals.com/wordpress/cache-manifest-for-wordpress/
+# Version Control
+# v1.0.0 00-00-0001d ddd dd
+#
+# Handy Dandy Developer Tools
+# CHROME chrome://appcache-internals
+# FIREFOX about:cache
+# Charles - Web Debugging Proxy App
+# http://charlesproxy.com
+#
+# CACHE explicit entries
+# NETWORK URL online whitelist entries
+# FALLBACK ish entries (i.e. "In case shit happens")
+#
+CACHE:
+# Styles
+#library/css/style.css
+#
+# Scripts
+library/js/libs/modernizr.custom.min.js
+library/js/libs/socialite.min.js
+library/js/libs/jslibs.js
+library/js/scripts.js
+http://use.typekit.net/mlh0mep.js
+# Images
+library/images/spr2x.png
+library/images/spr.png
+library/images/logo.png
+library/images/logo2x.png
+#
+NETWORK:
+*
+http://go.disqus.com/embed.js
+SETTINGS:
+prefer-online
+#
+FALLBACK:

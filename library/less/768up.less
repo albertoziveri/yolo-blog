@@ -1,0 +1,837 @@
+/******************************************************************
+Site Name: 
+Author: 
+
+Stylesheet: Tablet & Small Desktop Stylesheet
+
+Here's where you can start getting into the good stuff.
+This size will work on iPads, other tablets, and desktops.
+So you can start working with more styles, background images,
+and other resources. You'll also notice the grid starts to
+come into play. Have fun!
+
+******************************************************************/
+
+
+/*********************
+GENERAL STYLES
+*********************/
+
+body {
+}
+#container {
+	padding-top:70px; //The header fixed
+}
+
+/*********************
+LAYOUT & GRID STYLES
+*********************/
+
+.wrap {
+	max-width: 1200px;
+	height:auto;
+	margin:0 auto;
+}
+
+.center-wrap {
+	max-width:800px;
+}
+
+#content-container {}
+
+
+#content {
+	width: 100%;
+}	
+
+#content.full-width {
+	margin-right:0px;
+	#inner-content {
+		display:block;
+	}
+}
+
+
+
+	
+/*********************
+HEADER SYTLES
+*********************/
+
+header.header {
+	text-align:left;
+	height:60px;
+	
+	a,a:visited {
+	}
+	
+	#hamburger {
+		margin-top:15px;
+	}
+	
+	#open-nav {
+		float:left; 
+		margin-top:15px;
+		&:hover {
+		}
+	}
+	
+	#logo {
+		float:left; 
+		margin-top:19px;
+		padding-top:0;
+		margin-left:0;
+	}
+	
+	
+	#categories-nav {
+		float:right;
+		width:auto;
+		display:block;
+		ul {
+			li { 
+				list-style-type:none;
+				display:inline-block;
+				a,a:visited {
+					color: @lightgray;
+					display:block;
+					padding:0 10px;
+					height:60px;
+					line-height:60px;
+					font-weight:500;
+					font-size:14px;
+					text-transform:uppercase;
+					.boxSizing();
+					&:hover {
+						color: @white;
+						background-color: @text;
+					}
+				}
+								
+			}
+		}
+	}
+}
+.opened-nav header.header {
+	
+}
+
+
+
+/*********************
+MIDDLE BAR
+*********************/
+#tasc-world.promotion {
+	padding-bottom:60.5%;
+	height:0;
+	display:inline-block;
+
+}
+#tasc-world {
+		
+	.border-line {
+		height:2px;
+		position:relative;
+		border-bottom:1px solid @text;
+		display:block;
+		width:100%;
+		top:50px;
+		
+	}	
+	
+	.world-inner {
+		display:table;
+		width:100%;
+	}
+	
+	.world-element {
+		width:25%;
+		display:table-cell;
+		padding:0;
+		border:0px;
+		h3 {
+			height: 50px;
+			line-height: 50px;		
+		}
+	}
+	
+	.opinions {
+		width:30%;
+	}
+	
+	.tasclinks {
+		width:19%;
+	}
+	
+	.tascrank {
+		width: 24%;
+	}
+	
+	.sponsor {
+		width: 27%;
+	}
+	
+	
+	.tascrank{
+	}
+	
+}
+
+
+
+/*********************
+STILI PER ARTICLE generali validi sia per single sia per archivi.
+*********************/
+article {
+	
+	footer.article-footer {
+		display:block;
+		.shareme {
+			display:block;
+			float:none;
+			
+			ul {display:block; padding-left:0;}
+			
+			li {
+				float:left;
+			}
+			
+			
+		}		
+	
+	}
+	
+	#share-box {
+		display:table;
+		width: 100%;
+		
+		.share,.sponsor {
+			display:table-cell;
+			vertical-align:top;
+		}
+		
+		.share {
+			display:table-cell;
+			padding-right:4%;
+			width:50%;
+			padding-bottom:0;
+			border-bottom:0;
+			
+			.share-count,.share-it {
+				float:left;
+			}
+			
+			.share-count {
+				width:100%;
+				float:none;
+				.count {
+					margin-top: 10px;
+				}
+			}
+			
+			.share-it {
+				
+			}
+			
+			.shares-name {
+			}
+			
+		}
+		
+		.sponsor {
+			margin-top:0;
+			padding-left:2%;
+			width:45%;
+			border-left:1px solid @lightgray;
+		}
+	}
+	
+}
+	
+	
+	
+/*********************
+ARTICLES ARCHIVES STYLE + footer per l'opinion
+*********************/
+
+#articles article.large, article.opinion {		
+	
+	.title {
+		font-size:2.5em;
+	}
+	
+	footer.article-footer  {
+		
+		.meta {
+			float:left;
+			width:50%;
+		}
+		
+		.shareme {
+			width:50%;
+			float:right;
+			
+			
+			ul {float:right;}
+			
+		} 
+		
+	}
+	
+	p {
+		display:inline;
+	}
+	
+}
+
+
+#articles {
+	.tasc-post {
+		.title {
+			font-size:2.1em;
+		}
+	}
+}
+
+.small-posts {
+	.tasc-post {
+		.title {
+			font-size:16.5px !important;
+		}
+		
+		a,a:visited {
+			max-height: 238px;
+		}
+	}
+	
+}
+
+
+
+
+/*********************
+POSTS IN SINGLE VIEW
+*********************/
+article.single {
+	footer.article-footer {
+	}
+		
+	#related_stories {
+		 article {
+			 margin:.5em 0;
+			 display:inline-block;
+			 width:48%;
+			 margin-right:1%;
+		 }
+		 
+		.tasc-post {
+			max-height: 245px;
+			overflow: hidden;
+			img {
+			}
+			
+			&:hover .overlay {
+				opacity:.2 !important;
+			}
+			
+		}
+		
+		.overlay {
+			opacity:.7;
+		}
+					
+		.title {
+			font-size:1.4em;
+		}
+		
+		a,a:visited {
+		}
+	
+	}
+		
+}
+
+
+/*********************
+SIMPLEST SQUARE ARTICLE LIST - used for author page
+*********************/
+.square-list {
+	text-align:center;
+	article {
+		width: 49.7%;
+		margin:0;
+		.tasc-post {
+			height: auto !important;
+		}
+		
+		.article-big-story {
+			width:100%;
+		}
+	}
+}
+
+
+
+
+/*********************
+MAIN STORIES - ONLY HOME
+*********************/
+#content-top {
+}
+
+#top-stories {
+	position:relative;
+	display:table;
+}
+
+.second-story .overlay {
+	opacity:.5;
+}
+
+.big-story:hover .overlay,.second-story:hover .overlay {
+
+}
+
+article.main-post,article.side-post {
+	max-width:760px;
+}
+#main-story {
+	margin-bottom:0;
+	display: table-cell;
+	float:none;
+	padding-right: 7%;
+	
+	.article-big-story{
+		margin-bottom:0px;
+		border-bottom:0px;
+	}
+	
+	article.main-post {
+		height: auto;
+	}
+
+}
+	
+
+#side-story {
+	display: table-cell;
+	float: none;
+	position: relative;
+	width:27%;
+
+	article.side-post {
+		float:right; 
+	}
+	
+	.last-opinions {
+		width: 100%;
+		height: 50%;
+		display: block;
+		position: absolute;
+		overflow: hidden;
+	}
+	
+	.second-story-right {
+		display: table-cell;
+		bottom: 0;
+		position: absolute;
+		height: 47%;
+		bottom: 0;
+	}
+}
+
+
+
+.big-story,.second-story,#related_stories,.sticky {
+	 
+	.tasc-post {
+			
+		img {
+		}
+	}
+				
+	.title {
+		font-size:2em;
+		text-shadow:0px 0px 0px transparent;
+		
+		&:hover {
+		}
+	}
+	
+	a,a:visited {
+		&:hover {
+		}
+	}
+}
+		
+		
+		
+#second-stories {
+	margin-bottom:1em;
+
+	ul::after {}
+
+	ul {
+		display:table;
+		width:100%;
+		li {
+			max-width:390px;
+			display:table-cell;
+			width:auto;
+			margin-bottom:0;
+			padding:0 5px;
+			
+			&:first-child {padding-left:0;}
+			&:last-child {padding-right:0;}
+			
+			.tasc-post {
+				max-height:257px;
+				
+				img {
+				}
+			}
+			
+			.title {
+				font-size:1.6em;
+			}
+		}
+	}
+}
+		
+		
+//Actually only home page
+.right-column {
+	article,.tasc-post {
+		margin:0 !important;
+	}
+	
+	.first-tile {
+		height:0;
+		padding-bottom: 72.60%; //empirico
+		margin-top:30px !important;
+		
+	}
+	.second-tile {
+		height:0;
+		padding-bottom: 65.99%; //era 66%, 1280/845 * 100
+	}
+	
+	
+	.quote {
+		font-weight: 300;
+		font-size:1.3em;
+		line-height: 150%;
+		padding-bottom: 62%;
+		.gray_link();
+		p {
+			margin:4px 0;
+		}
+	}
+	.tile {
+		.boxSizing(border-box);
+		max-height:257px !important;
+		p {
+			bottom:0;
+		}
+		
+		article {
+			border-bottom: 0px !important;
+		}
+	}
+}
+
+
+.left-column {
+	width: 63%;
+	float:left;
+}
+
+.right-column {
+	width: 30%;
+	float:right;
+}
+		
+		
+
+/*********************
+REVIEW BOX
+*********************/
+.post-content {
+	
+	.review {
+		
+		.image {
+			height: auto;
+			width:18%;
+			vertical-align:middle;
+			display:table-cell;
+			padding:0;
+
+			
+			img {
+				max-width:100px;
+				max-height:100px;
+				vertical-align:middle;
+				margin:0;
+
+			}
+			
+			.icon_rounded {
+				.rounded(22px);
+			}
+		}
+		
+		.right-info {
+			width:80%;
+			display:table-cell;
+			padding-left:4%;
+			
+			.header {
+				overflow:hidden;
+				.h1 {font-size: 1.5em; float:left; width:70%;}
+				.h2 {margin-top:0; padding-top:0;}
+				.download {width:auto;float:right;margin-top:-5px; a,a:visited {margin:0;}
+				}
+			}
+			
+			.content {
+				.field {}
+				.icon {}
+	
+				.price {float:left; .icon {background-image: url('../images/rev_price.png');}}
+				.cat {display:block; float:right; .icon {background-image: url('../images/rev_cat.png');}}
+				.author {display:block; float:left; .icon {background-image: url('../images/rev_author.png');}}
+			}
+		}
+	}
+	
+	.googleplay {
+		.image {
+			height: auto;
+			width:100px;
+			
+			img {
+				max-width:100px;
+				max-height:100px;
+			}
+		}
+	}
+
+}
+
+/*********************
+QUOTE BOX
+*********************/
+.post-content {
+	
+	.quote-box {
+		width:300px; 
+		
+		&.sinistra {
+			float:left;
+			margin-left:0px;
+			margin-right: 20px;
+			text-align:right;
+		}
+		&.destra {
+			float:right;
+			margin-right:0px;
+			margin-left:20px;
+		}
+		&.centro {
+			float:none;
+			display:block;
+			margin-left:0px;
+			width:auto;
+			margin-right:0px;
+			text-align:center !important;
+		}
+		
+	}
+	
+}
+
+/*********************
+SHORTCODE RIASSUNTO PRODOTTO BOX
+*********************/
+.post-content {
+	
+	.riassunto {
+		padding:20px 0;
+		
+		.vote {
+			float:left;
+			width:35%;
+			left:5%;
+			bottom:0;
+			text-align: left;
+		}
+		
+		.descrizione {
+			width:50%;
+			right:17%;
+			float:right;
+		}
+	}
+}
+
+
+//INSTAGRAM BOX
+.embed-container {
+	.instagram_box {
+		height: 720px;
+	}
+}
+
+/*********************
+FOOTER STYLES
+*********************/
+
+/*
+you'll probably need to do quite a bit
+of overriding here if you styled them for
+mobile. Make sure to double check these!
+*/
+.footer-links {
+	ul {
+		li {
+			a {
+				&:hover {}
+			}
+			/* 
+			be careful with the depth of your menus.
+			it's very rare to have multi-depth menus in
+			the footer.
+			*/
+			ul {}
+		}
+	}
+} /* end .footer-links */
+
+
+
+/******************************************************************
+SUPER FULL PAGE STYLES
+******************************************************************/
+
+.super-full {  //the container class
+	#super-header {
+		min-height: 600px;
+		top: -70px;
+		//HEADER
+		header.header {
+		}
+	
+	//POST-HEADER
+		#large-post-header{
+
+			#full-post-info {
+				bottom:5%;
+				left:10%;
+				#super-title {
+					h1 {
+						font-size:4em; 
+					}
+				}
+				
+				#super-author {
+					h2 {
+						font-size:1.5em;
+						height:40px;
+						line-height:40px;
+						.gravatar {
+							width: 50px;
+							height:50px;
+							margin-right:10px;
+						}
+						.author-details{
+							height:50px;
+							line-height:50px;
+						}
+					}
+				}
+			} //end full post infos
+			
+		} //end large post header
+	} //end global super header
+	
+} //end super full post
+
+
+
+
+
+
+//MODAL
+@-webkit-keyframes pop-in {
+0% { opacity: 0; -webkit-transform: scale(0.5); }
+100% { opacity: 1; -webkit-transform: scale(1); }
+}
+@-moz-keyframes pop-in {
+0% { opacity: 0; -moz-transform: scale(0.5); }
+100% { opacity: 1; -moz-transform: scale(1); }
+}
+@keyframes pop-in {
+0% { opacity: 0; transform: scale(0.5); }
+100% { opacity: 1; transform: scale(1); }
+}
+#lean_overlay {
+    position: fixed;
+    z-index:100;
+    top: 0px;
+    left: 0px;
+    height:100%;
+    width:100%;
+    background: #000;
+    display: none;
+}
+
+#fblikebox {
+width: 600px;
+padding: 0;
+display: none;
+background: @white;
+-webkit-animation:pop-in 0.5s;
+-moz-animation:pop-in 0.5s;
+-ms-animation:pop-in 0.5s;
+ * {
+	 text-align:center;
+ }
+ 
+ h1 {
+	 background-image:url('../images/tasc.png');
+	 padding-top:75px;
+	 padding-bottom:20px;
+	 background-size:80px 80px;
+	 background-position:center top;
+	 background-repeat:no-repeat;
+	 background-color:@tascpure;
+	 margin-top:0;
+ }
+ p {
+	 padding: 0 20px;
+	 }
+	 
+ .black_link();
+ .modal_close {
+	 display:block;
+	 padding:10px;
+	 text-align:center;
+	 background-color:@tascpure;
+	 text-transform:uppercase;
+	 border-bottom:0px;
+	 
+	 &:hover {
+		 border-bottom:0px;
+		 background-color:@grafite;
+		 color: @white;
+	 }
+ }
+ 
+ 
+}
+
+
+
+
+			

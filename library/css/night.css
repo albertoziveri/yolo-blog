@@ -1,0 +1,192 @@
+/******************************************************************
+Site Name:  Tasc.it
+Author: Alberto Ziveri
+
+Stylesheet: NIGHT MODE EXCLUSIVE TASC STYLESHEET
+
+This style contains all the corrections applied to the night mode.
+Come funziona? Night.less non è alto che una copia di Base.less con solo gli stili riguardanti i colori. A loro volta i colori vengono presi da mixins, che ha una parte in fondo con tutti i colori della notte. wow.
+
+******************************************************************/
+/******************************************************************
+Site Name: 
+Author: 
+
+Stylesheet: Mixins & Constants Stylesheet
+
+This is where you can take advantage of LESS' great features: 
+Mixins & Constants. I won't go in-depth on how they work exactly,
+there are a few articles below that will help do that. What I will
+tell you is that this will help speed up simple changes like
+changing a color or adding CSS3 techniques like box shadow and
+border-radius.
+
+A WORD OF WARNING: It's very easy to overdo it here. Be careful and
+remember less is more. 
+
+******************************************************************/
+/*********************
+COLORS
+Need help w/ choosing your colors? Try this site out:
+http://0to255.com/
+*********************/
+/*********************
+TYPOGRAPHY
+proxima-nova - 400, 600, 700
+ Museo Sans: 300, 500, 700. 300 for text. 
+ Museo slab: 500
+*********************/
+/* 	To embed your own fonts, use this syntax
+	and place your fonts inside the 
+	library/fonts folder. For more information
+	on embedding fonts, go to:
+	http://www.fontsquirrel.com/
+	Be sure to remove the comment brackets.
+*/
+/*	@font-face {
+    	font-family: 'Font Name';
+    	src: url('../fonts/font-name.eot');
+    	src: url('../fonts/font-name.eot?#iefix') format('embedded-opentype'),
+             url('../fonts/font-name.woff') format('woff'),
+             url('../fonts/font-name.ttf') format('truetype'),
+             url('../fonts/font-name.svg#font-name') format('svg');
+    	font-weight: normal;
+    	font-style: normal;
+	}
+*/
+/*********************
+BORDER RADIUS
+*********************/
+/* .rounded(4px); */
+/* NOTE: For older browser support (and some mobile), don't use the shorthand to define *different* corners. */
+/* .rounded-left(4px); */
+/* .rounded-right(4px); */
+/* .rounded-bottom(4px); */
+/* .rounded-top(4px); */
+/*********************
+TRANISTION
+*********************/
+/* .transition(all,2s); */
+/*********************
+CSS3 GRADIENTS
+Be careful with these since they can 
+really slow down your CSS. Don't overdue it.
+*********************/
+/* .css-gradient(#dfdfdf,#f8f8f8); */
+/*********************
+BOX SIZING
+*********************/
+/* .boxSizing(border-box); */
+/* NOTE: value of "padding-box" is only supported in Gecko. So 
+probably best not to use it. I mean, were you going to anyway? */
+/*********************
+BOX SHADOW
+*********************/
+/* .boxShadow(0 0 4px #444); */
+/* .insetShadow(0 0 4px #444); */
+/*********************
+LINKS
+*********************/
+/********************
+BUTTONS
+********************/
+/******************************************************************
+Site Name: 
+Author: 
+
+Stylesheet: Mixins & Constants Stylesheet
+
+This is where you can take advantage of LESS' great features: 
+Mixins & Constants. I won't go in-depth on how they work exactly,
+there are a few articles below that will help do that. What I will
+tell you is that this will help speed up simple changes like
+changing a color or adding CSS3 techniques like box shadow and
+border-radius.
+
+A WORD OF WARNING: It's very easy to overdo it here. Be careful and
+remember less is more. 
+
+******************************************************************/
+/*********************
+COLORS
+Need help w/ choosing your colors? Try this site out:
+http://0to255.com/
+*********************/
+/*********************
+TYPOGRAPHY
+proxima-nova - 400, 600, 700
+ Museo Sans: 300, 500, 700. 300 for text. 
+ Museo slab: 500
+*********************/
+/* 	To embed your own fonts, use this syntax
+	and place your fonts inside the 
+	library/fonts folder. For more information
+	on embedding fonts, go to:
+	http://www.fontsquirrel.com/
+	Be sure to remove the comment brackets.
+*/
+/*	@font-face {
+    	font-family: 'Font Name';
+    	src: url('../fonts/font-name.eot');
+    	src: url('../fonts/font-name.eot?#iefix') format('embedded-opentype'),
+             url('../fonts/font-name.woff') format('woff'),
+             url('../fonts/font-name.ttf') format('truetype'),
+             url('../fonts/font-name.svg#font-name') format('svg');
+    	font-weight: normal;
+    	font-style: normal;
+	}
+*/
+/*********************
+BORDER RADIUS
+*********************/
+/* .rounded(4px); */
+/* NOTE: For older browser support (and some mobile), don't use the shorthand to define *different* corners. */
+/* .rounded-left(4px); */
+/* .rounded-right(4px); */
+/* .rounded-bottom(4px); */
+/* .rounded-top(4px); */
+/*********************
+TRANISTION
+*********************/
+/* .transition(all,2s); */
+/*********************
+CSS3 GRADIENTS
+Be careful with these since they can 
+really slow down your CSS. Don't overdue it.
+*********************/
+/* .css-gradient(#dfdfdf,#f8f8f8); */
+/*********************
+BOX SIZING
+*********************/
+/* .boxSizing(border-box); */
+/* NOTE: value of "padding-box" is only supported in Gecko. So 
+probably best not to use it. I mean, were you going to anyway? */
+/*********************
+BOX SHADOW
+*********************/
+/* .boxShadow(0 0 4px #444); */
+/* .insetShadow(0 0 4px #444); */
+/*********************
+LINKS
+*********************/
+/********************
+BUTTONS
+********************/
+/*********************
+GENERAL STYLES
+*********************/
+body {
+  color: #fafafa;
+  background-color: #212121;
+}
+.spr {
+  background-image: url('../images/sprnight2x.png');
+  background-size: 150px 50px;
+}
+/*
+INIZIO CORREZIONI MANUALI - LAVORO DA CERTOSINO - GLI ARTIGIANI DI TASC
+Tenere in ordine però ed eliminare correzioni non più necessarie
+*/
+header.header {
+  background-color: #2d2d2d;
+}

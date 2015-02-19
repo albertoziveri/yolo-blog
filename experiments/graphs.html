@@ -1,0 +1,183 @@
+<!doctype html>  
+
+<html>
+
+<head>
+<script src="http://code.jquery.com/jquery-1.9.1.js"></script>
+<script src="libs.js"></script>
+<style rel="stylesheet" type="text/css">
+
+#chart{
+	width:400px;
+	height:auto;
+	overflow:hidden;
+}
+#bar-container {
+	display:block;
+	height:400px;
+	width:400px;
+}
+
+ul {padding:0;}
+li {list-style-type:none;}
+
+#bars {position:relative;height:400px; z-index:2;}
+#bars li {width:45px;position:absolute; bottom:0;
+-webkit-transition-property: height;
+-webkit-transition-function: cubic-bezier(0.770, 0.000, 0.175, 1.000);
+-webkit-transform: translateZ(0);
+-webkit-transition-duration: .5s;
+-moz-transition-property: height;
+-moz-transition-function: cubic-bezier(0.770, 0.000, 0.175, 1.000);
+-moz-transition-duration: .5s;
+transition-property: height;
+transition-function: cubic-bezier(0.770, 0.000, 0.175, 1.000);
+transition-duration: .5s;	
+
+
+-webkit-transition-delay: 250ms;
+-moz-transition-delay: 250ms;
+transition-delay: 250ms;
+}
+#bars li .value {width:45px; height:100%; background-color:red; display:block; position:Absolute;}
+
+
+
+
+
+
+
+#lines-container {
+	display:block;
+	position:relative;
+	top:-400px;
+	height:400px;
+	overflow:hidden;
+	z-index:1;
+}
+
+.line {
+	height:60px;
+	border-bottom:1px solid #ebebeb;
+	width:100%;
+}
+
+
+#xdesc {
+	display:block;
+	width:100%;
+	margin-bottom:10px;
+}
+#ydesc {
+	width:20px;
+	float:left;
+	height:500px;
+}
+
+#ydesc span {
+	writing-mode: tb-rl;
+		text-align:center;
+-webkit-transform: rotate(90deg);	
+-moz-transform: rotate(90deg);
+-ms-transform: rotate(90deg);
+-o-transform: rotate(90deg);
+transform: rotate(90deg);
+}
+
+</style>
+</head>
+
+
+<body>
+
+<figure id="chart" class="relative right can-animate animate">
+	<div id="xdesc"><span>Velocità sito</span></div>
+	<div id="ydesc"><span>Secondi</span></div>
+	<div id="bar-container" data-scale="100">
+		<ul id="bars" role="list">
+			<li data-chart-value="100" id="bar-1"><span class="value"></span></li>
+			<li data-chart-value="50" id="bar-2"><span class="value"></span></li>
+			<li data-chart-value="30" id="bar-3"><span class="value"></span></li>
+			<li data-chart-value="20" id="bar-4"><span class="value"></span></li>
+			<li data-chart-value="10" id="bar-5"><span class="value"></span></li>
+		</ul>
+	</div>
+	
+	<div id="lines-container">
+		<div class="line"></div>
+		<div class="line"></div>
+		<div class="line"></div>
+		<div class="line"></div>
+		<div class="line"></div>
+		<div class="line"></div>
+		<div class="line"></div>
+	</div>
+</figure>
+						
+<script type="text/javascript">
+
+/*function createChart(color)
+{*/
+
+//GENERAL VARIABLES
+//PERCENTUAL CHART (each value is a percentage of the scale)
+	var numli = $("#bars li").length;
+	var counter = 0;
+	var width = $("#bar-container").width();
+	var scale = $("#bar-container").attr("data-scale");	
+	var color = "#5097d9";
+	var color2 = "#dedede"
+	
+	//The space available for margins!
+	var margin = (width - (numli*45))/(numli-1);
+	var totalvalues = 0;
+	
+	//Values
+	$( "#bars li" ).each(function( index ) {  
+	  var value = $(this).attr("data-chart-value");	
+	  totalvalues =  totalvalues + parseInt(value);
+	});	
+	
+	//Adjustments
+	$( "#bars li" ).each(function( index ) {  
+	  var value = $(this).attr("data-chart-value");	
+
+
+	  //Bar Colors
+	  var percentage =  parseInt(100-((value*100)/totalvalues));
+	  
+	  if (percentage > 80) {
+	  	var bgcolor = color2;
+	  } else {
+		  var bgcolor = $.xcolor.lighten(color,1,percentage);
+	  }
+	  
+	  $(".value",this).css("background-color",bgcolor);
+	  //document.write(percentage + ";     " + bgcolor + ";     " + color+ ";     ");
+	  
+	  
+	  
+	  //Correct margins
+	  var left = (index * 45) + (index * margin);
+	  $(this).css("left",left);
+	  
+	  //The right percentual height (value is a percentage and not a value)
+	//Get container height for percentual bars height
+	  var container_height = $("#bar-container").height();	  
+	  var bar_scale_perc = ((value * 100)/scale);
+	  var perc_height = ((bar_scale_perc * container_height)/100);
+	  $(this).css("height",perc_height);
+	});
+	
+	
+//}
+
+
+//createChart('#00000');
+
+
+</script>
+
+</body>
+
+</html>

@@ -1119,8 +1119,7 @@ ul.tasc-social li {
 ul.tasc-social li a,
 ul.tasc-social li a:visited {
   display: block;
-  padding: 5px;
-  color: #ffffff;
+  color: #7b7b7b;
   font-weight: 400;
   font-size: 13px;
   border-bottom: 0px;
@@ -1134,23 +1133,15 @@ ul.tasc-social li a:visited:hover {
 ul.tasc-social li a span.icon,
 ul.tasc-social li a:visited span.icon {
   float: left;
-  margin-right: 5px;
-  font-size: 21px;
+  margin-right: 20px;
+  font-size: 45px;
 }
-ul.tasc-social li a.facebook,
-ul.tasc-social li a:visited.facebook {
-  background-color: #107ad4;
-}
-ul.tasc-social li a.twitter,
-ul.tasc-social li a:visited.twitter {
-  background-color: #51cbf8;
-}
-ul.tasc-social li a.gplus,
-ul.tasc-social li a:visited.gplus {
-  background-color: #ec6f3e;
+ul.tasc-social li:last-child a span.icon,
+ul.tasc-social li:last-child a:visited span.icon {
+  margin-right: 0;
 }
 ul.tasc-social-small li {
-  margin-right: 10px;
+  margin-right: 0;
 }
 ul.tasc-social-small li a,
 ul.tasc-social-small li a:visited {
@@ -1160,8 +1151,9 @@ ul.tasc-social-small li a:visited {
 }
 ul.tasc-social-small li a span.icon,
 ul.tasc-social-small li a:visited span.icon {
-  font-size: 17px;
-  line-height: 13px;
+  font-size: 25px !important;
+  margin-left: 35px;
+  margin-right: 0 !important;
 }
 ul.tasc-social-small li:last-child {
   margin-right: 0;
@@ -1562,7 +1554,7 @@ article #share-box {
   overflow: hidden;
   border-bottom: 1px solid #f1f1f1;
   border-top: 1px solid #f1f1f1;
-  padding: 10px 0;
+  padding: 15px 0;
   margin-bottom: 1em;
 }
 article #share-box .share,
@@ -1572,36 +1564,35 @@ article #share-box .sponsor {
 }
 article #share-box .share {
   padding-bottom: 1em;
-  border-bottom: 1px solid #e7e7e7;
   overflow: hidden;
+  height: 81px;
 }
 article #share-box .share .share-count,
 article #share-box .share .share-it {
   float: left;
 }
 article #share-box .share .share-count {
-  width: 100%;
+  margin-right: 35px;
 }
 article #share-box .share .share-count .count {
-  font-size: 25px;
-  margin-bottom: 5px;
-  font-weight: 400;
+  font-size: 40px;
+  margin: 0 auto;
+  font-weight: 200;
+  display: block;
+  text-align: center;
 }
-article #share-box .share .shares-name {
-  font-size: 20px;
-  font-weight: 300;
+article #share-box .share .share-count .shares-name {
+  margin: 0 auto;
+  display: block;
+  font-weight: 700;
   color: #7b7b7b;
-  text-transform: lowercase;
+  text-transform: uppercase;
 }
 article #share-box .share .share-it {
-  width: 100%;
-}
-article #share-box .share .share-it .tasc-social {
-  margin-top: 10px;
+  margin-top: 18px;
 }
 article #share-box .share .share-it .tasc-social li {
   display: inline-block;
-  margin-right: 6px;
   float: left;
 }
 article #share-box .sponsor {
@@ -2853,37 +2844,35 @@ STILI PER ARTICLE generali validi sia per single sia per archivi.
     float: left;
   }
   article #share-box {
-    display: table;
     width: 100%;
   }
   article #share-box .share,
   article #share-box .sponsor {
-    display: table-cell;
-    vertical-align: top;
+    width: auto;
   }
   article #share-box .share {
-    display: table-cell;
-    padding-right: 4%;
-    width: 50%;
     padding-bottom: 0;
     border-bottom: 0;
-  }
-  article #share-box .share .share-count,
-  article #share-box .share .share-it {
     float: left;
+    -webkit-transform-style: preserve-3d;
+    -moz-transform-style: preserve-3d;
+    transform-style: preserve-3d;
   }
   article #share-box .share .share-count {
-    width: 100%;
-    float: none;
+    float: left;
+    margin-right: 53.5px;
   }
-  article #share-box .share .share-count .count {
-    margin-top: 10px;
+  article #share-box .share .share-it {
+    margin-top: 15.5px;
   }
   article #share-box .sponsor {
-    margin-top: 0;
-    padding-left: 2%;
-    width: 45%;
-    border-left: 1px solid #e7e7e7;
+    margin-top: 13px;
+    float: right;
+  }
+  article ul.tasc-social li a span.icon,
+  article ul.tasc-social li a:visited span.icon {
+    margin-right: 35px;
+    font-size: 50px;
   }
   /*********************
 ARTICLES ARCHIVES STYLE + footer per l'opinion

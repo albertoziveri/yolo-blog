@@ -5,19 +5,19 @@
 		    		<span class="shares-name">condivisioni</span>
 		    	</div>
 		    	<div class="share-it">
-		    		<ul class="tasc-social">
+		    		<ul class="tasc-social clearfix">
 		    			<?php $title = urlencode(get_the_title()); ?>
-		    			<li><a id="fbshare" class="facebook" onclick="javascript:fbshare('<?php urlencode(the_permalink());?>/','<?php echo $title; ?>')" href="javascript:return(0);"><span class="iconfont icon">a</span>Facebook</a></li>
+		    			<li><a id="fbshare" class="facebook" onclick="javascript:fbshare('<?php urlencode(the_permalink());?>/','<?php echo $title; ?>')" href="javascript:return(0);"><span class="iconfont icon">a</span></a></li>
 		    			
-		    			<li><a id="twittershare" class="twitter" onclick="javascript:twittershare('<?php urlencode(the_permalink()); ?>','<?php echo $title; ?>')" href="javascript:return(0);"  target="blank"><span class="iconfont icon">b</span>Twitter</a></li>
-		    			<li><a id="googleshare" class="gplus" onclick="javascript:googleshare('<?php the_permalink();?>','<?php echo $title; ?>')" href="javascript:return(0);" target="blank" ><span class="iconfont icon">k</span>Google</a></li>
+		    			<li><a id="twittershare" class="twitter" onclick="javascript:twittershare('<?php urlencode(the_permalink()); ?>','<?php echo $title; ?>')" href="javascript:return(0);"  target="blank"><span class="iconfont icon">b</span></a></li>
+		    			<li><a id="googleshare" class="gplus" onclick="javascript:googleshare('<?php the_permalink();?>','<?php echo $title; ?>')" href="javascript:return(0);" target="blank" ><span class="iconfont icon">k</span></a></li>
 		    		</ul>
 		    	</div>
 		    </div>
 		    
 		    <div class="sponsor">
 		    	<div class="advertisement">
-		    		<h3 class="smallone">Sponsored by</h3>
+		    		
 <script type="text/javascript"><!--
 google_ad_client = "ca-pub-2858043727445910";
 /* Tasc */

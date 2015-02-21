@@ -486,7 +486,6 @@ MIDDLE BAR
 /*********************
 LINK STYLES
 *********************/
-
 .classic_link();
 
 a.nohover,a.nohover:visited {
@@ -574,8 +573,7 @@ ul.tasc-social {
 		list-style-type:none;
 		a,a:visited {
 			display:block;
-			padding:5px;
-			color: @white;
+			color: @tascgray;
 			font-weight:400;
 			font-size:13px;
 			border-bottom:0px;
@@ -588,32 +586,31 @@ ul.tasc-social {
 			
 			span.icon {
 				float:left;
-				margin-right:5px;
-				font-size:21px;
+				margin-right:20px;
+				font-size:45px;
 			}
 			
-			&.facebook {
-				background-color: #107ad4;
-			}
-			&.twitter {
-				background-color: #51cbf8;
-			}
-			&.gplus {
-				background-color: #ec6f3e;
+			
+		}
+
+	}
+	li:last-child{
+		a,a:visited{
+			span.icon{
+				margin-right: 0;
 			}
 		}
 	}
-	
 }
 
 ul.tasc-social-small {
 	li{
-		margin-right:10px;
+		margin-right:0;
 		a,a:visited {
 			font-size:9px; 
 			text-transform:uppercase;
 			font-weight:700;
-			span.icon { font-size:17px;line-height: 13px;}
+			span.icon { font-size:25px; margin-left: 35px; margin-right: 0 !important;}
 		}
 		
 		&:last-child {
@@ -887,7 +884,7 @@ article {
 		overflow:hidden;
 		border-bottom:1px solid @tascpure;
 		border-top:1px solid @tascpure;
-		padding:10px 0;
+		padding:15px 0;
 		margin-bottom:1em;
 		
 		.share,.sponsor {
@@ -897,36 +894,36 @@ article {
 		
 		.share {
 			padding-bottom:1em;
-			border-bottom:1px solid @lightgray;
 			overflow: hidden;
+			height: 81px;
 						
 			.share-count,.share-it {
 				float:left;
 			}
 			
 			.share-count {
-				width:100%;
+				margin-right: 35px;
 				.count {
-					font-size:25px;
-					margin-bottom:5px;
-					font-weight:400;
+					font-size:40px;
+					margin: 0 auto;
+					font-weight:200;
+					display: block;
+					text-align: center;
+				}
+				.shares-name{
+					margin: 0 auto;
+					display: block;
+					font-weight: 700;
+					color: @tascgray;
+					text-transform: uppercase;
 				}
 			}
-			
-			.shares-name {
-				font-size:20px;
-				font-weight:300;
-				color: @tascgray;
-				text-transform:lowercase;
-			}
-			
+
 			.share-it {
-				width:100%;
+					margin-top: 18px;
 				.tasc-social {
-					margin-top:10px;
 					li {
 						display:inline-block;
-						margin-right:6px;
 						float:left;
 					}
 				}

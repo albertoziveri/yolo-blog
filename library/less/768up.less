@@ -202,49 +202,51 @@ article {
 	}
 	
 	#share-box {
-		display:table;
 		width: 100%;
 		
 		.share,.sponsor {
-			display:table-cell;
-			vertical-align:top;
+			width: auto;
 		}
 		
 		.share {
-			display:table-cell;
-			padding-right:4%;
-			width:50%;
 			padding-bottom:0;
 			border-bottom:0;
-			
-			.share-count,.share-it {
-				float:left;
-			}
+			float: left;
+			-webkit-transform-style: preserve-3d;
+			-moz-transform-style: preserve-3d;
+			transform-style: preserve-3d;
 			
 			.share-count {
-				width:100%;
-				float:none;
-				.count {
-					margin-top: 10px;
-				}
+				float:left;
+				margin-right: 53.5px;
 			}
 			
-			.share-it {
-				
+			.share-it{
+				margin-top: 15.5px;
 			}
-			
-			.shares-name {
-			}
-			
+
 		}
 		
 		.sponsor {
-			margin-top:0;
-			padding-left:2%;
-			width:45%;
-			border-left:1px solid @lightgray;
+			margin-top:13px;
+			float: right;
+			
 		}
 	}
+	
+	ul.tasc-social {
+	li {
+		a,a:visited {
+			
+			span.icon {
+				margin-right:35px;
+				font-size: 50px;
+			}
+		}
+	}
+	
+}
+
 	
 }
 	

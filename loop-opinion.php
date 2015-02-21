@@ -19,10 +19,10 @@
 			<div class="shareme">
 				<ul class="tasc-social tasc-social-small">
 	    			<?php $title = urlencode(get_the_title()); ?>
-	    			<li><a id="fbshare" class="facebook" onclick="javascript:fbshare('<?php the_permalink();?>','<?php echo $title; ?>')" href="javascript:return(0);"><span class="iconfont icon">a</span>Facebook</a></li>
+	    			<li><a id="fbshare" class="facebook" onclick="javascript:fbshare('<?php the_permalink();?>','<?php echo $title; ?>')" href="javascript:return(0);"><span class="iconfont icon">a</span></a></li>
 	    			
-	    			<li><a id="twittershare" class="twitter" onclick="javascript:twittershare('<?php the_permalink();?>','<?php echo $title; ?>')" href="javascript:return(0);"  target="blank"><span class="iconfont icon">b</span>Twitter</a></li>
-	    			<li><a id="googleshare" class="gplus" onclick="javascript:googleshare('<?php the_permalink();?>','<?php echo $title; ?>')" href="javascript:return(0);" target="blank" ><span class="iconfont icon">k</span>Google</a></li>
+	    			<li><a id="twittershare" class="twitter" onclick="javascript:twittershare('<?php the_permalink();?>','<?php echo $title; ?>')" href="javascript:return(0);"  target="blank"><span class="iconfont icon">b</span></a></li>
+	    			<li><a id="googleshare" class="gplus" onclick="javascript:googleshare('<?php the_permalink();?>','<?php echo $title; ?>')" href="javascript:return(0);" target="blank" ><span class="iconfont icon">k</span></a></li>
 	    		</ul>
 			</div>
 	    </footer> <!-- end article footer -->

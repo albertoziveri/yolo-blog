@@ -127,6 +127,40 @@ return $photosreturn;
 }
 add_shortcode('flickrset', 'flickrset_shortcode');
 
+
+
+
+// FLICKR PHOTO SET ORIGINALS!!
+function flickrsetoriginal_shortcode( $atts, $content = null ) {
+   extract( shortcode_atts( array(
+      'photoset' => '72157633041248513',
+      'class' => 'centro',
+      'escludi' => '',
+      ), $atts ) );
+
+require_once("flickr/phpFlickr.php");
+$f = new phpFlickr("15c79ea37d7fd4d8e69289520762793e","42e9ad049abb6186");
+//$f->setToken("72157651940887802-8f9cfc712bdc6ba5-92144422");
+$set = $f->photosets_getPhotos(esc_attr($photoset),'original_format');
+
+$exclude = esc_attr($escludi);
+$excludes = explode(',', $exclude);
+
+
+foreach ($set['photoset']['photo'] as $photo) {
+	if (in_array("$photo[id]", $excludes)) {
+	} else {
+	  $photosreturn .= "<a href=". $f->buildPhotoURL($photo, "original") . ">"."<img class=".esc_attr($class)." alt='$photo[title]' "." alt='$photo[title]' ".
+	            "src=" . $f->buildPhotoURL($photo, "original") . ">" . "</a>";
+	}
+}
+return $photosreturn;
+}
+add_shortcode('flickrsetoriginal', 'flickrsetoriginal_shortcode');
+
+
+
+
 // FLICKR PHOTO!!
 function flickrphoto_shortcode( $atts, $content = null ) {
    extract( shortcode_atts( array(

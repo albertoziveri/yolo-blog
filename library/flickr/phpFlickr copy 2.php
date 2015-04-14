@@ -17,6 +17,8 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  *
  */
+ 
+ 
 if ( !class_exists('phpFlickr') ) {
 	if (session_id() == "") {
 		@session_start();
@@ -41,7 +43,7 @@ if ( !class_exists('phpFlickr') ) {
 		var $last_request = null;
 		var $die_on_error;
 		var $error_code;
-		Var $error_msg;
+		var $error_msg;
 		var $token;
 		var $php_version;
 		var $custom_post = null, $custom_cache_get = null, $custom_cache_set = null;
@@ -225,6 +227,7 @@ if ( !class_exists('phpFlickr') ) {
 				curl_setopt($curl, CURLOPT_POST, true);
 				curl_setopt($curl, CURLOPT_POSTFIELDS, $data);
 				curl_setopt($curl, CURLOPT_RETURNTRANSFER, true);
+				 curl_setopt($curl, CURLOPT_SSL_VERIFYPEER, false);
 				$response = curl_exec($curl);
 				curl_close($curl);
 			} else {

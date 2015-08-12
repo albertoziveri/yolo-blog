@@ -37,7 +37,7 @@ LAYOUT & GRID STYLES
 	max-width:800px;
 }
 
-#content-container {}
+#content-container {margin-top:3em;}
 
 
 #content {
@@ -53,6 +53,50 @@ LAYOUT & GRID STYLES
 
 
 
+//Actually only home page
+.right-column {
+	article,.tasc-post {
+		margin:0 !important;
+	}
+	
+	.first-tile {
+		height:0;
+		padding-bottom: 72.60%; //empirico
+		margin-top:30px;
+		
+	}
+	.second-tile {
+		height:0;
+		padding-bottom: 66%; //1280/845 * 100
+	}
+	
+	
+	.quote {
+		font-weight: 300;
+		font-size:1.6em;
+		line-height: 150%;
+	}
+	.tile {
+		p {
+			bottom:0;
+		}
+		
+		article {
+			border-bottom: 0px !important;
+		}
+	}
+}
+
+
+.left-column {
+	width: 63%;
+	float:left;
+}
+
+.right-column {
+	width: 30%;
+	float:right;
+}
 	
 /*********************
 HEADER SYTLES
@@ -121,12 +165,6 @@ header.header {
 /*********************
 MIDDLE BAR
 *********************/
-#tasc-world.promotion {
-	padding-bottom:60.5%;
-	height:0;
-	display:inline-block;
-
-}
 #tasc-world {
 		
 	.border-line {
@@ -202,51 +240,49 @@ article {
 	}
 	
 	#share-box {
+		display:table;
 		width: 100%;
 		
 		.share,.sponsor {
-			width: auto;
+			display:table-cell;
+			vertical-align:top;
 		}
 		
 		.share {
+			display:table-cell;
+			padding-right:4%;
+			width:50%;
 			padding-bottom:0;
 			border-bottom:0;
-			float: left;
-			-webkit-transform-style: preserve-3d;
-			-moz-transform-style: preserve-3d;
-			transform-style: preserve-3d;
+			
+			.share-count,.share-it {
+				float:left;
+			}
 			
 			.share-count {
-				float:left;
-				margin-right: 53.5px;
+				width:100%;
+				float:none;
+				.count {
+					margin-top: 10px;
+				}
 			}
 			
-			.share-it{
-				margin-top: 15.5px;
+			.share-it {
+				
 			}
-
+			
+			.shares-name {
+			}
+			
 		}
 		
 		.sponsor {
-			margin-top:13px;
-			float: right;
-			
+			margin-top:0;
+			padding-left:2%;
+			width:45%;
+			border-left:1px solid @lightgray;
 		}
 	}
-	
-	ul.tasc-social {
-	li {
-		a,a:visited {
-			
-			span.icon {
-				margin-right:35px;
-				font-size: 50px;
-			}
-		}
-	}
-	
-}
-
 	
 }
 	
@@ -294,20 +330,6 @@ ARTICLES ARCHIVES STYLE + footer per l'opinion
 		}
 	}
 }
-
-.small-posts {
-	.tasc-post {
-		.title {
-			font-size:16.5px !important;
-		}
-		
-		a,a:visited {
-			max-height: 238px;
-		}
-	}
-	
-}
-
 
 
 
@@ -361,14 +383,7 @@ SIMPLEST SQUARE ARTICLE LIST - used for author page
 	text-align:center;
 	article {
 		width: 49.7%;
-		margin:0;
-		.tasc-post {
-			height: auto !important;
-		}
-		
-		.article-big-story {
-			width:100%;
-		}
+		margin:1em 0;
 	}
 }
 
@@ -427,17 +442,16 @@ article.main-post,article.side-post {
 	
 	.last-opinions {
 		width: 100%;
-		height: 50%;
+		height: 60%;
 		display: block;
 		position: absolute;
-		overflow: hidden;
 	}
 	
-	.second-story-right {
+	.promotion {
 		display: table-cell;
 		bottom: 0;
 		position: absolute;
-		height: 47%;
+		height: 40%;
 		bottom: 0;
 	}
 }
@@ -499,60 +513,6 @@ article.main-post,article.side-post {
 		}
 	}
 }
-		
-		
-//Actually only home page
-.right-column {
-	article,.tasc-post {
-		margin:0 !important;
-	}
-	
-	.first-tile {
-		height:0;
-		padding-bottom: 72.60%; //empirico
-		margin-top:30px !important;
-		
-	}
-	.second-tile {
-		height:0;
-		padding-bottom: 65.99%; //era 66%, 1280/845 * 100
-	}
-	
-	
-	.quote {
-		font-weight: 300;
-		font-size:1.3em;
-		line-height: 150%;
-		padding-bottom: 62%;
-		.gray_link();
-		p {
-			margin:4px 0;
-		}
-	}
-	.tile {
-		.boxSizing(border-box);
-		max-height:257px !important;
-		p {
-			bottom:0;
-		}
-		
-		article {
-			border-bottom: 0px !important;
-		}
-	}
-}
-
-
-.left-column {
-	width: 63%;
-	float:left;
-}
-
-.right-column {
-	width: 30%;
-	float:right;
-}
-		
 		
 
 /*********************

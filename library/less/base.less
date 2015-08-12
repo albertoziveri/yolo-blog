@@ -9,9 +9,8 @@ GENERAL STYLES
 *********************/
 html {
 	&.opened-nav {
-		overflow:hidden !important;
 		body {
-			overflow:hidden !important;
+			overflow:hidden;
 		}
 	}
 }
@@ -91,7 +90,6 @@ LAYOUT & GRID STYLES
 	display: block;
 	margin: 0 auto;
 	padding:0 10px;
-	.boxSizing();
 }
 
 .center-wrap {
@@ -114,27 +112,11 @@ LAYOUT & GRID STYLES
 	-webkit-backface-visibility: hidden;	
 	
 	min-height:100%;
-	#overlaycontainer {
-		position: absolute;
-		top:-30px;
-		height:105%;
-		width:100%;
-		z-index:99999;
-		overflow:hidden;
-		.transition(opacity,.3s);
-		margin-left:9999px;
-		opacity:0;
-	}
 }
 
 //container and header moving on opened nav
 .opened-nav #container,.opened-nav header.header,.opened-nav .footer {
 	.transform(translate3d(250px,0,0));
-}
-.opened-nav #container #overlaycontainer {
-	margin-left:0;
-	background-color: rgba(0, 0, 0, 0.36);
-	opacity:1;
 }
 
 #content-container {display:block;height:auto;margin-top:2em;}
@@ -203,7 +185,7 @@ header.header {
 			height:2px;
 			.transition(all,0.2s,linear);
 			transform-origin: 5px 0;
-			-webkit-transform-origin: 5px 0;
+			
 			-webkit-touch-callout: none !important;
 			-webkit-user-select: none !important;
 			-khtml-user-select: none !important;
@@ -223,7 +205,6 @@ header.header {
 				.transition(all,0.2s,linear);
 				-webkit-backface-visibility: hidden;
 				transform-origin: 13.5px -3.5px;	
-				 -webkit-transform-origin: 13.5px -3.5px;
 			}
 		}	
 		
@@ -262,10 +243,8 @@ header.header {
 	#hamburger {
 		p {
 			transform: rotate(45deg);
-			-webkit-transform: rotate(45deg);
 			&:before {
 			transform: rotate(90deg);
-			-webkit-transform: rotate(90deg);
 			}
 		}
 	}
@@ -279,9 +258,9 @@ LEFT NAVIGATION
 #site-nav {
 	position:absolute;
 	width:250px;
-	overflow-x: hidden;
-	overflow-y: auto;
+	overflow-x:hidden;
 	height:100%;
+	overflow:auto;
 	-webkit-transition: -webkit-transform .2s cubic-bezier(0.2,0.3,0.25,0.9);
 	-moz-transition: -moz-transform .2s cubic-bezier(0.2,0.3,0.25,0.9);
 	-o-transition: -o-transform .2s cubic-bezier(0.2,0.3,0.25,0.9);
@@ -290,7 +269,6 @@ LEFT NAVIGATION
 	-webkit-transform: translateZ(0);
 	-webkit-backface-visibility: hidden;	
 	.transform(translate3d(-250px,0,0));
-	-webkit-overflow-scrolling: touch;
 	
 	&.opened {
 		position:fixed;
@@ -410,7 +388,7 @@ LEFT NAVIGATION
 /*********************
 MIDDLE BAR
 *********************/
-#tasc-world { //Usato anche nel box Tasc Rank in homepage
+#tasc-world {
 	width:100%;
 	font-size:15px;
 	margin:0;
@@ -486,6 +464,7 @@ MIDDLE BAR
 /*********************
 LINK STYLES
 *********************/
+
 .classic_link();
 
 a.nohover,a.nohover:visited {
@@ -547,10 +526,6 @@ STILI GENERALI
 
 }
 
-small {
-	font-size:13px;
-}
-
 
 //Divisore, anziché controllare mille bordi
 hr {
@@ -573,7 +548,8 @@ ul.tasc-social {
 		list-style-type:none;
 		a,a:visited {
 			display:block;
-			color: @tascgray;
+			padding:5px;
+			color: @white;
 			font-weight:400;
 			font-size:13px;
 			border-bottom:0px;
@@ -586,31 +562,32 @@ ul.tasc-social {
 			
 			span.icon {
 				float:left;
-				margin-right:20px;
-				font-size:45px;
+				margin-right:5px;
+				font-size:21px;
 			}
 			
-			
-		}
-
-	}
-	li:last-child{
-		a,a:visited{
-			span.icon{
-				margin-right: 0;
+			&.facebook {
+				background-color: #107ad4;
+			}
+			&.twitter {
+				background-color: #51cbf8;
+			}
+			&.gplus {
+				background-color: #ec6f3e;
 			}
 		}
 	}
+	
 }
 
 ul.tasc-social-small {
 	li{
-		margin-right:0;
+		margin-right:10px;
 		a,a:visited {
 			font-size:9px; 
 			text-transform:uppercase;
 			font-weight:700;
-			span.icon { font-size:25px !important; margin-left: 35px; margin-right: 0 !important;}
+			span.icon { font-size:17px;line-height: 13px;}
 		}
 		
 		&:last-child {
@@ -788,12 +765,12 @@ all the posts & articles styles
 
 div.gradient {
 	position:absolute;
-	background: -moz-linear-gradient(top,  rgba(0,0,0,0) 0%, rgba(0,0,0,0.5) 87%, rgba(0,0,0,0.5) 100%); /* FF3.6+ */
-	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(0,0,0,0)), color-stop(87%,rgba(0,0,0,0.5)), color-stop(100%,rgba(0,0,0,0.5))); /* Chrome,Safari4+ */
-	background: -webkit-linear-gradient(top,  rgba(0,0,0,0) 0%,rgba(0,0,0,0.5) 87%,rgba(0,0,0,0.5) 100%); /* Chrome10+,Safari5.1+ */
-	background: -o-linear-gradient(top,  rgba(0,0,0,0) 0%,rgba(0,0,0,0.5) 87%,rgba(0,0,0,0.5) 100%); /* Opera 11.10+ */
-	background: -ms-linear-gradient(top,  rgba(0,0,0,0) 0%,rgba(0,0,0,0.5) 87%,rgba(0,0,0,0.5) 100%); /* IE10+ */
-	background: linear-gradient(to bottom,  rgba(0,0,0,0) 0%,rgba(0,0,0,0.5) 87%,rgba(0,0,0,0.5) 100%); /* W3C */
+	background: -moz-linear-gradient(top,  rgba(0,0,0,0) 0%, rgba(0,0,0,0.7) 87%, rgba(0,0,0,0.7) 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(0,0,0,0)), color-stop(87%,rgba(0,0,0,0.7)), color-stop(100%,rgba(0,0,0,0.7))); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  rgba(0,0,0,0) 0%,rgba(0,0,0,0.7) 87%,rgba(0,0,0,0.7) 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  rgba(0,0,0,0) 0%,rgba(0,0,0,0.7) 87%,rgba(0,0,0,0.7) 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  rgba(0,0,0,0) 0%,rgba(0,0,0,0.7) 87%,rgba(0,0,0,0.7) 100%); /* IE10+ */
+	background: linear-gradient(to bottom,  rgba(0,0,0,0) 0%,rgba(0,0,0,0.7) 87%,rgba(0,0,0,0.7) 100%); /* W3C */
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', endColorstr='#b3000000',GradientType=0 ); /* IE6-9 */
 	z-index:1;
 	top:0;
@@ -812,6 +789,7 @@ div.gradient {
 STILI PER ARTICLE generali validi sia per single sia per archivi.
 *********************/
 article {
+	border-bottom:2px solid @lightgray;
 	margin-bottom:4em;
 		
 	&.page {border-bottom:0px;}
@@ -830,8 +808,6 @@ article {
 		.cat {
 			.gray_link();
 			float:left;
-			width:45%;
-			text-align:left;
 			a, a:visited {
 				font-weight: 500;
 				text-transform: uppercase;
@@ -840,8 +816,6 @@ article {
 		
 		.time {
 			float:right;
-			text-align: right;
-			width: 45%;
 			span {
 				display:inline-block;
 				margin-right:6px;
@@ -884,7 +858,7 @@ article {
 		overflow:hidden;
 		border-bottom:1px solid @tascpure;
 		border-top:1px solid @tascpure;
-		padding:15px 0;
+		padding:10px 0;
 		margin-bottom:1em;
 		
 		.share,.sponsor {
@@ -894,38 +868,36 @@ article {
 		
 		.share {
 			padding-bottom:1em;
+			border-bottom:1px solid @lightgray;
 			overflow: hidden;
-			height: 81px;
 						
 			.share-count,.share-it {
 				float:left;
 			}
 			
 			.share-count {
-				margin-right: 35px;
-				line-height: 1.5;
+				width:100%;
 				.count {
-					font-size:40px;
-					margin: 0 auto;
-					font-weight:200;
-					display: block;
-					text-align: center;
-				}
-				.shares-name{
-					margin: 0 auto;
-					display: block;
-					font-weight: 700;
-					color: @tascgray;
-					text-transform: uppercase;
-					font-size: 14px;
+					font-size:25px;
+					margin-bottom:5px;
+					font-weight:400;
 				}
 			}
-
+			
+			.shares-name {
+				font-size:20px;
+				font-weight:300;
+				color: @tascgray;
+				text-transform:lowercase;
+			}
+			
 			.share-it {
-					margin-top: 18px;
+				width:100%;
 				.tasc-social {
+					margin-top:10px;
 					li {
 						display:inline-block;
+						margin-right:6px;
 						float:left;
 					}
 				}
@@ -968,13 +940,10 @@ ARTICLES ARCHIVES STYLE
 	position: relative;
 }
 #articles article.large, article.opinion {
-	position:relative;
-	border-bottom:2px solid @lightgray;
 	.tasc-post {
 		width: 100%;
 		margin:0;
-		height:100%;
-		
+		position:relative;
 		a {display:block;}
 			
 		img {
@@ -1022,6 +991,19 @@ ARTICLES ARCHIVES STYLE
 	overflow:hidden;
 } 
 
+
+.small-posts {
+	.tasc-post {
+		.title {
+			font-size:18px !important;
+		}
+		
+		a,a:visited {
+			max-height: 238px;
+		}
+	}
+	
+}
 
 /*********************
 POSTS IN SINGLE VIEW - STILI VALIDI SOLO PER L'ARTICOLO SINGOLO
@@ -1191,8 +1173,6 @@ MAIN STORIES - HOME
 	margin-top:2em;
 }
 
-
-
 #top-stories {
 	margin-bottom: 1em;
 	height:auto;
@@ -1266,26 +1246,10 @@ MAIN STORIES - HOME
 	}
 	
 	
-	/*.promotion {
+	.promotion {
 		padding:10px;
 		.tascrank {
 			width:100%;
-		}
-	}*/
-}
-
-.right-column {
-	
-	.quote {
-		background-color:@tascpure;
-		padding:10px;
-		
-	}
-	
-	.promotion {
-		padding:15px 10px;
-		.tascrank {
-			width:100% !important;
 		}
 	}
 }
@@ -1295,15 +1259,8 @@ MAIN STORIES - HOME
 
 /*********************
 LOOP BIGSTORY ARCHIVES AND HOME
-Tipi di Loop in Tasc:
--Loop Bigstory mostra solo la thumbnail con l'overlay, titolo e autore
--Loop archivi mostra la thumbnail con l'overlay, i bottoni share, il tempo di lettura e l'autore
--Loop opinion mostra le opinioni un po' come il loop archivi
--
-
-
 *********************/
-.big-story,.second-story,#related_stories,.sticky,#articles,.small-posts {
+.big-story,.second-story,#related_stories,.sticky,#articles {
 	 overflow:hidden;
 	 
 	.tasc-post {
@@ -1344,7 +1301,7 @@ Tipi di Loop in Tasc:
 	}
 
 	
-	.tasc-post a,.tasc-post a:visited {
+	a,a:visited {
 		color: #fff;
 		display:block;
 		&:hover {

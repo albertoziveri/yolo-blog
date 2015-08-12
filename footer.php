@@ -24,7 +24,6 @@
 			</div> <!-- end #inner-footer -->
 			
 		</footer> <!-- end footer -->
-		
 		<?php 
 		//Se non è mobile mostro il Facebook Like BOX dentro un modal, con jquery cookie che controlla ecc.
 		global $detect;
@@ -84,10 +83,34 @@
 			}
 			?>
 		<!-- END APPCACHE REFRESH -->
-		
-		
-		
-		
+        
+        <!-- FULL SCREEN IN POST IMAGES -->
+            <?php if ( is_single() ) {?>	
+	<script  type="text/javascript">	
+		jQuery(document).ready(function($) {
+		/*FULL SCREEN IMAGE*/
+$(function(){
+	var w = $(window).width();
+	var pW = $(".single .post").width();
+	var setMargin = (pW - w)/2;
+	$(".post-content img.full_screen_img").css("max-width", "none");
+	$(".post-content img.full_screen_img").css('width',w);
+	$(".post-content img.full_screen_img").css('margin-left',(setMargin) + "px");
+    $(window).resize(function(){
+		var w = $(window).width();
+		var pW = $(".single .post").width();
+		var setMargin = (pW - w)/2;
+		$(".post-content img.full_screen_img").css("max-width", "none");
+		$(".post-content img.full_screen_img").css('width',w);
+		$(".post-content img.full_screen_img").css('margin-left',(setMargin) + "px");
+    });
+});
+
+});
+    </script>
+            <?php } ?> 
+        <!-- END FULL SCREEN IN POST IMAGES -->
+            
 		<?php wp_footer(); // js scripts are inserted using this function ?>
 
 <script type='text/javascript'>var _merchantSettings=_merchantSettings || [];_merchantSettings.push(['AT', '11lK8x']);(function(){var autolink=document.createElement('script');autolink.type='text/javascript';autolink.async=true; autolink.src= ('https:' == document.location.protocol) ? 'https://autolinkmaker.itunes.apple.com/js/itunes_autolinkmaker.js' : 'http://autolinkmaker.itunes.apple.com/js/itunes_autolinkmaker.js';var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(autolink, s);})();</script>

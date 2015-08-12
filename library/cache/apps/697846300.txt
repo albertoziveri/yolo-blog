@@ -1,0 +1,19 @@
+
+<div class="review clearfix">
+	<div class="image"><img class="icon_rounded" src="http://a981.phobos.apple.com/us/r30/Purple5/v4/e0/6f/f3/e06ff350-f462-3bc3-5e43-753bfe1f7c16/mzl.wqedcrlw.png" alt="icona" /></div>
+	<div class="right-info">
+		<div class="header">
+			<h2 class="h2">App universale per iOs</h2><h1 class="h1">Reeder 2</h1><div class="download"><a href="https://itunes.apple.com/it/app/reeder-2/id697846300?mt=8&uo=4" class="tasc-button" target="_blank">Download</a></div>
+		</div>
+		<div class="content">
+			<div class="field price"><span class="icon"></span>4,99 €</div>
+			<div class="field cat"><span class="icon"></span>News</div>
+			<div class="field author"><span class="icon"></span><a href="http://reederapp.com">Silvio Rizzi</a></div>
+		</div>
+	</div>
+	<div class="screenshots">
+		<ul>
+			<li><img src="http://a5.mzstatic.com/eu/r30/Purple3/v4/29/8d/53/298d5324-1d2d-03f0-f83b-55bb9c358a1c/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple1/v4/13/62/6e/13626ec9-b1e8-9d01-6950-552ac97e4675/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple3/v4/5a/fc/dd/5afcdd2b-160a-eb5b-b4ba-6bcf107723fd/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple3/v4/2d/8a/f4/2d8af468-74b0-a453-96da-46441c2947da/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple5/v4/9f/5a/a4/9f5aa4c8-a543-dd8a-abb3-6ec4c20fb19b/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple5/v4/d9/fc/67/d9fc679e-6ace-0080-483e-ec66aa5bbe38/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple3/v4/46/da/30/46da30b7-19eb-314b-e001-a93662a19dc8/screen480x480.jpeg" alt="app screenshot" /></li>
+		</ul>
+	</div>
+</div>

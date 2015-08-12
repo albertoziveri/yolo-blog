@@ -1,0 +1,19 @@
+
+<div class="review clearfix">
+	<div class="image"><img class="icon_rounded" src="http://a1227.phobos.apple.com/us/r30/Purple3/v4/d8/1f/75/d81f751b-bad8-7081-435e-be2bf9caebd2/mzl.regpolqz.png" alt="icona" /></div>
+	<div class="right-info">
+		<div class="header">
+			<h2 class="h2">App universale per iOs</h2><h1 class="h1">Photo Collage Maker ∞</h1><div class="download"><a href="https://itunes.apple.com/it/app/photo-collage-maker/id531357950?mt=8&uo=4" class="tasc-button" target="_blank">Download</a></div>
+		</div>
+		<div class="content">
+			<div class="field price"><span class="icon"></span>Gratis</div>
+			<div class="field cat"><span class="icon"></span>Foto e video</div>
+			<div class="field author"><span class="icon"></span><a href="">Kai Xia</a></div>
+		</div>
+	</div>
+	<div class="screenshots">
+		<ul>
+			<li><img src="http://a3.mzstatic.com/eu/r30/Purple1/v4/8e/be/6d/8ebe6d00-ee68-952e-41cf-c86bd1e7c765/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple4/v4/df/93/01/df930111-d9c5-af30-38f4-85016c566317/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple3/v4/72/19/2d/72192de1-e19a-51e2-e5ba-cb1f56cfca0e/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple3/v4/04/bd/ed/04bded06-c630-47d7-62bb-d9d918c65b78/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple5/v4/64/25/00/642500e0-3265-f104-31c1-750d231c8daf/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple4/v4/93/37/db/9337db5e-d0fd-2593-842b-6b2e53f55f0d/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple5/v4/35/9c/f5/359cf56b-aa8e-faca-ac34-38453e93963a/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple5/v4/0a/9e/aa/0a9eaa6c-911a-a841-326e-7eba2f98837d/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple3/v4/4d/97/56/4d9756fd-b2f6-a782-4fd4-6f03edb1f880/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple4/v4/41/6b/9e/416b9e37-e480-61d9-cde0-150b5c8eb445/screen480x480.jpeg" alt="app screenshot" /></li>
+		</ul>
+	</div>
+</div>

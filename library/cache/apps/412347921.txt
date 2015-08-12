@@ -1,0 +1,19 @@
+
+<div class="review clearfix">
+	<div class="image"><img class="" src="http://a3.mzstatic.com/us/r30/Purple/v4/48/f9/26/48f9269e-3d88-a75d-4742-6d6868a3a451/OmmWriter.512x512-75.png" alt="icona" /></div>
+	<div class="right-info">
+		<div class="header">
+			<h2 class="h2">App per Mac</h2><h1 class="h1">OmmWriter Dāna II</h1><div class="download"><a href="https://itunes.apple.com/it/app/ommwriter-dana-ii/id412347921?mt=12&uo=4" class="tasc-button" target="_blank">Download</a></div>
+		</div>
+		<div class="content">
+			<div class="field price"><span class="icon"></span>5,99 €</div>
+			<div class="field cat"><span class="icon"></span>Produttività</div>
+			<div class="field author"><span class="icon"></span><a href="http://www.herraizsoto.com/">Herraiz Soto & Co.</a></div>
+		</div>
+	</div>
+	<div class="screenshots">
+		<ul>
+			<li><img src="http://a5.mzstatic.com/eu/r30/Purple/v4/01/74/cf/0174cfd7-0491-f2c5-2021-b8b29bdf4b0f/screen800x500.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple/v4/a8/1b/0a/a81b0ab9-7ec4-11a8-46b9-f98163a3fab4/screen800x500.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple/v4/d8/24/3c/d8243ca4-c9c6-fd82-01e8-cd1fc0e5b81f/screen800x500.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple/v4/00/1a/7d/001a7d16-bd6f-932b-9376-4fe91d0fc1e1/screen800x500.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple/v4/7a/47/b9/7a47b9de-630b-f7d8-825d-33aa011087be/screen800x500.jpeg" alt="app screenshot" /></li>
+		</ul>
+	</div>
+</div>

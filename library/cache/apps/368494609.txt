@@ -1,0 +1,19 @@
+
+<div class="review clearfix">
+	<div class="image"><img class="icon_rounded" src="http://a1224.phobos.apple.com/us/r30/Purple3/v4/46/a4/11/46a4114a-9078-9f8d-53d5-7e3de49f28e8/mzl.ignthfea.png" alt="icona" /></div>
+	<div class="right-info">
+		<div class="header">
+			<h2 class="h2">App per iPhone</h2><h1 class="h1">QR Reader for iPhone</h1><div class="download"><a href="https://itunes.apple.com/it/app/qr-reader-for-iphone/id368494609?mt=8&uo=4" class="tasc-button" target="_blank">Download</a></div>
+		</div>
+		<div class="content">
+			<div class="field price"><span class="icon"></span>Gratis</div>
+			<div class="field cat"><span class="icon"></span>Utility</div>
+			<div class="field author"><span class="icon"></span><a href="http://www.tapmedia.co.uk">TapMedia Ltd</a></div>
+		</div>
+	</div>
+	<div class="screenshots">
+		<ul>
+			<li><img src="http://a1.mzstatic.com/eu/r30/Purple6/v4/ec/4a/85/ec4a8503-b15a-4674-1422-99020bf7c513/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple/v4/72/8e/41/728e411c-9d73-9f29-f0ed-040a227b3461/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple4/v4/9f/7b/96/9f7b96bc-c552-a60f-fadf-03018ef4b524/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple/v4/43/02/a7/4302a7e2-a090-e367-7fc0-9b6197c1e074/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple/v4/dd/57/15/dd571528-e9b5-ad82-acd2-b6ddbe0a3978/screen1136x1136.jpeg" alt="app screenshot" /></li>
+		</ul>
+	</div>
+</div>

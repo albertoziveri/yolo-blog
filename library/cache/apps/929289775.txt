@@ -1,0 +1,19 @@
+
+<div class="review clearfix">
+	<div class="image"><img class="icon_rounded" src="http://a1720.phobos.apple.com/us/r30/Purple3/v4/60/9c/bc/609cbc6a-2a40-fe9b-91d2-f254353e70d2/pr_source.png?downloadKey=1422306919_1414026f6ff02e1255ce7c57755f14ee" alt="icona" /></div>
+	<div class="right-info">
+		<div class="header">
+			<h2 class="h2">App per iPhone</h2><h1 class="h1">Lexi</h1><div class="download"><a href="https://itunes.apple.com/it/app/lexi/id929289775?mt=8&uo=4" class="tasc-button" target="_blank">Download</a></div>
+		</div>
+		<div class="content">
+			<div class="field price"><span class="icon"></span>0,99 €</div>
+			<div class="field cat"><span class="icon"></span>Giochi</div>
+			<div class="field author"><span class="icon"></span><a href="http://getlexiapp.com">Andrea Fabbri</a></div>
+		</div>
+	</div>
+	<div class="screenshots">
+		<ul>
+			<li><img src="http://a1.mzstatic.com/eu/r30/Purple5/v4/d8/c5/99/d8c599b7-cda8-62b0-0614-7daff752d64d/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple1/v4/16/e6/55/16e6552d-c48b-bc6b-1a12-61498e22e77d/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple5/v4/aa/27/15/aa271553-d596-6c85-18d3-af54fb365d17/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple5/v4/b1/b7/4b/b1b74b56-3236-1dc0-d29a-1d286b0b07ab/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple3/v4/99/ab/53/99ab5395-36e6-d292-5a69-e4e569afb380/screen1136x1136.jpeg" alt="app screenshot" /></li>
+		</ul>
+	</div>
+</div>

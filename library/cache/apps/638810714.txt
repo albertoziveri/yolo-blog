@@ -1,0 +1,19 @@
+
+<div class="review clearfix">
+	<div class="image"><img class="icon_rounded" src="http://is1.mzstatic.com/image/pf/us/r30/Purple1/v4/15/ba/48/15ba48d6-a780-8527-b2a1-47c630787b93/mzl.vruxzawn.png" alt="icona" /></div>
+	<div class="right-info">
+		<div class="header">
+			<h2 class="h2">App universale per iOs</h2><h1 class="h1">focus@will</h1><div class="download"><a href="https://itunes.apple.com/it/app/focus-will/id638810714?mt=8&uo=4" class="tasc-button" target="_blank">Download</a></div>
+		</div>
+		<div class="content">
+			<div class="field price"><span class="icon"></span>Gratis</div>
+			<div class="field cat"><span class="icon"></span>Produttività</div>
+			<div class="field author"><span class="icon"></span><a href="https://www.focusatwill.com/wp/science/how-it-works/">Dulcetta</a></div>
+		</div>
+	</div>
+	<div class="screenshots">
+		<ul>
+			<li><img src="http://a1.mzstatic.com/eu/r30/Purple6/v4/f8/44/cb/f844cb09-4090-6bd9-839f-f3b767f1be8a/screen320x320.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple4/v4/3e/50/ea/3e50ea53-14fb-ca41-0b6f-90ddc5e73695/screen320x320.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple/v4/cc/fc/72/ccfc7211-567a-16b6-07a6-e926b168f9f0/screen320x320.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple/v4/cd/1b/f7/cd1bf703-fc3d-9652-9d86-1bcc90d59807/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple6/v4/01/ba/42/01ba4291-4dc1-0da4-a7e4-79ad0d795c7c/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple4/v4/69/f1/50/69f150e2-453e-f496-8b85-0eb2835bc766/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple4/v4/12/bb/58/12bb58ae-f1ff-1231-a89b-b9feb7becdc4/screen480x480.jpeg" alt="app screenshot" /></li>
+		</ul>
+	</div>
+</div>

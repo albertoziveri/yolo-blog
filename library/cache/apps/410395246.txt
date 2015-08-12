@@ -1,0 +1,19 @@
+
+<div class="review clearfix">
+	<div class="image"><img class="icon_rounded" src="http://a86.phobos.apple.com/us/r30/Purple3/v4/2f/a9/f0/2fa9f000-ad5c-1b32-9c43-df7f0ade3c24/mzl.dmvtsurg.png" alt="icona" /></div>
+	<div class="right-info">
+		<div class="header">
+			<h2 class="h2">App per iPhone</h2><h1 class="h1">Microsoft OneNote per iPhone</h1><div class="download"><a href="https://itunes.apple.com/it/app/microsoft-onenote-per-iphone/id410395246?mt=8&uo=4" class="tasc-button" target="_blank">Download</a></div>
+		</div>
+		<div class="content">
+			<div class="field price"><span class="icon"></span>Gratis</div>
+			<div class="field cat"><span class="icon"></span>Produttività</div>
+			<div class="field author"><span class="icon"></span><a href="http://www.OneNote.com">Microsoft Corporation</a></div>
+		</div>
+	</div>
+	<div class="screenshots">
+		<ul>
+			<li><img src="http://a5.mzstatic.com/eu/r30/Purple3/v4/34/a5/9c/34a59c77-61a4-9743-edf4-b46ad47a29d7/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple3/v4/62/05/6e/62056ee8-f197-0ef9-aa42-238b55503194/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple3/v4/ec/c3/17/ecc3176d-9c04-d1c3-94d1-353ccdff5771/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple1/v4/0a/9c/e4/0a9ce4b4-04e9-9641-e443-e9291f3771ad/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple3/v4/5b/3e/cf/5b3ecf2e-9cab-b346-be2d-e8ba43e30102/screen1136x1136.jpeg" alt="app screenshot" /></li>
+		</ul>
+	</div>
+</div>

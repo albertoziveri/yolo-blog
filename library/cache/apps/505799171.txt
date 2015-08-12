@@ -1,0 +1,19 @@
+
+<div class="review clearfix">
+	<div class="image"><img class="icon_rounded" src="http://a913.phobos.apple.com/us/r30/Purple3/v4/2e/db/59/2edb59f0-a2e6-4e92-bbf9-1b11a63103f3/mzl.oyizbrce.png" alt="icona" /></div>
+	<div class="right-info">
+		<div class="header">
+			<h2 class="h2">App universale per iOs</h2><h1 class="h1">Task</h1><div class="download"><a href="https://itunes.apple.com/it/app/task/id505799171?mt=8&uo=4" class="tasc-button" target="_blank">Download</a></div>
+		</div>
+		<div class="content">
+			<div class="field price"><span class="icon"></span>0,99 €</div>
+			<div class="field cat"><span class="icon"></span>Produttività</div>
+			<div class="field author"><span class="icon"></span><a href="http://www.1button.co/task">1Button SARL</a></div>
+		</div>
+	</div>
+	<div class="screenshots">
+		<ul>
+			<li><img src="http://a1.mzstatic.com/eu/r30/Purple1/v4/fb/ef/70/fbef708e-a234-ede8-7af7-a49c285a15c2/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple5/v4/1f/8b/27/1f8b272a-6a97-f413-86f9-e3cf24f7c63d/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple5/v4/7a/70/85/7a708532-076c-15cd-560f-edc568fd0c7a/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple3/v4/53/d2/ca/53d2cad5-c283-bffc-e196-2c94bbc62136/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple5/v4/8c/bf/21/8cbf2196-5392-6cdb-55da-b4d3467ec280/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple5/v4/f5/0a/35/f50a35f0-3866-67c2-261b-8023d76c07cc/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple5/v4/0e/b0/a4/0eb0a488-0f2f-0b19-3d54-65196359eee4/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple3/v4/41/67/c3/4167c379-7c54-afbd-2622-381f9feff593/screen480x480.jpeg" alt="app screenshot" /></li>
+		</ul>
+	</div>
+</div>

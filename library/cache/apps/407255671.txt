@@ -1,0 +1,19 @@
+
+<div class="review clearfix">
+	<div class="image"><img class="icon_rounded" src="http://a1374.phobos.apple.com/us/r30/Purple3/v4/8f/6a/23/8f6a23ed-8277-0f93-ed21-b2b5776d5d03/mzl.dqlkjjnm.png" alt="icona" /></div>
+	<div class="right-info">
+		<div class="header">
+			<h2 class="h2">App per iPad</h2><h1 class="h1">Can Knockdown</h1><div class="download"><a href="https://itunes.apple.com/it/app/can-knockdown/id407255671?mt=8&uo=4" class="tasc-button" target="_blank">Download</a></div>
+		</div>
+		<div class="content">
+			<div class="field price"><span class="icon"></span>Gratis</div>
+			<div class="field cat"><span class="icon"></span>Giochi</div>
+			<div class="field author"><span class="icon"></span><a href="http://www.idreams.pl">Infinite Dreams Inc.</a></div>
+		</div>
+	</div>
+	<div class="screenshots">
+		<ul>
+			<li><img src="http://a2.mzstatic.com/eu/r30/Purple/v4/29/fd/9b/29fd9b53-a1c5-d5d8-53f4-15a806fa0c57/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple/v4/43/72/e4/4372e464-caa8-387d-aa71-37fe74ed7955/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple/v4/d1/87/c9/d187c975-801f-38a0-1f38-9bb7c0366ed5/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple/v4/da/f2/78/daf27826-e3dc-e9bd-52cd-db15e5a6e211/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple/v4/06/0f/f9/060ff919-9a0a-9683-2133-9f9808326ab8/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple/v4/82/79/58/82795814-a198-a321-a23d-78e22c86a248/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple/v4/ec/2f/54/ec2f545e-c0fc-7c8f-0ef1-feb65fe4c70b/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple/v4/bb/ad/1f/bbad1f71-a2b2-0016-aa2e-e6fb435e7e81/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple/v4/6b/fb/a5/6bfba53f-9179-e49f-5e2e-c23af1ded51f/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple/v4/0b/37/83/0b3783cd-d55a-35d2-f479-98abc8ee5008/screen480x480.jpeg" alt="app screenshot" /></li>
+		</ul>
+	</div>
+</div>

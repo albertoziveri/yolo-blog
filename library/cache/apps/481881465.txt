@@ -1,0 +1,19 @@
+
+<div class="review clearfix">
+	<div class="image"><img class="icon_rounded" src="http://is4.mzstatic.com/image/pf/us/r30/Purple3/v4/30/93/e2/3093e25b-3bd6-5ab0-a5c5-b05a01fa6bc0/mzl.jnzmxcpu.png" alt="icona" /></div>
+	<div class="right-info">
+		<div class="header">
+			<h2 class="h2">App per iPhone</h2><h1 class="h1">EasilyDo Assistant for Email, Contacts, Calendar, Travel and Salesforce</h1><div class="download"><a href="https://itunes.apple.com/it/app/easilydo-assistant-for-email/id481881465?mt=8&uo=4" class="tasc-button" target="_blank">Download</a></div>
+		</div>
+		<div class="content">
+			<div class="field price"><span class="icon"></span>Gratis</div>
+			<div class="field cat"><span class="icon"></span>Produttività</div>
+			<div class="field author"><span class="icon"></span><a href="http://www.easilydo.com">Easilydo Inc.</a></div>
+		</div>
+	</div>
+	<div class="screenshots">
+		<ul>
+			<li><img src="http://a3.mzstatic.com/eu/r30/Purple5/v4/09/86/14/098614e5-7596-655b-dc04-8a0190175e58/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple5/v4/83/ab/06/83ab06a8-cc9e-a07e-4c2a-0cebe4b4603a/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple1/v4/fd/f8/8e/fdf88eba-a39d-665b-6ff3-3850ed41aa79/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple5/v4/62/8a/59/628a59ab-621f-baa1-2899-d58c5276c0e6/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple5/v4/f7/b4/d8/f7b4d82c-f8b4-c633-df81-aa1977a03979/screen1136x1136.jpeg" alt="app screenshot" /></li>
+		</ul>
+	</div>
+</div>

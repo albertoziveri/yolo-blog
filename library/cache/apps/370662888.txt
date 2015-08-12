@@ -1,0 +1,19 @@
+
+<div class="review clearfix">
+	<div class="image"><img class="icon_rounded" src="http://is3.mzstatic.com/image/pf/us/r30/Purple3/v4/c4/47/a1/c447a1b1-0147-cb71-31cb-a55ad6543f6c/mzl.pqrcbtjb.jpg" alt="icona" /></div>
+	<div class="right-info">
+		<div class="header">
+			<h2 class="h2">App universale per iOs</h2><h1 class="h1">Expense Reports, Receipts, Invoices & Business Expenses with ABUKAI</h1><div class="download"><a href="https://itunes.apple.com/it/app/expense-reports-receipts-invoices/id370662888?mt=8&uo=4" class="tasc-button" target="_blank">Download</a></div>
+		</div>
+		<div class="content">
+			<div class="field price"><span class="icon"></span>Gratis</div>
+			<div class="field cat"><span class="icon"></span>Finanza</div>
+			<div class="field author"><span class="icon"></span><a href="http://abukai.com">Abukai, Inc.</a></div>
+		</div>
+	</div>
+	<div class="screenshots">
+		<ul>
+			<li><img src="http://a4.mzstatic.com/eu/r30/Purple4/v4/82/87/62/8287628d-81d3-c719-0889-cb7f202f1a92/screen322x572.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple4/v4/8b/2f/70/8b2f70c0-5e17-1db3-4f6e-dff1b95d032b/screen322x572.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple6/v4/f0/29/02/f0290289-e8b7-ad23-5332-fbdc928c67bc/screen322x572.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple/v4/16/72/bf/1672bfa1-6b7b-efa3-f267-3cfbad20d8e1/screen322x572.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple/v4/5f/f2/2a/5ff22ae8-f73f-0525-4fb0-8d5c7b431272/screen322x572.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple6/v4/34/42/fa/3442fa93-c5bd-216a-b44b-410c9f28446f/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple/v4/4b/34/cf/4b34cffb-4274-6454-9759-97b8d1b01213/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple/v4/b9/2a/64/b92a6466-e49c-983e-6b32-dac07ce62c59/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple/v4/2a/56/95/2a569584-4a16-9cc7-90e3-da0383cb9a71/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple4/v4/74/6f/42/746f4297-754c-a981-ced2-568e674a4268/screen480x480.jpeg" alt="app screenshot" /></li>
+		</ul>
+	</div>
+</div>

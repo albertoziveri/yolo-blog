@@ -1,0 +1,19 @@
+
+<div class="review clearfix">
+	<div class="image"><img class="icon_rounded" src="http://a1311.phobos.apple.com/us/r30/Purple3/v4/77/98/64/77986414-a6e6-77e8-5d9e-3dd8234443c5/mzl.edvivkut.png" alt="icona" /></div>
+	<div class="right-info">
+		<div class="header">
+			<h2 class="h2">App universale per iOs</h2><h1 class="h1">Math 42</h1><div class="download"><a href="https://itunes.apple.com/it/app/math-42/id664457128?mt=8&uo=4" class="tasc-button" target="_blank">Download</a></div>
+		</div>
+		<div class="content">
+			<div class="field price"><span class="icon"></span>Gratis</div>
+			<div class="field cat"><span class="icon"></span>Istruzione</div>
+			<div class="field author"><span class="icon"></span><a href="http://math-42.com/">Cogeon GmbH</a></div>
+		</div>
+	</div>
+	<div class="screenshots">
+		<ul>
+			<li><img src="http://a3.mzstatic.com/eu/r30/Purple/v4/c2/cf/57/c2cf57f2-315b-e3c7-bb9d-542e361d14e0/screen322x572.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple/v4/e3/d3/df/e3d3dfca-da21-d2fc-a88d-591182f13b2d/screen322x572.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple/v4/d3/ef/b4/d3efb4f7-6f25-4e22-1fd3-becc98717115/screen322x572.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple/v4/d1/04/a0/d104a08a-fb1f-9c2a-5f86-8612d5a5d6e7/screen322x572.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple/v4/f7/72/ec/f772ec2a-1c93-a929-dbd0-22d9dedec314/screen322x572.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple/v4/ee/7e/c0/ee7ec023-ce49-8511-b4f0-39d204d5820b/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple/v4/d9/b1/75/d9b175a5-0954-534c-4a87-fc63274ebd27/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple/v4/eb/cc/e0/ebcce0f4-ab4f-a974-a6e7-20c430abdfe4/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple/v4/df/91/d3/df91d3e4-a13a-3c23-f949-9a98974f3f56/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple/v4/ce/e0/1b/cee01b8e-9b82-5520-9328-c9daed911520/screen480x480.jpeg" alt="app screenshot" /></li>
+		</ul>
+	</div>
+</div>

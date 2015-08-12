@@ -1,0 +1,19 @@
+
+<div class="review clearfix">
+	<div class="image"><img class="icon_rounded" src="http://a1804.phobos.apple.com/us/r30/Purple1/v4/9c/7f/fc/9c7ffcae-53a0-5b6a-ac30-a31e7bce0139/mzl.npzdevtr.jpg" alt="icona" /></div>
+	<div class="right-info">
+		<div class="header">
+			<h2 class="h2">App universale per iOs</h2><h1 class="h1">Feedly. Your RSS news reader.</h1><div class="download"><a href="https://itunes.apple.com/it/app/feedly.-your-rss-news-reader./id396069556?mt=8&uo=4" class="tasc-button" target="_blank">Download</a></div>
+		</div>
+		<div class="content">
+			<div class="field price"><span class="icon"></span>Gratis</div>
+			<div class="field cat"><span class="icon"></span>News</div>
+			<div class="field author"><span class="icon"></span><a href="http://feedly.com/">DevHD</a></div>
+		</div>
+	</div>
+	<div class="screenshots">
+		<ul>
+			<li><img src="http://a1.mzstatic.com/eu/r30/Purple3/v4/35/c3/3d/35c33d0f-fb77-0766-4c9f-c28d3e5fa6cb/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple3/v4/bb/6a/0b/bb6a0bd3-8de0-0be1-d034-b7f3b676f8f7/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple1/v4/fa/80/db/fa80dbbe-4478-67c7-66a8-3302f06aae31/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple5/v4/fe/7d/83/fe7d837b-9e95-ce6a-4644-6616935b75af/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple5/v4/02/26/ad/0226ad21-97e5-9e82-6dc0-5cbbf366edda/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple1/v4/82/cf/d5/82cfd563-10d8-75ce-0967-1047b12852a6/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple1/v4/b2/83/ce/b283ce23-654a-93fe-d48e-6777a719b634/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple1/v4/22/8f/f5/228ff540-c6c0-927d-96dd-30bea095f231/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple3/v4/07/08/b6/0708b6c2-9a93-a4d1-402d-b0673cdef844/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple3/v4/ba/d0/b0/bad0b05c-b887-8a25-0b2b-8d6b60fb9303/screen480x480.jpeg" alt="app screenshot" /></li>
+		</ul>
+	</div>
+</div>

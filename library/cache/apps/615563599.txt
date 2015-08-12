@@ -1,0 +1,19 @@
+
+<div class="review clearfix">
+	<div class="image"><img class="icon_rounded" src="http://is2.mzstatic.com/image/pf/us/r30/Purple7/v4/39/66/cb/3966cbdd-a037-8067-3d5b-02a5310fc1ac/mzl.gfilyzqv.jpg" alt="icona" /></div>
+	<div class="right-info">
+		<div class="header">
+			<h2 class="h2">App universale per iOs</h2><h1 class="h1">Videoshop - Editor video</h1><div class="download"><a href="https://itunes.apple.com/it/app/videoshop-editor-video/id615563599?mt=8&uo=4" class="tasc-button" target="_blank">Download</a></div>
+		</div>
+		<div class="content">
+			<div class="field price"><span class="icon"></span>1,99 €</div>
+			<div class="field cat"><span class="icon"></span>Foto e video</div>
+			<div class="field author"><span class="icon"></span><a href="http://videoshop.net/contact">Joseph Riquelme</a></div>
+		</div>
+	</div>
+	<div class="screenshots">
+		<ul>
+			<li><img src="http://a5.mzstatic.com/eu/r30/Purple3/v4/14/4f/d6/144fd6e0-2125-d95c-cf16-79400ccc5da0/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple1/v4/90/87/b7/9087b724-9281-ba6c-f6ff-09a47ed7c137/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple3/v4/87/05/f2/8705f253-6699-617d-92e7-a98a6d4c697c/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple3/v4/da/44/9f/da449f1f-2e7c-223f-61ab-eb2c7f87848a/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple3/v4/d5/06/f7/d506f78b-9aff-d868-83bc-2019332a07da/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple5/v4/3c/25/78/3c2578df-3e24-3274-c364-17c8a3b0732d/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple5/v4/71/a1/95/71a19544-b5fe-85b7-b8c1-ec9dcd4d81cb/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple3/v4/b8/7d/ac/b87dacde-f401-94c8-cfed-76f22db6188f/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple1/v4/09/a2/55/09a2558e-6546-4239-5304-c17737916f91/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple3/v4/d2/54/50/d25450ab-0f7d-817a-5370-84b4d77fc52f/screen480x480.jpeg" alt="app screenshot" /></li>
+		</ul>
+	</div>
+</div>

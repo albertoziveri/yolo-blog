@@ -1,0 +1,19 @@
+
+<div class="review clearfix">
+	<div class="image"><img class="icon_rounded" src="http://a875.phobos.apple.com/us/r30/Purple3/v4/bd/fa/67/bdfa679c-82fe-0076-ef31-dcb04da5ccb5/mzl.vhvxmqql.png" alt="icona" /></div>
+	<div class="right-info">
+		<div class="header">
+			<h2 class="h2">App universale per iOs</h2><h1 class="h1">Amount - Convertitore di unità e valute</h1><div class="download"><a href="https://itunes.apple.com/it/app/amount-convertitore-di-unita/id560750783?mt=8&uo=4" class="tasc-button" target="_blank">Download</a></div>
+		</div>
+		<div class="content">
+			<div class="field price"><span class="icon"></span>0,99 €</div>
+			<div class="field cat"><span class="icon"></span>Produttività</div>
+			<div class="field author"><span class="icon"></span><a href="">Marco Torretta</a></div>
+		</div>
+	</div>
+	<div class="screenshots">
+		<ul>
+			<li><img src="http://a5.mzstatic.com/eu/r30/Purple5/v4/94/91/5f/94915fe9-ec5a-983a-85ce-ad62a6c022dd/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple3/v4/d3/89/53/d3895392-606b-45d6-250a-cca65bb45b82/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple1/v4/c3/78/54/c3785400-ca5f-4e0a-a1d6-dbcb72d7c5ee/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple3/v4/95/37/28/953728e8-40bd-d9c2-7237-41acaa838d62/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple3/v4/23/7b/74/237b747e-5d1a-be9f-4754-95e297822e8f/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple5/v4/78/b1/b1/78b1b16b-0d4d-a766-d642-52470627bf48/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple3/v4/60/36/e4/6036e4f4-758d-9fee-dbff-8c2aac96be19/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple1/v4/fa/2e/6e/fa2e6e7e-0ec3-673b-ed3f-2681c9353d36/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple3/v4/a1/aa/6e/a1aa6e2a-1d9a-5ccc-0fe4-19175f191cd0/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple5/v4/78/0b/4a/780b4add-07e5-29b3-942e-0a63f4780f16/screen480x480.jpeg" alt="app screenshot" /></li>
+		</ul>
+	</div>
+</div>

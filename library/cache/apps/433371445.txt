@@ -1,0 +1,19 @@
+
+<div class="review clearfix">
+	<div class="image"><img class="" src="http://a5.mzstatic.com/us/r30/Purple3/v4/4f/c3/e4/4fc3e40e-0f74-15d4-aa22-b80b95d9863d/CollageCreator.512x512-75.png" alt="icona" /></div>
+	<div class="right-info">
+		<div class="header">
+			<h2 class="h2">App per Mac</h2><h1 class="h1">TurboCollage - Collage Creator</h1><div class="download"><a href="https://itunes.apple.com/it/app/turbocollage-collage-creator/id433371445?mt=12&uo=4" class="tasc-button" target="_blank">Download</a></div>
+		</div>
+		<div class="content">
+			<div class="field price"><span class="icon"></span>4,99 €</div>
+			<div class="field cat"><span class="icon"></span>Fotografia</div>
+			<div class="field author"><span class="icon"></span><a href="http://www.turbocollage.com">SilkenMermaid</a></div>
+		</div>
+	</div>
+	<div class="screenshots">
+		<ul>
+			<li><img src="http://a4.mzstatic.com/eu/r30/Purple3/v4/03/c6/8c/03c68cc8-c8d0-d4e5-4cad-b0c959001bc6/screen800x500.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple1/v4/4c/87/43/4c8743cc-db7f-056a-912d-e40efc53939c/screen800x500.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple1/v4/a3/d2/9c/a3d29c4b-c7d9-216a-46c9-6d4b7a92e0d2/screen800x500.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple3/v4/3f/b7/d9/3fb7d9d2-c1fa-289d-c14d-1e58dfbc4ae0/screen800x500.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple3/v4/60/66/06/606606ee-1dc8-6d09-434d-dc7fa1898b9b/screen800x500.jpeg" alt="app screenshot" /></li>
+		</ul>
+	</div>
+</div>

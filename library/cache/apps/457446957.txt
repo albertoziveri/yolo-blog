@@ -1,0 +1,19 @@
+
+<div class="review clearfix">
+	<div class="image"><img class="icon_rounded" src="http://a211.phobos.apple.com/us/r30/Purple1/v4/1a/f6/62/1af66276-2615-d4e6-9afa-1cd9505e613b/mzl.fyhqdkbr.png" alt="icona" /></div>
+	<div class="right-info">
+		<div class="header">
+			<h2 class="h2">App per iPad</h2><h1 class="h1">Jetpack Joyride</h1><div class="download"><a href="https://itunes.apple.com/it/app/jetpack-joyride/id457446957?mt=8&uo=4" class="tasc-button" target="_blank">Download</a></div>
+		</div>
+		<div class="content">
+			<div class="field price"><span class="icon"></span>Gratis</div>
+			<div class="field cat"><span class="icon"></span>Giochi</div>
+			<div class="field author"><span class="icon"></span><a href="http://www.halfbrick.com/our-games/jetpack-joyride/">Halfbrick Studios</a></div>
+		</div>
+	</div>
+	<div class="screenshots">
+		<ul>
+			<li><img src="http://a4.mzstatic.com/eu/r30/Purple4/v4/0d/53/17/0d531736-ed3b-e1c5-4921-bae1b3273559/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple1/v4/e9/52/5c/e9525c8f-3489-e284-1c54-e0f5b6f3cb9b/screen320x320.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple4/v4/47/5e/ac/475eacc3-7953-44c8-cc1d-4ef1de6f3208/screen320x320.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple4/v4/e1/91/02/e19102a1-3dce-bf27-d2d2-87101f08fca5/screen320x320.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple4/v4/51/2f/62/512f623f-f164-a551-6e28-e2856f1c2395/screen320x320.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple5/v4/da/3a/94/da3a94ba-4481-1464-511f-40e662cd186a/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple4/v4/11/69/7d/11697d0a-ae3a-566d-3616-c730ba5c1d0c/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple3/v4/cb/a7/06/cba70669-c879-e443-49de-93bcfea56d21/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple1/v4/95/3f/3a/953f3a68-8831-0a6a-75db-c439be859593/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple4/v4/16/f2/f0/16f2f0e2-a05c-9f3f-f2da-241628f2c0b2/screen480x480.jpeg" alt="app screenshot" /></li>
+		</ul>
+	</div>
+</div>

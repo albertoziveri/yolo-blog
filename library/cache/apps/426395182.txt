@@ -1,0 +1,19 @@
+
+<div class="review clearfix">
+	<div class="image"><img class="icon_rounded" src="http://a574.phobos.apple.com/us/r30/Purple2/v4/58/aa/85/58aa8587-9bca-9b12-f239-12aad08fecca/mzl.ctdjhmip.png" alt="icona" /></div>
+	<div class="right-info">
+		<div class="header">
+			<h2 class="h2">App per iPhone</h2><h1 class="h1">Studenti.it Appunti</h1><div class="download"><a href="https://itunes.apple.com/it/app/studenti.it-appunti/id426395182?mt=8&uo=4" class="tasc-button" target="_blank">Download</a></div>
+		</div>
+		<div class="content">
+			<div class="field price"><span class="icon"></span>Gratis</div>
+			<div class="field cat"><span class="icon"></span>Istruzione</div>
+			<div class="field author"><span class="icon"></span><a href="http://mobile.banzai.it/showcase/appunti/it/">Banzai</a></div>
+		</div>
+	</div>
+	<div class="screenshots">
+		<ul>
+			<li><img src="http://a4.mzstatic.com/eu/r30/Purple2/v4/9e/fd/8b/9efd8b35-d488-3bc8-0311-1cfc4f3aa19a/screen568x568.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple/v4/ff/4b/f9/ff4bf9d2-17ff-c3f3-1a6d-8b3d0dfc7ef5/screen568x568.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple/v4/ef/8a/46/ef8a46df-8401-2532-3868-01b7c0b10ee0/screen568x568.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple/v4/d7/61/98/d7619870-50a8-08b2-6fec-194b0afb7162/screen568x568.jpeg" alt="app screenshot" /></li>
+		</ul>
+	</div>
+</div>

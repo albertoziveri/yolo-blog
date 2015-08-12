@@ -1,0 +1,19 @@
+
+<div class="review clearfix">
+	<div class="image"><img class="icon_rounded" src="http://a1900.phobos.apple.com/us/r30/Purple3/v4/fd/ed/a0/fdeda082-83f9-f77f-8d29-871d3ac8f653/mzl.alejwlhv.png" alt="icona" /></div>
+	<div class="right-info">
+		<div class="header">
+			<h2 class="h2">App universale per iOs</h2><h1 class="h1">AroundMe</h1><div class="download"><a href="https://itunes.apple.com/it/app/aroundme/id290051590?mt=8&uo=4" class="tasc-button" target="_blank">Download</a></div>
+		</div>
+		<div class="content">
+			<div class="field price"><span class="icon"></span>Gratis</div>
+			<div class="field cat"><span class="icon"></span>Mode e tendenze</div>
+			<div class="field author"><span class="icon"></span><a href="http://www.aroundmeapp.com/">Attorno A Me S.R.L.</a></div>
+		</div>
+	</div>
+	<div class="screenshots">
+		<ul>
+			<li><img src="http://a1.mzstatic.com/eu/r30/Purple6/v4/37/84/b8/3784b8ba-d1b6-005d-23e0-7bfdc562bd91/screen322x572.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple6/v4/1c/da/c6/1cdac6db-bbee-3ac1-13a9-a18ddf717117/screen322x572.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple/v4/41/f8/d9/41f8d9db-443b-4d21-1373-c1a2429c9e60/screen322x572.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple6/v4/e9/c1/6a/e9c16a72-0d36-7740-7bee-6cc0920c6012/screen322x572.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple6/v4/c5/f7/60/c5f76080-4c59-6328-9a3c-66bbdf6fe24e/screen322x572.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple6/v4/7e/8b/fa/7e8bfa1d-3e5b-7abb-b1c5-edb437e166c5/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple/v4/47/ba/5e/47ba5eda-ba2a-d844-2277-f0957dc09abf/screen480x480.jpeg" alt="app screenshot" /></li>
+		</ul>
+	</div>
+</div>

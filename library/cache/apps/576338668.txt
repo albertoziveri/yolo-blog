@@ -1,0 +1,19 @@
+
+<div class="review clearfix">
+	<div class="image"><img class="" src="http://a5.mzstatic.com/us/r30/Purple3/v4/3e/58/54/3e5854c0-e89a-3348-2ec9-7612dfbea17d/leaf.512x512-75.png" alt="icona" /></div>
+	<div class="right-info">
+		<div class="header">
+			<h2 class="h2">App per Mac</h2><h1 class="h1">Leaf - RSS News Reader for Feedly and more...</h1><div class="download"><a href="https://itunes.apple.com/it/app/leaf-rss-news-reader-for-feedly/id576338668?mt=12&uo=4" class="tasc-button" target="_blank">Download</a></div>
+		</div>
+		<div class="content">
+			<div class="field price"><span class="icon"></span>0,99 €</div>
+			<div class="field cat"><span class="icon"></span>News</div>
+			<div class="field author"><span class="icon"></span><a href="http://www.rockysandstudio.com/appstore_redirect/">Rocky Sand Studio Ltd.</a></div>
+		</div>
+	</div>
+	<div class="screenshots">
+		<ul>
+			<li><img src="http://a2.mzstatic.com/eu/r30/Purple5/v4/ec/a4/14/eca41455-9eec-681a-ea20-62eb4f5f2ce8/screen800x500.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple3/v4/07/8e/fa/078efa0b-4254-1239-90fb-407617e83b46/screen800x500.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple3/v4/2c/5f/f7/2c5ff740-a53d-3081-65ea-ad75e384d979/screen800x500.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple3/v4/60/7a/24/607a24d5-f248-f99b-85c3-f87e04d8050b/screen800x500.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple5/v4/6e/36/82/6e368232-c393-8e60-de42-9b007104b1e1/screen800x500.jpeg" alt="app screenshot" /></li>
+		</ul>
+	</div>
+</div>

@@ -1,0 +1,19 @@
+
+<div class="review clearfix">
+	<div class="image"><img class="icon_rounded" src="http://a123.phobos.apple.com/us/r30/Purple1/v4/28/cb/1a/28cb1af1-32f0-a3ef-5d59-282b8abfa7e4/mzl.gasprtxa.png" alt="icona" /></div>
+	<div class="right-info">
+		<div class="header">
+			<h2 class="h2">App universale per iOs</h2><h1 class="h1">Learnist: Experts Curate Lessons to Share Their Knowledge</h1><div class="download"><a href="https://itunes.apple.com/it/app/learnist-experts-curate-lessons/id826591175?mt=8&uo=4" class="tasc-button" target="_blank">Download</a></div>
+		</div>
+		<div class="content">
+			<div class="field price"><span class="icon"></span>Gratis</div>
+			<div class="field cat"><span class="icon"></span>Social Network</div>
+			<div class="field author"><span class="icon"></span><a href="https://learni.st/about">Learnist, Inc.</a></div>
+		</div>
+	</div>
+	<div class="screenshots">
+		<ul>
+			<li><img src="http://a2.mzstatic.com/eu/r30/Purple4/v4/58/3c/65/583c65c8-802c-659b-16cf-51672df36098/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple3/v4/ff/49/74/ff497430-b223-7173-d47e-5b8e47bf0147/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple1/v4/e8/3f/24/e83f24a0-96f9-aa36-d6e6-3667ad244d3a/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple1/v4/b9/8e/2c/b98e2c7b-ddb9-8c37-a904-eb596f833482/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple1/v4/21/e5/31/21e531d2-9273-c8a9-8540-30076dab004d/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple3/v4/ec/66/f1/ec66f13c-5889-7023-fb87-101f55ba0778/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple4/v4/4e/95/ee/4e95eecc-4758-094a-2e06-ce0881e06439/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple5/v4/85/ec/ab/85ecab49-507c-72e6-5180-20a93afbf3a3/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple5/v4/c1/fa/6a/c1fa6a68-8ba0-c6c7-1f26-4831f4855902/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple3/v4/fe/c7/de/fec7ded9-cf33-09e6-4dc7-7abd20755cf6/screen480x480.jpeg" alt="app screenshot" /></li>
+		</ul>
+	</div>
+</div>

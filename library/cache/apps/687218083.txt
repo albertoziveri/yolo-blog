@@ -1,0 +1,19 @@
+
+<div class="review clearfix">
+	<div class="image"><img class="icon_rounded" src="http://a759.phobos.apple.com/us/r30/Purple3/v4/f5/bf/87/f5bf871f-9cb7-2ab1-491f-25b3a66e3f87/mzl.xohetvlf.png" alt="icona" /></div>
+	<div class="right-info">
+		<div class="header">
+			<h2 class="h2">App universale per iOs</h2><h1 class="h1">FrigOK</h1><div class="download"><a href="https://itunes.apple.com/it/app/frigok/id687218083?mt=8&uo=4" class="tasc-button" target="_blank">Download</a></div>
+		</div>
+		<div class="content">
+			<div class="field price"><span class="icon"></span>Gratis</div>
+			<div class="field cat"><span class="icon"></span>Produttività</div>
+			<div class="field author"><span class="icon"></span><a href="">bofrost* Spa</a></div>
+		</div>
+	</div>
+	<div class="screenshots">
+		<ul>
+			<li><img src="http://a3.mzstatic.com/eu/r30/Purple/v4/22/84/84/22848414-6927-d002-f875-c5287988335a/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple6/v4/d5/dc/0c/d5dc0c45-fb45-694f-2199-5c40e4c9e30c/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple/v4/f2/68/3c/f2683c46-a8f4-9712-f7a8-df104f353eac/screen320x320.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple/v4/52/67/a2/5267a221-9aaa-711b-c392-6ed02b2486ec/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple6/v4/01/9f/2e/019f2e3e-6199-d4e4-817a-3f60ccad2bfe/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple4/v4/05/92/0a/05920abe-a3ce-8a86-72ea-ec283806865a/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple4/v4/e3/94/6a/e3946a25-b185-e9bb-946a-5bcdca92a442/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple4/v4/02/83/6b/02836b6e-af68-9747-023c-3a609b22916c/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple4/v4/98/dd/28/98dd2820-6cdf-d1fc-6b91-9698c1c3889e/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple/v4/b3/f6/9d/b3f69dd0-9249-9230-2d37-152a776ff70b/screen480x480.jpeg" alt="app screenshot" /></li>
+		</ul>
+	</div>
+</div>

@@ -1,0 +1,19 @@
+
+<div class="review clearfix">
+	<div class="image"><img class="icon_rounded" src="http://is4.mzstatic.com/image/pf/us/r30/Purple7/v4/2d/b3/a7/2db3a799-faab-9763-a209-e5631a5caab5/mzl.raadxjov.jpg" alt="icona" /></div>
+	<div class="right-info">
+		<div class="header">
+			<h2 class="h2">App universale per iOs</h2><h1 class="h1">Contatore calorie e Gestione dieta - MyFitnessPal</h1><div class="download"><a href="https://itunes.apple.com/it/app/contatore-calorie-e-gestione/id341232718?mt=8&uo=4" class="tasc-button" target="_blank">Download</a></div>
+		</div>
+		<div class="content">
+			<div class="field price"><span class="icon"></span>Gratis</div>
+			<div class="field cat"><span class="icon"></span>Salute e benessere</div>
+			<div class="field author"><span class="icon"></span><a href="http://www.myfitnesspal.com/iphone">MyFitnessPal.com</a></div>
+		</div>
+	</div>
+	<div class="screenshots">
+		<ul>
+			<li><img src="http://a1.mzstatic.com/eu/r30/Purple7/v4/0c/87/b3/0c87b3a3-f253-643f-5456-c533604c63a3/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple5/v4/d5/28/8e/d5288e07-136e-8e9e-6013-5d9c44e8b027/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple7/v4/ff/0b/58/ff0b58d6-c59c-b02e-c293-ed10aa5bcb60/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple7/v4/04/8c/c0/048cc074-f1e9-c534-9678-96cc3a4304c2/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple5/v4/e9/05/22/e90522cc-a598-f492-f7fc-471ceb72a152/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple1/v4/2f/2b/7a/2f2b7ab7-70b9-7316-4fbb-f6429df269f5/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple6/v4/c8/a0/cb/c8a0cb77-a236-a717-c906-3b9d87e34fa8/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple1/v4/ae/92/44/ae92448c-16a4-dfe0-596e-89ed19e362f2/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple5/v4/ce/37/87/ce378757-623e-77ca-9840-41a1b7608a31/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple7/v4/60/0f/45/600f45d0-8c29-115d-1cdd-be97863382f5/screen480x480.jpeg" alt="app screenshot" /></li>
+		</ul>
+	</div>
+</div>

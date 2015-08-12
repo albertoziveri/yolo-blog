@@ -1,0 +1,19 @@
+
+<div class="review clearfix">
+	<div class="image"><img class="icon_rounded" src="http://a1766.phobos.apple.com/us/r30/Purple1/v4/5e/4e/17/5e4e1780-af74-a092-22f3-75646a91dc07/mzl.ahfexbjg.png" alt="icona" /></div>
+	<div class="right-info">
+		<div class="header">
+			<h2 class="h2">App universale per iOs</h2><h1 class="h1">Sonos Controller</h1><div class="download"><a href="https://itunes.apple.com/it/app/sonos-controller/id293523031?mt=8&uo=4" class="tasc-button" target="_blank">Download</a></div>
+		</div>
+		<div class="content">
+			<div class="field price"><span class="icon"></span>Gratis</div>
+			<div class="field cat"><span class="icon"></span>Musica</div>
+			<div class="field author"><span class="icon"></span><a href="http://www.sonos.com">Sonos, Inc.</a></div>
+		</div>
+	</div>
+	<div class="screenshots">
+		<ul>
+			<li><img src="http://a2.mzstatic.com/eu/r30/Purple5/v4/8b/eb/5c/8beb5c56-77e9-21e6-26cf-2a3313f4ce79/screen322x572.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple5/v4/67/75/f9/6775f95e-4c50-5814-d49c-b7f59656e595/screen322x572.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple5/v4/d7/93/f1/d793f120-3a7c-d794-558c-1861d697f949/screen322x572.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple5/v4/f6/54/20/f6542041-c5f5-8ff9-271f-2ed6504d841a/screen320x320.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple1/v4/61/d0/55/61d055b6-cd80-9ed2-b244-d7c6e8d54a43/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple1/v4/43/ee/63/43ee63c2-43a8-8650-991b-0a20ac9f6312/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple1/v4/dd/bb/e4/ddbbe4c8-315b-ff54-591b-e2b781c3a48d/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple5/v4/a1/6b/c3/a16bc3cd-f58e-d639-75bf-d14231000e92/screen480x480.jpeg" alt="app screenshot" /></li>
+		</ul>
+	</div>
+</div>

@@ -1,0 +1,19 @@
+
+<div class="review clearfix">
+	<div class="image"><img class="icon_rounded" src="http://a963.phobos.apple.com/us/r30/Purple5/v4/71/3d/4a/713d4a03-eab2-d110-4cb6-b4459524a167/mzl.hnnvavul.jpg" alt="icona" /></div>
+	<div class="right-info">
+		<div class="header">
+			<h2 class="h2">App universale per iOs</h2><h1 class="h1">Ancestry</h1><div class="download"><a href="https://itunes.apple.com/it/app/ancestry/id349554263?mt=8&uo=4" class="tasc-button" target="_blank">Download</a></div>
+		</div>
+		<div class="content">
+			<div class="field price"><span class="icon"></span>Gratis</div>
+			<div class="field cat"><span class="icon"></span>Riferimento</div>
+			<div class="field author"><span class="icon"></span><a href="http://www.ancestry.it/ancestry-app">Ancestry.com</a></div>
+		</div>
+	</div>
+	<div class="screenshots">
+		<ul>
+			<li><img src="http://a5.mzstatic.com/eu/r30/Purple5/v4/b3/d8/2a/b3d82a0a-7d87-93e8-bfd5-cfd1d5d6b7a7/screen322x572.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple1/v4/28/f5/aa/28f5aa87-6d51-7df5-ad5b-efdd7f6ac8b6/screen322x572.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple5/v4/1d/0f/9d/1d0f9d1f-d231-4c5d-f161-0f5923923f24/screen322x572.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple5/v4/28/0d/97/280d97bf-4728-faeb-ff99-efa83c33e91d/screen322x572.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple1/v4/61/ad/0c/61ad0c16-fb6c-2a26-1c4c-7ea170d05dca/screen322x572.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple1/v4/00/6e/e1/006ee18d-83f3-4f1a-ad45-e0a4e9de5f46/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple3/v4/e8/14/a3/e814a3b8-9442-7f20-b384-88ec29178993/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple3/v4/a1/92/71/a1927108-9365-7571-c52a-f86cb3b9a516/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple3/v4/f1/20/ee/f120ee3e-80db-8032-8419-078f63eeb9aa/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple3/v4/94/37/da/9437da2b-08c8-7b50-a6cb-f1a4b3b15612/screen480x480.jpeg" alt="app screenshot" /></li>
+		</ul>
+	</div>
+</div>

@@ -1,0 +1,19 @@
+
+<div class="review clearfix">
+	<div class="image"><img class="" src="http://a5.mzstatic.com/us/r30/Purple3/v4/ad/71/5e/ad715e17-971a-c91e-8ae5-f55c2cb0d180/AppIcon.512x512-75.png" alt="icona" /></div>
+	<div class="right-info">
+		<div class="header">
+			<h2 class="h2">App per Mac</h2><h1 class="h1">Telegram</h1><div class="download"><a href="https://itunes.apple.com/it/app/telegram/id747648890?mt=12&uo=4" class="tasc-button" target="_blank">Download</a></div>
+		</div>
+		<div class="content">
+			<div class="field price"><span class="icon"></span>Gratis</div>
+			<div class="field cat"><span class="icon"></span>Social Network</div>
+			<div class="field author"><span class="icon"></span><a href="">Telegram Messenger LLP</a></div>
+		</div>
+	</div>
+	<div class="screenshots">
+		<ul>
+			<li><img src="http://a4.mzstatic.com/eu/r30/Purple1/v4/30/85/8d/30858da5-2e09-7bea-c241-9b2fde1695ee/screen800x500.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple5/v4/a0/3b/62/a03b6268-0497-720d-c62b-4dffe5ddd069/screen800x500.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple1/v4/4d/9c/8d/4d9c8d8e-3f60-e1c3-5b14-953bf37a37ef/screen800x500.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple3/v4/01/49/45/014945eb-7c49-b8f1-73c3-0474f88d9bf5/screen800x500.jpeg" alt="app screenshot" /></li>
+		</ul>
+	</div>
+</div>

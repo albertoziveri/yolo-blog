@@ -1,0 +1,19 @@
+
+<div class="review clearfix">
+	<div class="image"><img class="icon_rounded" src="http://a1484.phobos.apple.com/us/r30/Purple1/v4/94/c9/f7/94c9f763-9101-dcd1-ef5f-56e00c4add48/mzl.yfyqbluk.png" alt="icona" /></div>
+	<div class="right-info">
+		<div class="header">
+			<h2 class="h2">App per iPhone</h2><h1 class="h1">Krop Circle</h1><div class="download"><a href="https://itunes.apple.com/it/app/krop-circle/id588809832?mt=8&uo=4" class="tasc-button" target="_blank">Download</a></div>
+		</div>
+		<div class="content">
+			<div class="field price"><span class="icon"></span>Gratis</div>
+			<div class="field cat"><span class="icon"></span>Foto e video</div>
+			<div class="field author"><span class="icon"></span><a href="">K People LLC</a></div>
+		</div>
+	</div>
+	<div class="screenshots">
+		<ul>
+			<li><img src="http://a1.mzstatic.com/eu/r30/Purple2/v4/d4/87/a5/d487a515-306b-ab88-fe07-0b0d65a48a8b/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple/v4/f9/69/5a/f9695a9d-9484-7517-7252-fcb18e09aa33/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple2/v4/79/3b/30/793b30d6-baef-5237-848c-46ec5e7186c2/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple2/v4/8b/63/5d/8b635db7-8525-190b-0e1e-d2a73a281be2/screen1136x1136.jpeg" alt="app screenshot" /></li>
+		</ul>
+	</div>
+</div>

@@ -1,0 +1,19 @@
+
+<div class="review clearfix">
+	<div class="image"><img class="icon_rounded" src="http://a1538.phobos.apple.com/us/r30/Purple/v4/c2/79/71/c27971e4-64dd-ff96-2aaf-bf7a353b1f54/mzl.barpxpgk.png" alt="icona" /></div>
+	<div class="right-info">
+		<div class="header">
+			<h2 class="h2">App per iPhone</h2><h1 class="h1">Bioritmo della Vita</h1><div class="download"><a href="https://itunes.apple.com/it/app/bioritmo-della-vita/id333184736?mt=8&uo=4" class="tasc-button" target="_blank">Download</a></div>
+		</div>
+		<div class="content">
+			<div class="field price"><span class="icon"></span>Gratis</div>
+			<div class="field cat"><span class="icon"></span>Salute e benessere</div>
+			<div class="field author"><span class="icon"></span><a href="http://www.movisol.com/it/iphone/bioritmo-della-vita.aspx">Movisol</a></div>
+		</div>
+	</div>
+	<div class="screenshots">
+		<ul>
+			<li><img src="http://a3.mzstatic.com/eu/r30/Purple/v4/51/59/5a/51595a8c-7d8c-d0e5-e98e-c093103fa4c3/screen320x480.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple/v4/60/a3/1b/60a31b1f-4753-dc3b-474b-d9635d8ee9e9/screen320x480.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple/v4/2d/e7/7d/2de77d19-e45b-5bc0-e422-50181d5ebc96/screen320x480.jpeg" alt="app screenshot" /></li>
+		</ul>
+	</div>
+</div>

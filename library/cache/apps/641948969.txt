@@ -1,0 +1,19 @@
+
+<div class="review clearfix">
+	<div class="image"><img class="icon_rounded" src="http://a471.phobos.apple.com/us/r30/Purple4/v4/ac/14/c4/ac14c4bc-53ea-850b-1ac6-4d9762066433/mzl.zquvshbo.png" alt="icona" /></div>
+	<div class="right-info">
+		<div class="header">
+			<h2 class="h2">App per iPhone</h2><h1 class="h1">Libretto</h1><div class="download"><a href="https://itunes.apple.com/it/app/libretto-salva-i-risultati/id641948969?mt=8&uo=4" class="tasc-button" target="_blank">Download</a></div>
+		</div>
+		<div class="content">
+			<div class="field price"><span class="icon"></span>0,99 €</div>
+			<div class="field cat"><span class="icon"></span>Istruzione</div>
+			<div class="field author"><span class="icon"></span><a href="http://francescodilorenzo.com/apps/libretto/">Francesco Di Lorenzo</a></div>
+		</div>
+	</div>
+	<div class="screenshots">
+		<ul>
+			<li><img src="http://a4.mzstatic.com/eu/r30/Purple5/v4/7e/9f/b6/7e9fb68b-43e4-b279-064f-54a18b56a775/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple3/v4/18/b3/be/18b3be24-e2b8-57ad-9696-1d717117c738/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple4/v4/15/50/7b/15507b0a-8f7f-a908-bee4-11474643168b/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple3/v4/06/79/b2/0679b2ff-d05b-c1d9-4dc0-3ee392802834/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple1/v4/60/5e/00/605e00a9-5324-4c6c-4dbc-74e30fc5f64d/screen1136x1136.jpeg" alt="app screenshot" /></li>
+		</ul>
+	</div>
+</div>

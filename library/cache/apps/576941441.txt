@@ -1,0 +1,19 @@
+
+<div class="review clearfix">
+	<div class="image"><img class="icon_rounded" src="http://a1719.phobos.apple.com/us/r30/Purple6/v4/db/79/a0/db79a063-4d8f-5b73-6830-b17a5df5baa6/mzl.cvrlfzjb.png" alt="icona" /></div>
+	<div class="right-info">
+		<div class="header">
+			<h2 class="h2">App universale per iOs</h2><h1 class="h1">YouTube Capture</h1><div class="download"><a href="https://itunes.apple.com/it/app/youtube-capture/id576941441?mt=8&uo=4" class="tasc-button" target="_blank">Download</a></div>
+		</div>
+		<div class="content">
+			<div class="field price"><span class="icon"></span>Gratis</div>
+			<div class="field cat"><span class="icon"></span>Foto e video</div>
+			<div class="field author"><span class="icon"></span><a href="http://www.youtube.com/capture">Google, Inc.</a></div>
+		</div>
+	</div>
+	<div class="screenshots">
+		<ul>
+			<li><img src="http://a1.mzstatic.com/eu/r30/Purple/v4/ee/74/d0/ee74d099-de13-6025-0219-4fafc64efcf4/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple/v4/63/2c/b6/632cb616-197b-433d-a986-36743fdea524/screen320x320.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple/v4/86/12/47/8612472e-90f6-d440-5fe6-8548a7324682/screen320x320.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple4/v4/94/20/f3/9420f3cf-36ee-32fb-9cbf-83012645b7f4/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple/v4/64/34/33/643433f2-7903-781f-a663-392fbd187ce7/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple/v4/7e/e2/64/7ee26456-6814-c565-9a73-36c17a4fe4d1/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple/v4/7e/a0/a6/7ea0a66b-fa8c-af75-a8d1-ff81ac5c421a/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple4/v4/ad/18/6d/ad186d24-ac9a-f427-e765-7c654a46cf05/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple/v4/69/84/71/69847155-2e0e-4132-abf1-a050f381fdde/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple4/v4/7b/7a/fe/7b7afec8-6ca6-24ad-e6a2-2abb74a661a2/screen480x480.jpeg" alt="app screenshot" /></li>
+		</ul>
+	</div>
+</div>

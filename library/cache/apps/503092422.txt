@@ -1,0 +1,19 @@
+
+<div class="review clearfix">
+	<div class="image"><img class="icon_rounded" src="http://a455.phobos.apple.com/us/r30/Purple/v4/4f/ca/62/4fca6236-a20a-d469-6247-9bf65e429dfc/mzl.ikrtbbrk.png" alt="icona" /></div>
+	<div class="right-info">
+		<div class="header">
+			<h2 class="h2">App per iPad</h2><h1 class="h1">Ski Safari</h1><div class="download"><a href="https://itunes.apple.com/it/app/ski-safari/id503092422?mt=8&uo=4" class="tasc-button" target="_blank">Download</a></div>
+		</div>
+		<div class="content">
+			<div class="field price"><span class="icon"></span>0,99 €</div>
+			<div class="field cat"><span class="icon"></span>Giochi</div>
+			<div class="field author"><span class="icon"></span><a href="http://defiantdev.com/ski-safari.php">Defiant Development</a></div>
+		</div>
+	</div>
+	<div class="screenshots">
+		<ul>
+			<li><img src="http://a5.mzstatic.com/eu/r30/Purple6/v4/d7/db/05/d7db05c7-c3e1-2f41-ddb0-dc7ada8786cc/screen320x320.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple6/v4/a7/99/9f/a7999f75-bc3b-2f23-ae6d-dd9aa87ad823/screen320x320.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple4/v4/0c/11/5a/0c115a79-5ad1-f3d1-78db-723332c619b0/screen320x320.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple6/v4/25/08/25/250825be-c50e-8dd9-1011-11d538a7caa5/screen320x320.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple6/v4/67/32/c2/6732c253-6729-128e-3d8b-84ffa24aa3b9/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple4/v4/d0/66/c1/d066c192-b7bb-8693-d6c2-e3b9487b0ac5/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple4/v4/60/73/5e/60735e42-74b9-f103-c0fa-fa11eed2b40f/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple/v4/8c/f8/09/8cf809c9-ca43-1877-c692-2ca1cbdd6d50/screen480x480.jpeg" alt="app screenshot" /></li>
+		</ul>
+	</div>
+</div>

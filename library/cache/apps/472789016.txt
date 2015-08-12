@@ -1,0 +1,19 @@
+
+<div class="review clearfix">
+	<div class="image"><img class="icon_rounded" src="http://a622.phobos.apple.com/us/r30/Purple/v4/d7/4f/00/d74f003c-28c1-1d4d-c874-2df0d55bae90/mzl.udmgfnpy.png" alt="icona" /></div>
+	<div class="right-info">
+		<div class="header">
+			<h2 class="h2">App universale per iOs</h2><h1 class="h1">Ghostery</h1><div class="download"><a href="https://itunes.apple.com/it/app/ghostery/id472789016?mt=8&uo=4" class="tasc-button" target="_blank">Download</a></div>
+		</div>
+		<div class="content">
+			<div class="field price"><span class="icon"></span>Gratis</div>
+			<div class="field cat"><span class="icon"></span>Utility</div>
+			<div class="field author"><span class="icon"></span><a href="https://www.ghostery.com">Ghostery, Inc.</a></div>
+		</div>
+	</div>
+	<div class="screenshots">
+		<ul>
+			<li><img src="http://a3.mzstatic.com/eu/r30/Purple/v4/0f/7f/2b/0f7f2b00-47db-a63e-b456-c890e53140c6/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple2/v4/d6/9b/85/d69b8554-499b-a2e7-e6dd-c57d15227903/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple/v4/af/49/e9/af49e976-01cc-4711-0113-e87cfc4236bf/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple/v4/49/a9/e4/49a9e473-76f9-ec20-197b-f3b4e087d3ab/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple/v4/b6/f7/8f/b6f78f6c-ff51-04d0-92ab-e440c0794f34/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple2/v4/2f/13/31/2f1331a4-23fa-9089-3c27-2ca8f85fe873/screen480x480.jpeg" alt="app screenshot" /></li>
+		</ul>
+	</div>
+</div>

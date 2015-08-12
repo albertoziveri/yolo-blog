@@ -1,0 +1,19 @@
+
+<div class="review clearfix">
+	<div class="image"><img class="icon_rounded" src="http://a1392.phobos.apple.com/us/r30/Purple3/v4/10/55/07/10550758-9dea-e86e-e997-7baa18719b0c/mzl.pjuulphk.png" alt="icona" /></div>
+	<div class="right-info">
+		<div class="header">
+			<h2 class="h2">App universale per iOs</h2><h1 class="h1">Sunrise Calendar - for Google Calendar, Exchange and for iCloud</h1><div class="download"><a href="https://itunes.apple.com/it/app/sunrise-calendar-for-google/id599114150?mt=8&uo=4" class="tasc-button" target="_blank">Download</a></div>
+		</div>
+		<div class="content">
+			<div class="field price"><span class="icon"></span>Gratis</div>
+			<div class="field cat"><span class="icon"></span>Utility</div>
+			<div class="field author"><span class="icon"></span><a href="">Sunrise Atelier, Inc.</a></div>
+		</div>
+	</div>
+	<div class="screenshots">
+		<ul>
+			<li><img src="http://a5.mzstatic.com/eu/r30/Purple5/v4/eb/ef/87/ebef8738-3cf9-2af5-375f-8155f78f0c61/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple3/v4/b7/db/3e/b7db3ec9-263c-bea8-a5f3-d60a61d01d09/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple1/v4/26/3d/35/263d358f-d2ad-4594-c3e9-26e13868dfdb/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple1/v4/76/e4/1a/76e41afe-635b-e8e4-b6ad-0ddbed79d5db/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple1/v4/d0/bc/a8/d0bca8d3-aa64-3d22-67a9-ac7595d90257/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple5/v4/e5/32/5e/e5325e1b-be6e-312e-9ce2-1efe46c12dbb/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple5/v4/e0/fb/97/e0fb9706-2343-85ca-4a96-61322c31601c/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple3/v4/88/90/06/8890069a-3fae-b2ca-695f-2f24164fe32b/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple3/v4/ba/f0/c9/baf0c934-c58f-bdc9-eec4-37c43491d758/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple1/v4/1a/29/4f/1a294f99-ad5d-c2b2-ea96-6c574a7e22d5/screen480x480.jpeg" alt="app screenshot" /></li>
+		</ul>
+	</div>
+</div>

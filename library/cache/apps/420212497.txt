@@ -1,0 +1,19 @@
+
+<div class="review clearfix">
+	<div class="image"><img class="" src="http://a4.mzstatic.com/us/r30/Purple3/v4/19/6a/49/196a4969-8a7a-cf7e-1c5a-62a26959968b/Icon.512x512-75.png" alt="icona" /></div>
+	<div class="right-info">
+		<div class="header">
+			<h2 class="h2">App per Mac</h2><h1 class="h1">Byword</h1><div class="download"><a href="https://itunes.apple.com/it/app/byword/id420212497?mt=12&uo=4" class="tasc-button" target="_blank">Download</a></div>
+		</div>
+		<div class="content">
+			<div class="field price"><span class="icon"></span>5,99 €</div>
+			<div class="field cat"><span class="icon"></span>Produttività</div>
+			<div class="field author"><span class="icon"></span><a href="http://metaclassy.com/">Metaclassy, Lda.</a></div>
+		</div>
+	</div>
+	<div class="screenshots">
+		<ul>
+			<li><img src="http://a3.mzstatic.com/eu/r30/Purple6/v4/84/bb/fa/84bbfa93-e46e-ef55-8ae9-0d48f39f050f/screen800x500.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple4/v4/53/5a/03/535a0374-3b82-b563-71b9-d563a3a83cdb/screen800x500.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple/v4/63/d9/1e/63d91ea1-7fd3-5a79-9bc5-a6e57e6384fa/screen800x500.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple/v4/08/e0/d2/08e0d2b2-52e8-e421-1ab1-c022ea9c3cff/screen800x500.jpeg" alt="app screenshot" /></li>
+		</ul>
+	</div>
+</div>

@@ -1,0 +1,19 @@
+
+<div class="review clearfix">
+	<div class="image"><img class="icon_rounded" src="http://a342.phobos.apple.com/us/r30/Purple3/v4/83/6b/d8/836bd847-8f2b-bf4f-3d9e-c068beb6f79d/mzl.ocyfsyim.png" alt="icona" /></div>
+	<div class="right-info">
+		<div class="header">
+			<h2 class="h2">App universale per iOs</h2><h1 class="h1">Musica di Rdio</h1><div class="download"><a href="https://itunes.apple.com/it/app/musica-di-rdio/id335060889?mt=8&uo=4" class="tasc-button" target="_blank">Download</a></div>
+		</div>
+		<div class="content">
+			<div class="field price"><span class="icon"></span>Gratis</div>
+			<div class="field cat"><span class="icon"></span>Musica</div>
+			<div class="field author"><span class="icon"></span><a href="http://www.rdio.com/#/apps/mobile/">Rdio</a></div>
+		</div>
+	</div>
+	<div class="screenshots">
+		<ul>
+			<li><img src="http://a2.mzstatic.com/eu/r30/Purple1/v4/cc/3d/02/cc3d0276-ec9e-9b38-fe57-8352591665ed/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple5/v4/56/0d/d8/560dd8b8-1b30-2da4-70e7-ad181760c9a5/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple1/v4/10/7c/87/107c8737-0800-8fd7-5354-4c1e46aa354e/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple1/v4/3a/a7/93/3aa7931c-92fa-8bac-d8e4-09c2389eb737/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple1/v4/c5/27/5d/c5275daf-2443-e3e7-b23a-dbe0f8c0a32b/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple3/v4/97/55/15/9755154a-7ec6-16c8-40ce-d221f9fce5be/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple3/v4/d9/74/b1/d974b17e-1dfe-12ab-537d-3082137180ce/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple3/v4/c5/f3/85/c5f38501-9389-a6ff-69b0-efe2dee794ff/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple5/v4/cf/b2/fc/cfb2fc39-ac2b-3193-af6b-16397f9f4f31/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple1/v4/2d/1b/92/2d1b9201-a728-9784-74e0-bcba16ca4f06/screen480x480.jpeg" alt="app screenshot" /></li>
+		</ul>
+	</div>
+</div>

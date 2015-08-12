@@ -1,0 +1,19 @@
+
+<div class="review clearfix">
+	<div class="image"><img class="icon_rounded" src="http://a918.phobos.apple.com/us/r30/Purple5/v4/10/5b/9a/105b9a01-e3b3-52f9-97db-42fea4005ad3/mzl.xztlcorh.png" alt="icona" /></div>
+	<div class="right-info">
+		<div class="header">
+			<h2 class="h2">App universale per iOs</h2><h1 class="h1">Typic - Photo Editor</h1><div class="download"><a href="https://itunes.apple.com/it/app/typic-photo-editor/id601467470?mt=8&uo=4" class="tasc-button" target="_blank">Download</a></div>
+		</div>
+		<div class="content">
+			<div class="field price"><span class="icon"></span>1,99 €</div>
+			<div class="field cat"><span class="icon"></span>Foto e video</div>
+			<div class="field author"><span class="icon"></span><a href="http://www.typicapp.com">Hi Mom S.A.S</a></div>
+		</div>
+	</div>
+	<div class="screenshots">
+		<ul>
+			<li><img src="http://a4.mzstatic.com/eu/r30/Purple1/v4/45/4b/87/454b87ae-aa5b-67b9-6650-7ac639ddcf69/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple5/v4/69/56/e1/6956e169-3e45-51cb-332c-7dbda426e7a6/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple5/v4/4d/45/4f/4d454f1f-5153-99f2-f1d2-c603b34f24de/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple5/v4/07/d4/67/07d467f8-df86-1390-c8c4-6a73015e024c/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple3/v4/da/1e/bc/da1ebc7a-158c-130a-34b0-451a634326e7/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple3/v4/1f/6b/83/1f6b8359-d302-e666-604c-09c811ec8f31/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple3/v4/22/19/c6/2219c65e-c6cd-c5a1-e59f-e522a9c479b7/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple3/v4/f2/84/fb/f284fbde-689e-252e-4e75-2382b06d741a/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple5/v4/eb/d3/65/ebd365f1-4d8d-8ab5-b7a4-ce09e6320d08/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple3/v4/88/3a/ee/883aee43-d06d-f658-26dd-c9e04d9e122d/screen480x480.jpeg" alt="app screenshot" /></li>
+		</ul>
+	</div>
+</div>

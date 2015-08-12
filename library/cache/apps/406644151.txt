@@ -1,0 +1,19 @@
+
+<div class="review clearfix">
+	<div class="image"><img class="icon_rounded" src="http://a933.phobos.apple.com/us/r30/Purple1/v4/92/8c/4f/928c4f8b-5bda-1dec-b8ba-1111093cc1de/mzl.zhfxrmtw.png" alt="icona" /></div>
+	<div class="right-info">
+		<div class="header">
+			<h2 class="h2">App universale per iOs</h2><h1 class="h1">Wunderlist: To Do & Lista</h1><div class="download"><a href="https://itunes.apple.com/it/app/wunderlist-to-do-lista/id406644151?mt=8&uo=4" class="tasc-button" target="_blank">Download</a></div>
+		</div>
+		<div class="content">
+			<div class="field price"><span class="icon"></span>Gratis</div>
+			<div class="field cat"><span class="icon"></span>Produttività</div>
+			<div class="field author"><span class="icon"></span><a href="http://www.wunderlist.com">6 Wunderkinder</a></div>
+		</div>
+	</div>
+	<div class="screenshots">
+		<ul>
+			<li><img src="http://a3.mzstatic.com/eu/r30/Purple1/v4/63/a9/52/63a95257-f21e-f315-7472-c8106680cd6a/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple4/v4/7d/a5/b9/7da5b975-c2a0-7fcb-5f16-ca7292d76720/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple5/v4/d6/07/cb/d607cb20-0bdf-934b-181e-14964bde8e9f/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple3/v4/d0/a9/ae/d0a9ae80-0c4f-d20c-45d1-58e0727970b3/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple5/v4/a4/30/b5/a430b5ea-28a0-2985-8fb4-040f6c1fa49e/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple5/v4/e7/cb/98/e7cb98b6-7fb7-485a-ccc0-2510e402594c/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple5/v4/02/33/c9/0233c93d-ab6f-93be-b04e-8dc917488017/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple3/v4/e6/32/44/e63244b0-345f-0698-7493-08029a2e0f46/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple5/v4/4e/5f/32/4e5f3232-0921-4bd4-de4f-7f4cfa153844/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple3/v4/bd/b9/cb/bdb9cbc3-d36c-348b-d045-c40cd332afd3/screen480x480.jpeg" alt="app screenshot" /></li>
+		</ul>
+	</div>
+</div>

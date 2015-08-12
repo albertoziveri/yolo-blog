@@ -1,0 +1,19 @@
+
+<div class="review clearfix">
+	<div class="image"><img class="icon_rounded" src="http://a1305.phobos.apple.com/us/r30/Purple3/v4/02/6b/8d/026b8d64-589e-a8ff-080a-24ca4c97c793/mzl.yfvgvoxg.png" alt="icona" /></div>
+	<div class="right-info">
+		<div class="header">
+			<h2 class="h2">App universale per iOs</h2><h1 class="h1">Impara l'inglese con Babbel</h1><div class="download"><a href="https://itunes.apple.com/it/app/impara-linglese-con-babbel/id477147527?mt=8&uo=4" class="tasc-button" target="_blank">Download</a></div>
+		</div>
+		<div class="content">
+			<div class="field price"><span class="icon"></span>Gratis</div>
+			<div class="field cat"><span class="icon"></span>Istruzione</div>
+			<div class="field author"><span class="icon"></span><a href="http://www.babbel.com">Lesson Nine GmbH</a></div>
+		</div>
+	</div>
+	<div class="screenshots">
+		<ul>
+			<li><img src="http://a5.mzstatic.com/eu/r30/Purple4/v4/5e/4d/b6/5e4db667-42a0-ac42-74d8-ec707cf18ca2/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple3/v4/b5/ed/97/b5ed971d-a255-f881-35f4-b2ea919ee3a5/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple4/v4/c5/47/ac/c547acc5-3c30-982d-c1fd-7798fb08b8d1/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple5/v4/92/4d/45/924d45e8-746f-e96a-5446-63a51e891998/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple3/v4/25/5a/8b/255a8b70-734e-f26b-61af-d4eafc519e59/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple3/v4/50/9b/f4/509bf480-a241-db4d-ba11-4846df6775d4/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple1/v4/09/b0/2d/09b02d0f-66fc-349f-b9db-48eba3f06f5a/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple3/v4/d6/16/13/d616137a-b19d-f267-a44c-ac38548cd512/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple3/v4/3c/36/26/3c3626a0-e4b4-d5cd-bb41-050c95818f4e/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple5/v4/98/d9/77/98d97704-bd4e-1420-a375-2280462440b4/screen480x480.jpeg" alt="app screenshot" /></li>
+		</ul>
+	</div>
+</div>

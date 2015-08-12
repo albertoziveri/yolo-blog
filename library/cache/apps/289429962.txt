@@ -1,0 +1,19 @@
+
+<div class="review clearfix">
+	<div class="image"><img class="icon_rounded" src="http://a1205.phobos.apple.com/us/r30/Purple3/v4/6a/85/de/6a85decb-d0a7-3061-4b94-61fdeb60025e/mzl.ilplguhu.png" alt="icona" /></div>
+	<div class="right-info">
+		<div class="header">
+			<h2 class="h2">App universale per iOs</h2><h1 class="h1">Simplenote</h1><div class="download"><a href="https://itunes.apple.com/it/app/simplenote/id289429962?mt=8&uo=4" class="tasc-button" target="_blank">Download</a></div>
+		</div>
+		<div class="content">
+			<div class="field price"><span class="icon"></span>Gratis</div>
+			<div class="field cat"><span class="icon"></span>Produttività</div>
+			<div class="field author"><span class="icon"></span><a href="http://www.simplenote.com">Codality</a></div>
+		</div>
+	</div>
+	<div class="screenshots">
+		<ul>
+			<li><img src="http://a3.mzstatic.com/eu/r30/Purple3/v4/4b/4d/02/4b4d02f2-8ebe-cd30-ea90-9b513ed2c5dc/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple5/v4/f4/2f/06/f42f0665-3e71-3b7e-3f8f-a86a29ca6df5/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple5/v4/3a/56/87/3a568790-df72-9853-9345-2f76d6c398d4/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple1/v4/70/96/fa/7096fae4-be90-1331-2bb0-6fdffa8ae965/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple1/v4/5f/4f/ad/5f4fadfb-a44a-5d8f-6158-32c928d2632f/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple5/v4/02/4f/51/024f5125-3164-425e-e94e-793a4398afd2/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple3/v4/f8/f1/dc/f8f1dc2c-5cfe-37ff-a4f9-e6f7f3617d53/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple3/v4/d7/16/ee/d716ee53-f730-5bcd-1ecd-ab42481bceea/screen480x480.jpeg" alt="app screenshot" /></li>
+		</ul>
+	</div>
+</div>

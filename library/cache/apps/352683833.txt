@@ -1,0 +1,19 @@
+
+<div class="review clearfix">
+	<div class="image"><img class="icon_rounded" src="http://a733.phobos.apple.com/us/r30/Purple5/v4/2d/75/85/2d75853f-288c-3e17-644b-11587c172d81/mzl.ubegagly.png" alt="icona" /></div>
+	<div class="right-info">
+		<div class="header">
+			<h2 class="h2">App universale per iOs</h2><h1 class="h1">Groupon</h1><div class="download"><a href="https://itunes.apple.com/it/app/groupon/id352683833?mt=8&uo=4" class="tasc-button" target="_blank">Download</a></div>
+		</div>
+		<div class="content">
+			<div class="field price"><span class="icon"></span>Gratis</div>
+			<div class="field cat"><span class="icon"></span>Mode e tendenze</div>
+			<div class="field author"><span class="icon"></span><a href="http://groupon.com/app/iphone">Groupon, Inc.</a></div>
+		</div>
+	</div>
+	<div class="screenshots">
+		<ul>
+			<li><img src="http://a2.mzstatic.com/eu/r30/Purple3/v4/fd/eb/24/fdeb2450-7774-4f07-72b2-c64379de9ac4/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple3/v4/af/88/48/af884859-4cf3-5604-4f24-6edc0302c75f/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple3/v4/e8/3d/93/e83d93b6-e7c2-0f7c-251b-7df1db76d696/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple5/v4/d6/2b/36/d62b3630-443e-d006-e471-a2761d6d89f7/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple1/v4/79/8b/c7/798bc798-913b-963c-3b18-3b6504d737b7/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple3/v4/2b/c0/f4/2bc0f42f-c4a5-d525-4d2d-919dc7d60a1c/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple1/v4/19/fc/80/19fc80f0-7412-6db2-3539-27d340c1f9f9/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple3/v4/7a/fd/e5/7afde53e-5cdd-92c8-b437-85137101d5b1/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple1/v4/11/3d/ff/113dffa2-3477-d230-0653-7fb867d69bf8/screen480x480.jpeg" alt="app screenshot" /></li>
+		</ul>
+	</div>
+</div>

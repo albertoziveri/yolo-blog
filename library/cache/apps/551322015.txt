@@ -1,0 +1,19 @@
+
+<div class="review clearfix">
+	<div class="image"><img class="icon_rounded" src="http://a967.phobos.apple.com/us/r30/Purple4/v4/a6/85/2c/a6852c68-1956-0b1c-2f0c-8bb66d19c083/V4HttpAssetRepositoryClient-mzl.oabtdinj.jpg-2672117708530568747.jpg" alt="icona" /></div>
+	<div class="right-info">
+		<div class="header">
+			<h2 class="h2">App per iPhone</h2><h1 class="h1">Trendee Me</h1><div class="download"><a href="https://itunes.apple.com/it/app/trendee-me/id551322015?mt=8&uo=4" class="tasc-button" target="_blank">Download</a></div>
+		</div>
+		<div class="content">
+			<div class="field price"><span class="icon"></span>Gratis</div>
+			<div class="field cat"><span class="icon"></span>Mode e tendenze</div>
+			<div class="field author"><span class="icon"></span><a href="http://trendee.me/">Immediatic</a></div>
+		</div>
+	</div>
+	<div class="screenshots">
+		<ul>
+			<li><img src="http://a2.mzstatic.com/eu/r30/Purple2/v4/c8/7d/53/c87d53c9-e772-bad3-98f3-cb53fa1d80cd/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple/v4/f0/de/77/f0de7712-3bf9-fb5e-2f55-8c8a2e715a77/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple/v4/c4/cd/53/c4cd5382-2eca-287b-6f16-724b6b53c386/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple/v4/f8/e9/13/f8e913eb-b8aa-10e1-a9ff-3fbecb502215/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple2/v4/7e/24/eb/7e24eb8b-343b-0431-847e-65554fc047c5/screen1136x1136.jpeg" alt="app screenshot" /></li>
+		</ul>
+	</div>
+</div>

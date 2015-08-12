@@ -1,0 +1,19 @@
+
+<div class="review clearfix">
+	<div class="image"><img class="icon_rounded" src="http://a776.phobos.apple.com/us/r30/Purple5/v4/e0/d6/d2/e0d6d259-b8c9-b924-686b-eead392f4ae7/mzl.evuywwzc.jpg" alt="icona" /></div>
+	<div class="right-info">
+		<div class="header">
+			<h2 class="h2">App per iPhone</h2><h1 class="h1">Any.do - Simple To-Do List, Daily Task Manager & Checklist Organizer</h1><div class="download"><a href="https://itunes.apple.com/it/app/any.do-simple-to-do-list-daily/id497328576?mt=8&uo=4" class="tasc-button" target="_blank">Download</a></div>
+		</div>
+		<div class="content">
+			<div class="field price"><span class="icon"></span>Gratis</div>
+			<div class="field cat"><span class="icon"></span>Produttività</div>
+			<div class="field author"><span class="icon"></span><a href="http://www.any.do/">Any.DO</a></div>
+		</div>
+	</div>
+	<div class="screenshots">
+		<ul>
+			<li><img src="http://a2.mzstatic.com/eu/r30/Purple5/v4/3a/12/59/3a1259ca-7107-c1f8-4c2a-4313cc840fea/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple3/v4/83/f7/d5/83f7d57d-1f27-e1c4-672f-d55a2e64a768/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple3/v4/af/04/d5/af04d53d-1854-c021-728d-b8a113da6587/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple1/v4/97/23/f5/9723f55b-ab5f-a8f0-ea42-16f9410ba328/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple5/v4/62/9c/d6/629cd63a-f437-2718-fb01-19f446c65ff9/screen1136x1136.jpeg" alt="app screenshot" /></li>
+		</ul>
+	</div>
+</div>

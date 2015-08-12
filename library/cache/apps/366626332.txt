@@ -1,0 +1,19 @@
+
+<div class="review clearfix">
+	<div class="image"><img class="icon_rounded" src="http://is1.mzstatic.com/image/pf/us/r30/Purple1/v4/0c/a2/76/0ca276ef-4787-afeb-9042-8844a392c81c/mzl.jenaencr.png" alt="icona" /></div>
+	<div class="right-info">
+		<div class="header">
+			<h2 class="h2">App per iPhone</h2><h1 class="h1">Runtastic PRO GPS Running, Jogging,Walking, Fitness Tracker e Marathon Trainer</h1><div class="download"><a href="https://itunes.apple.com/it/app/runtastic-pro-gps-running/id366626332?mt=8&uo=4" class="tasc-button" target="_blank">Download</a></div>
+		</div>
+		<div class="content">
+			<div class="field price"><span class="icon"></span>4,99 €</div>
+			<div class="field cat"><span class="icon"></span>Salute e benessere</div>
+			<div class="field author"><span class="icon"></span><a href="http://www.runtastic.com/apps">runtastic</a></div>
+		</div>
+	</div>
+	<div class="screenshots">
+		<ul>
+			<li><img src="http://a1.mzstatic.com/eu/r30/Purple7/v4/e7/d2/8f/e7d28fb5-c302-80aa-141b-e126d8d10b7a/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple7/v4/cf/c7/28/cfc728c2-6012-bcb9-ca17-5fdcd5dd28af/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple1/v4/90/07/3f/90073f88-abdb-8a8c-2125-21b4872e830e/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple7/v4/b7/6a/0e/b76a0e78-da41-f814-ae13-d8f66f25c389/screen1136x1136.jpeg" alt="app screenshot" /></li>
+		</ul>
+	</div>
+</div>

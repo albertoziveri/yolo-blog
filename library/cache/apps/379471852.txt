@@ -1,0 +1,19 @@
+
+<div class="review clearfix">
+	<div class="image"><img class="icon_rounded" src="http://a370.phobos.apple.com/us/r30/Purple1/v4/fd/f7/2f/fdf72f58-c5e5-0572-7409-29bfd021b6e8/mzl.uzdacvka.png" alt="icona" /></div>
+	<div class="right-info">
+		<div class="header">
+			<h2 class="h2">App per iPhone</h2><h1 class="h1">NinJump</h1><div class="download"><a href="https://itunes.apple.com/it/app/ninjump/id379471852?mt=8&uo=4" class="tasc-button" target="_blank">Download</a></div>
+		</div>
+		<div class="content">
+			<div class="field price"><span class="icon"></span>Gratis</div>
+			<div class="field cat"><span class="icon"></span>Giochi</div>
+			<div class="field author"><span class="icon"></span><a href="http://www.backflipstudios.com">Backflip Studios</a></div>
+		</div>
+	</div>
+	<div class="screenshots">
+		<ul>
+			<li><img src="http://a4.mzstatic.com/eu/r30/Purple3/v4/3d/e8/1c/3de81c0c-7de6-cc33-484b-d0bccac72550/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple3/v4/fa/03/d2/fa03d28e-e822-68fd-e887-0ddabca4d42b/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple1/v4/e8/10/93/e81093ff-5202-acfd-8aad-f4ac873fbff6/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple3/v4/bd/7f/87/bd7f87ee-e3b8-ec53-e34b-c3ad2b9622e7/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple1/v4/5c/a9/a7/5ca9a747-93f8-cd68-3a63-4e58400a2d4f/screen1136x1136.jpeg" alt="app screenshot" /></li>
+		</ul>
+	</div>
+</div>

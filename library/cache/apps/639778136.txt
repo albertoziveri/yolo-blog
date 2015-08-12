@@ -1,0 +1,19 @@
+
+<div class="review clearfix">
+	<div class="image"><img class="icon_rounded" src="http://is5.mzstatic.com/image/pf/us/r30/Purple6/v4/71/e9/a4/71e9a491-c312-aeba-4ae4-fc31bf60710c/mzl.raktvpog.png" alt="icona" /></div>
+	<div class="right-info">
+		<div class="header">
+			<h2 class="h2">App per iPhone</h2><h1 class="h1">Sociidot - Life Coach, Goal Planner & Life Improvement Tips</h1><div class="download"><a href="https://itunes.apple.com/it/app/sociidot-life-coach-goal-planner/id639778136?mt=8&uo=4" class="tasc-button" target="_blank">Download</a></div>
+		</div>
+		<div class="content">
+			<div class="field price"><span class="icon"></span>Gratis</div>
+			<div class="field cat"><span class="icon"></span>Produttività</div>
+			<div class="field author"><span class="icon"></span><a href="http://sociidot.com/">Aurify Media LLC</a></div>
+		</div>
+	</div>
+	<div class="screenshots">
+		<ul>
+			<li><img src="http://a1.mzstatic.com/eu/r30/Purple6/v4/51/10/0f/51100fbd-1420-6609-0150-8fce6f0e8aa1/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple6/v4/73/b8/cf/73b8cf3d-9c4d-4583-bd2a-84fc4c8ebccb/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple4/v4/c6/6e/22/c66e22ce-babf-26fb-d0b7-90d615026242/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple/v4/73/b7/72/73b772e0-9f94-5e6e-6b33-8cd7b4153674/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple/v4/4d/e6/4a/4de64a7e-2f9c-40fa-9265-f197ea0656ed/screen1136x1136.jpeg" alt="app screenshot" /></li>
+		</ul>
+	</div>
+</div>

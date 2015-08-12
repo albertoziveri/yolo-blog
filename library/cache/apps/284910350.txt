@@ -1,0 +1,19 @@
+
+<div class="review clearfix">
+	<div class="image"><img class="icon_rounded" src="http://a1269.phobos.apple.com/us/r30/Purple3/v4/b8/5c/e6/b85ce6c6-969d-a15e-1736-76028c94b4b0/mzl.uqgabcbb.png" alt="icona" /></div>
+	<div class="right-info">
+		<div class="header">
+			<h2 class="h2">App universale per iOs</h2><h1 class="h1">Yelp</h1><div class="download"><a href="https://itunes.apple.com/it/app/yelp/id284910350?mt=8&uo=4" class="tasc-button" target="_blank">Download</a></div>
+		</div>
+		<div class="content">
+			<div class="field price"><span class="icon"></span>Gratis</div>
+			<div class="field cat"><span class="icon"></span>Viaggi</div>
+			<div class="field author"><span class="icon"></span><a href="">Yelp</a></div>
+		</div>
+	</div>
+	<div class="screenshots">
+		<ul>
+			<li><img src="http://a2.mzstatic.com/eu/r30/Purple3/v4/d7/91/21/d791218c-6e7a-c73d-d7f8-8b3ce5eb160d/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple1/v4/7b/ff/7a/7bff7a12-a44b-3935-c434-fc7f48809061/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple5/v4/69/91/ca/6991ca21-78d8-9522-cdbd-6f4c3044176f/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple3/v4/c9/fc/43/c9fc43a4-0767-8365-594f-1d4670dbab92/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple5/v4/11/15/5a/11155add-1c70-3cfe-8953-ac2a1cded687/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple1/v4/9d/71/82/9d718290-4b72-c7d6-b430-c1baffe29ab4/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple5/v4/95/c5/a8/95c5a849-4ecd-1f88-c8fc-598d7c7ca40b/screen480x480.jpeg" alt="app screenshot" /></li>
+		</ul>
+	</div>
+</div>

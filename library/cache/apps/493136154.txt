@@ -1,0 +1,19 @@
+
+<div class="review clearfix">
+	<div class="image"><img class="icon_rounded" src="http://is1.mzstatic.com/image/pf/us/r30/Purple1/v4/1d/69/63/1d6963fe-d9f7-6063-93aa-2229e26168d8/mzl.idaoaszk.png" alt="icona" /></div>
+	<div class="right-info">
+		<div class="header">
+			<h2 class="h2">App universale per iOs</h2><h1 class="h1">Clear: impegni e liste di cose da fare</h1><div class="download"><a href="https://itunes.apple.com/it/app/clear-impegni-e-liste-di-cose/id493136154?mt=8&uo=4" class="tasc-button" target="_blank">Download</a></div>
+		</div>
+		<div class="content">
+			<div class="field price"><span class="icon"></span>4,99 €</div>
+			<div class="field cat"><span class="icon"></span>Produttività</div>
+			<div class="field author"><span class="icon"></span><a href="http://www.realmacsoftware.com/clear">Realmac Software</a></div>
+		</div>
+	</div>
+	<div class="screenshots">
+		<ul>
+			<li><img src="http://a1.mzstatic.com/eu/r30/Purple5/v4/6b/57/94/6b5794f9-80a4-2a1f-a1b9-f0f936be9b3f/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple5/v4/d1/7e/34/d17e3469-d5d0-0f2a-c9c2-007d6eeb7418/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple1/v4/0a/15/2e/0a152e77-1c79-c009-388f-7e6c374f9c8b/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple1/v4/a6/47/58/a6475833-d55d-3add-9767-bec986dba66a/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple7/v4/55/41/3a/55413ae1-2740-399a-ab62-a8f14d5b20c9/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple7/v4/88/b9/3b/88b93b2b-9d7f-4f9a-c471-88ce985d32b8/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple7/v4/28/5c/88/285c88f2-73f2-9eb5-8678-dc13785e456d/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple5/v4/74/8a/59/748a59a6-7ce3-d783-628f-f4fbea57a64f/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple5/v4/fc/3e/8d/fc3e8da9-d1b2-a0a5-cdfe-7a13df62f7dc/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple1/v4/c9/38/3f/c9383fe6-d52f-9fb6-1100-fd88cd2ed5f0/screen480x480.jpeg" alt="app screenshot" /></li>
+		</ul>
+	</div>
+</div>

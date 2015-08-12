@@ -1,0 +1,19 @@
+
+<div class="review clearfix">
+	<div class="image"><img class="icon_rounded" src="http://a1543.phobos.apple.com/us/r30/Purple3/v4/51/c3/eb/51c3ebee-6002-9fb5-db1f-dbd84cbfe105/mzl.rpmclkph.png" alt="icona" /></div>
+	<div class="right-info">
+		<div class="header">
+			<h2 class="h2">App per iPad</h2><h1 class="h1">Vainglory</h1><div class="download"><a href="https://itunes.apple.com/it/app/vainglory/id671464704?mt=8&uo=4" class="tasc-button" target="_blank">Download</a></div>
+		</div>
+		<div class="content">
+			<div class="field price"><span class="icon"></span>Gratis</div>
+			<div class="field cat"><span class="icon"></span>Giochi</div>
+			<div class="field author"><span class="icon"></span><a href="http://www.vainglorygame.com">Super Evil Megacorp</a></div>
+		</div>
+	</div>
+	<div class="screenshots">
+		<ul>
+			<li><img src="http://a1.mzstatic.com/eu/r30/Purple3/v4/85/96/0f/85960f1e-05c8-09db-deb1-7c10b3869416/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple3/v4/ff/2b/ef/ff2bef7e-a1c5-1595-df45-3082f476353e/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple5/v4/cc/d0/ba/ccd0ba71-de4e-8e2e-441e-4e007ffeb7aa/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple5/v4/c4/17/13/c417139d-8837-2609-e001-00709ae57aad/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple3/v4/70/ca/32/70ca3276-4abf-0c9d-7053-9cd830931eaf/screen480x480.jpeg" alt="app screenshot" /></li>
+		</ul>
+	</div>
+</div>

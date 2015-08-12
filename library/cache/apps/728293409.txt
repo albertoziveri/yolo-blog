@@ -1,0 +1,19 @@
+
+<div class="review clearfix">
+	<div class="image"><img class="icon_rounded" src="http://a1816.phobos.apple.com/us/r30/Purple5/v4/49/7f/31/497f31ea-0ee4-71c2-94dc-ae5382857361/mzl.jawnrgqv.png" alt="icona" /></div>
+	<div class="right-info">
+		<div class="header">
+			<h2 class="h2">App universale per iOs</h2><h1 class="h1">Monument Valley</h1><div class="download"><a href="https://itunes.apple.com/it/app/monument-valley/id728293409?mt=8&uo=4" class="tasc-button" target="_blank">Download</a></div>
+		</div>
+		<div class="content">
+			<div class="field price"><span class="icon"></span>3,99 €</div>
+			<div class="field cat"><span class="icon"></span>Giochi</div>
+			<div class="field author"><span class="icon"></span><a href="http://www.monumentvalleygame.com">ustwo™</a></div>
+		</div>
+	</div>
+	<div class="screenshots">
+		<ul>
+			<li><img src="http://a1.mzstatic.com/eu/r30/Purple3/v4/40/90/0f/40900fff-2b33-4dd4-2dd7-edfdfcc2db75/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple5/v4/0b/02/94/0b02943d-c8b9-efcd-6a69-1e813e95234e/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple5/v4/52/45/c0/5245c044-8504-08bd-0e06-4daf65602842/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple3/v4/a2/10/ee/a210ee04-f13e-1535-9bfa-8808ae3fc634/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple1/v4/59/b3/f3/59b3f308-d40f-be8b-03dc-eb7643aa5136/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple1/v4/1a/24/08/1a2408dc-a399-49b2-b38a-ca3ee3b04c22/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple1/v4/a0/d4/80/a0d480d8-7d61-9f98-2811-48a2a9bde0de/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple3/v4/5c/e4/4f/5ce44fa8-42c8-f85b-c5fa-30ba01d74d4a/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple3/v4/54/69/f4/5469f4c9-4583-5ccb-43b3-4a896e751f6d/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple5/v4/58/a3/11/58a311af-6aa0-227d-2f4f-44a59b38b85a/screen480x480.jpeg" alt="app screenshot" /></li>
+		</ul>
+	</div>
+</div>

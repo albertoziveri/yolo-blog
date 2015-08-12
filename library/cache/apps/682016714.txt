@@ -1,0 +1,19 @@
+
+<div class="review clearfix">
+	<div class="image"><img class="icon_rounded" src="http://is4.mzstatic.com/image/pf/us/r30/Purple1/v4/89/c5/26/89c52649-dd4b-b442-fb39-13ed45b1a4f6/mzl.fpyrxspw.png" alt="icona" /></div>
+	<div class="right-info">
+		<div class="header">
+			<h2 class="h2">App per iPad</h2><h1 class="h1">Zamurai Mobile Whiteboard</h1><div class="download"><a href="https://itunes.apple.com/it/app/zamurai-mobile-whiteboard/id682016714?mt=8&uo=4" class="tasc-button" target="_blank">Download</a></div>
+		</div>
+		<div class="content">
+			<div class="field price"><span class="icon"></span>Gratis</div>
+			<div class="field cat"><span class="icon"></span>Produttività</div>
+			<div class="field author"><span class="icon"></span><a href="http://zamurai.com">Zamurai Corporation</a></div>
+		</div>
+	</div>
+	<div class="screenshots">
+		<ul>
+			<li><img src="http://a1.mzstatic.com/eu/r30/Purple4/v4/5a/b3/f5/5ab3f524-c212-6d8f-0fe9-8643df55e65e/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple6/v4/bf/7a/db/bf7adbc9-fa80-3a60-f24f-87c590fedb48/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple4/v4/14/db/d1/14dbd1fe-5e1e-c066-fb12-b52cf66dd511/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple4/v4/ea/44/98/ea449879-1e92-6399-77df-b8612e4e5bc5/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple6/v4/91/14/40/9114407c-fb79-1783-7ecc-7f83c7cd2486/screen480x480.jpeg" alt="app screenshot" /></li>
+		</ul>
+	</div>
+</div>

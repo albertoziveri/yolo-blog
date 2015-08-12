@@ -1,0 +1,19 @@
+
+<div class="review clearfix">
+	<div class="image"><img class="icon_rounded" src="http://a165.phobos.apple.com/us/r30/Purple3/v4/d3/27/20/d327209c-dda5-2ce8-873b-bc12336b55b5/mzl.ktnhcowa.png" alt="icona" /></div>
+	<div class="right-info">
+		<div class="header">
+			<h2 class="h2">App universale per iOs</h2><h1 class="h1">Pocket</h1><div class="download"><a href="https://itunes.apple.com/it/app/pocket/id309601447?mt=8&uo=4" class="tasc-button" target="_blank">Download</a></div>
+		</div>
+		<div class="content">
+			<div class="field price"><span class="icon"></span>Gratis</div>
+			<div class="field cat"><span class="icon"></span>News</div>
+			<div class="field author"><span class="icon"></span><a href="http://getpocket.com/">Read It Later, Inc</a></div>
+		</div>
+	</div>
+	<div class="screenshots">
+		<ul>
+			<li><img src="http://a2.mzstatic.com/eu/r30/Purple3/v4/7a/cd/7a/7acd7a2f-1eda-b1d9-7ab3-3f9f7b768e90/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple5/v4/76/7b/d0/767bd023-062e-fbd5-26eb-ad77eaefe997/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple1/v4/94/ce/5c/94ce5cd2-1985-3e15-352f-254c0ac5ced8/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple4/v4/87/ae/4c/87ae4c9c-bbd5-f2d1-d869-4d6fa968a511/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple1/v4/2e/b1/59/2eb159b6-eec2-8740-edc3-c1bb8b72e502/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple4/v4/e4/30/a9/e430a981-b48b-a50e-6929-49494c261a31/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple4/v4/83/45/7c/83457cb4-ed6e-486f-90b2-cdcb5045b974/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple4/v4/b7/86/42/b7864237-cb74-6155-14cf-8276e87d12ff/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple4/v4/b9/bb/9f/b9bb9f6e-46f9-bd69-6a67-77a2d16009ca/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple3/v4/12/c6/e0/12c6e056-1385-f0b3-c74a-98ff8b074808/screen480x480.jpeg" alt="app screenshot" /></li>
+		</ul>
+	</div>
+</div>

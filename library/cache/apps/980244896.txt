@@ -1,0 +1,19 @@
+
+<div class="review clearfix">
+	<div class="image"><img class="icon_rounded" src="http://is3.mzstatic.com/image/pf/us/r30/Purple5/v4/bb/d9/0a/bbd90ab5-1872-ed48-2cf9-0d376398747d/pr_source.jpg" alt="icona" /></div>
+	<div class="right-info">
+		<div class="header">
+			<h2 class="h2">App per iPad</h2><h1 class="h1">Anodia 2</h1><div class="download"><a href="https://itunes.apple.com/it/app/anodia-2/id980244896?mt=8&uo=4" class="tasc-button" target="_blank">Download</a></div>
+		</div>
+		<div class="content">
+			<div class="field price"><span class="icon"></span>Gratis</div>
+			<div class="field cat"><span class="icon"></span>Giochi</div>
+			<div class="field author"><span class="icon"></span><a href="http://clmgames.com/">CLM</a></div>
+		</div>
+	</div>
+	<div class="screenshots">
+		<ul>
+			<li><img src="http://a4.mzstatic.com/eu/r30/Purple1/v4/47/55/2f/47552f52-8b73-3c21-8588-bc7fad580c03/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple7/v4/d3/cf/a3/d3cfa335-b87d-ba22-82a8-1fe2389b19e3/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple7/v4/8e/9a/19/8e9a1936-0d4d-62be-2fd3-ca3e1c3ce28f/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple7/v4/7c/4b/ca/7c4bcaa1-17de-9f96-9b00-04ce17506e7b/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple5/v4/cc/e1/d2/cce1d2b3-c4c7-fb0b-0261-0a4bd560f400/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple7/v4/aa/12/b6/aa12b6e4-8bcc-975c-88a8-d000035eedc6/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple7/v4/50/0c/dd/500cddfe-bbe1-b2e6-372b-194b88029f40/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple7/v4/44/1f/35/441f352c-cf27-8fd6-9e9b-c976519066db/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple7/v4/16/36/f5/1636f571-653b-6820-ba83-e78f7dec82b4/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple1/v4/56/a6/0e/56a60e59-8c0f-2af1-5158-87f1b26df89d/screen480x480.jpeg" alt="app screenshot" /></li>
+		</ul>
+	</div>
+</div>

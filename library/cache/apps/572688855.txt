@@ -1,0 +1,19 @@
+
+<div class="review clearfix">
+	<div class="image"><img class="icon_rounded" src="http://a1193.phobos.apple.com/us/r30/Purple5/v4/aa/51/1a/aa511a39-737f-82b6-5627-cbe749e4242f/mzl.mfjbrtjq.png" alt="icona" /></div>
+	<div class="right-info">
+		<div class="header">
+			<h2 class="h2">App universale per iOs</h2><h1 class="h1">Todoist: Elenco delle attività | To-Do List</h1><div class="download"><a href="https://itunes.apple.com/it/app/todoist-elenco-delle-attivita/id572688855?mt=8&uo=4" class="tasc-button" target="_blank">Download</a></div>
+		</div>
+		<div class="content">
+			<div class="field price"><span class="icon"></span>Gratis</div>
+			<div class="field cat"><span class="icon"></span>Produttività</div>
+			<div class="field author"><span class="icon"></span><a href="https://it.todoist.com/iphone">Doist</a></div>
+		</div>
+	</div>
+	<div class="screenshots">
+		<ul>
+			<li><img src="http://a5.mzstatic.com/eu/r30/Purple3/v4/b2/7c/25/b27c25f6-1f1e-6d3d-cfbc-8fc9252d679f/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple1/v4/b8/a6/cc/b8a6cc78-b8e3-fe14-3563-846c06e9b6a2/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple5/v4/a7/14/c2/a714c288-2612-2156-6c96-e3078d9ba717/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple1/v4/d4/cc/43/d4cc439a-a30a-1867-a93d-2effe49291e0/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple3/v4/dd/78/43/dd784355-c50a-ce0f-a2a1-79c96f6850cf/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple5/v4/06/29/a8/0629a8f7-868d-6eef-43c4-6aef12131db9/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple5/v4/c9/c7/6e/c9c76e59-8296-8da0-9b5b-36b96145ae97/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple1/v4/db/c4/83/dbc483ef-5c7d-be5a-c32f-2271d24b0673/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple3/v4/f9/87/41/f98741f0-19b0-1e42-59a2-f80ff380c7e3/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple3/v4/fe/c9/6d/fec96d13-0802-b0c6-c1aa-80e9b2cbe820/screen480x480.jpeg" alt="app screenshot" /></li>
+		</ul>
+	</div>
+</div>

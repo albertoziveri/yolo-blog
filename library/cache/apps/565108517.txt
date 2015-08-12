@@ -1,0 +1,19 @@
+
+<div class="review clearfix">
+	<div class="image"><img class="icon_rounded" src="http://a723.phobos.apple.com/us/r30/Purple3/v4/84/ae/b1/84aeb1cb-d73e-bb2e-3bef-ff2ddedaa813/mzl.sznvxssg.png" alt="icona" /></div>
+	<div class="right-info">
+		<div class="header">
+			<h2 class="h2">App per iPhone</h2><h1 class="h1">Languages</h1><div class="download"><a href="https://itunes.apple.com/it/app/languages/id565108517?mt=8&uo=4" class="tasc-button" target="_blank">Download</a></div>
+		</div>
+		<div class="content">
+			<div class="field price"><span class="icon"></span>2,99 €</div>
+			<div class="field cat"><span class="icon"></span>Riferimento</div>
+			<div class="field author"><span class="icon"></span><a href="http://www.languagesapp.com">Sonico GmbH</a></div>
+		</div>
+	</div>
+	<div class="screenshots">
+		<ul>
+			<li><img src="http://a4.mzstatic.com/eu/r30/Purple/v4/73/00/d5/7300d580-47c3-e890-21c8-57851f91c4f5/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple/v4/ac/bf/cd/acbfcdbf-4913-cfd9-08a1-f251228646bc/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple/v4/a0/ad/45/a0ad45c4-f496-3ec4-1732-715bf30d1d2e/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple/v4/fe/4a/a5/fe4aa5fc-f47b-38a7-cb23-d5e8fc2c9e51/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple/v4/66/65/f2/6665f29a-c82a-ef7e-dbb6-9633cf849511/screen1136x1136.jpeg" alt="app screenshot" /></li>
+		</ul>
+	</div>
+</div>

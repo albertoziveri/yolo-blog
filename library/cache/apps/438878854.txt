@@ -1,0 +1,19 @@
+
+<div class="review clearfix">
+	<div class="image"><img class="icon_rounded" src="http://a295.phobos.apple.com/us/r30/Purple2/v4/ca/e2/a9/cae2a943-8d3e-edff-74d7-9bcd3d7da024/mzl.gpcocsxk.png" alt="icona" /></div>
+	<div class="right-info">
+		<div class="header">
+			<h2 class="h2">App per iPad</h2><h1 class="h1">OmmWriter for iPad</h1><div class="download"><a href="https://itunes.apple.com/it/app/ommwriter-for-ipad/id438878854?mt=8&uo=4" class="tasc-button" target="_blank">Download</a></div>
+		</div>
+		<div class="content">
+			<div class="field price"><span class="icon"></span>4,99 €</div>
+			<div class="field cat"><span class="icon"></span>Produttività</div>
+			<div class="field author"><span class="icon"></span><a href="http://www.ommwriter.com/">Herraiz Soto & Co.</a></div>
+		</div>
+	</div>
+	<div class="screenshots">
+		<ul>
+			<li><img src="http://a4.mzstatic.com/eu/r30/Purple2/v4/3f/79/bf/3f79bfa7-633b-2fc8-40a4-e9573359264e/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple/v4/d6/e8/d9/d6e8d904-d84f-e1e5-39a2-02424ff165d3/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple/v4/f1/52/23/f15223a1-9dbe-0fb0-0e31-276b7272f63e/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple/v4/fa/ac/c8/faacc8a6-d918-fb12-e376-a6fdf0b49b94/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple2/v4/4a/0c/cc/4a0ccc0e-17ba-71ab-c016-3cf3e613920d/screen480x480.jpeg" alt="app screenshot" /></li>
+		</ul>
+	</div>
+</div>

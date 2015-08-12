@@ -1,0 +1,19 @@
+
+<div class="review clearfix">
+	<div class="image"><img class="icon_rounded" src="http://a1069.phobos.apple.com/us/r30/Purple3/v4/b5/a0/40/b5a040cd-3341-20fc-4f40-a9ac17bb27a4/mzl.jxljqwsr.png" alt="icona" /></div>
+	<div class="right-info">
+		<div class="header">
+			<h2 class="h2">App per iPad</h2><h1 class="h1">MyScript Smart Note</h1><div class="download"><a href="https://itunes.apple.com/it/app/myscript-smart-note/id477967083?mt=8&uo=4" class="tasc-button" target="_blank">Download</a></div>
+		</div>
+		<div class="content">
+			<div class="field price"><span class="icon"></span>Gratis</div>
+			<div class="field cat"><span class="icon"></span>Produttività</div>
+			<div class="field author"><span class="icon"></span><a href="http://myscript.com/technology/technical-demonstrations/">MyScript</a></div>
+		</div>
+	</div>
+	<div class="screenshots">
+		<ul>
+			<li><img src="http://a1.mzstatic.com/eu/r30/Purple2/v4/bb/fe/10/bbfe10f2-c091-420a-bfde-4cc9633f35f7/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple/v4/e3/76/93/e37693fb-9a1b-06ba-a2c5-dff907e1c843/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple4/v4/a4/3f/1f/a43f1f32-e040-7a35-bfea-21934c4810d0/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple2/v4/a4/44/8e/a4448e3f-a519-8a61-6eaf-b58a7d98e741/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple/v4/d8/e7/f3/d8e7f309-6024-788c-a58e-47ca9af9f551/screen480x480.jpeg" alt="app screenshot" /></li>
+		</ul>
+	</div>
+</div>

@@ -1,0 +1,19 @@
+
+<div class="review clearfix">
+	<div class="image"><img class="icon_rounded" src="http://a28.phobos.apple.com/us/r30/Purple/v4/9c/dd/ca/9cddca3f-93ae-92c7-51a8-0d7d45c68777/mzl.fdjdtrhw.png" alt="icona" /></div>
+	<div class="right-info">
+		<div class="header">
+			<h2 class="h2">App per iPhone</h2><h1 class="h1">iLibretto Scolastico - Voti Scuola e Media Materie</h1><div class="download"><a href="https://itunes.apple.com/it/app/ilibretto-scolastico-voti/id497537994?mt=8&uo=4" class="tasc-button" target="_blank">Download</a></div>
+		</div>
+		<div class="content">
+			<div class="field price"><span class="icon"></span>0,99 €</div>
+			<div class="field cat"><span class="icon"></span>Istruzione</div>
+			<div class="field author"><span class="icon"></span><a href="">Gabriele Carmina</a></div>
+		</div>
+	</div>
+	<div class="screenshots">
+		<ul>
+			<li><img src="http://a5.mzstatic.com/eu/r30/Purple/v4/81/76/b2/8176b28e-e6d8-6e49-e7f4-1f4c0f030e96/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple/v4/2f/7d/90/2f7d90c6-a729-d519-828e-cfb35251fa6f/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple/v4/d7/ca/f3/d7caf36c-14fc-ccb5-fac3-8dc33090c411/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple/v4/53/b4/9e/53b49ea7-2bde-b093-31c9-684eec2c8079/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple/v4/3b/53/3e/3b533e12-ea38-dcfa-7fc4-bb0a61935f3e/screen1136x1136.jpeg" alt="app screenshot" /></li>
+		</ul>
+	</div>
+</div>

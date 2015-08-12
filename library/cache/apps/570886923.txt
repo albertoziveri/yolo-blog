@@ -1,0 +1,19 @@
+
+<div class="review clearfix">
+	<div class="image"><img class="icon_rounded" src="http://a1776.phobos.apple.com/us/r30/Purple1/v4/15/49/d8/1549d8ba-660b-6d16-dbfd-255a0c42e9be/mzl.kpsstxvq.png" alt="icona" /></div>
+	<div class="right-info">
+		<div class="header">
+			<h2 class="h2">App per iPhone</h2><h1 class="h1">Accupedo Pedometro</h1><div class="download"><a href="https://itunes.apple.com/it/app/accupedo-pedometro/id570886923?mt=8&uo=4" class="tasc-button" target="_blank">Download</a></div>
+		</div>
+		<div class="content">
+			<div class="field price"><span class="icon"></span>Gratis</div>
+			<div class="field cat"><span class="icon"></span>Salute e benessere</div>
+			<div class="field author"><span class="icon"></span><a href="http://www.accupedo.com">Corusen LLC</a></div>
+		</div>
+	</div>
+	<div class="screenshots">
+		<ul>
+			<li><img src="http://a2.mzstatic.com/eu/r30/Purple4/v4/2b/43/cf/2b43cf68-7e1e-ab93-3079-9fa56b82a7fb/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple4/v4/9d/8d/bc/9d8dbc27-6917-df77-99b7-2f821fb8b1c5/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple6/v4/3f/d8/ae/3fd8aecc-8266-3fb0-1a42-611451df1e02/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple/v4/8a/7e/b9/8a7eb95d-5a10-36d1-81f2-062ff3c9c291/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple6/v4/09/4a/b3/094ab383-cc6c-74d9-4a2d-41ff8de84a03/screen1136x1136.jpeg" alt="app screenshot" /></li>
+		</ul>
+	</div>
+</div>

@@ -1,0 +1,19 @@
+
+<div class="review clearfix">
+	<div class="image"><img class="icon_rounded" src="http://a654.phobos.apple.com/us/r30/Purple4/v4/ce/d5/54/ced55420-5dc5-da49-f557-51e5bef20c6b/mzl.pvbwipce.png" alt="icona" /></div>
+	<div class="right-info">
+		<div class="header">
+			<h2 class="h2">App per iPhone</h2><h1 class="h1">Landcam</h1><div class="download"><a href="https://itunes.apple.com/it/app/landcam/id669414205?mt=8&uo=4" class="tasc-button" target="_blank">Download</a></div>
+		</div>
+		<div class="content">
+			<div class="field price"><span class="icon"></span>0,99 €</div>
+			<div class="field cat"><span class="icon"></span>Foto e video</div>
+			<div class="field author"><span class="icon"></span><a href="http://landcam.co">Simple Simple</a></div>
+		</div>
+	</div>
+	<div class="screenshots">
+		<ul>
+			<li><img src="http://a1.mzstatic.com/eu/r30/Purple/v4/90/f7/34/90f734e6-d547-d72f-f094-7e14663b6f3a/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple4/v4/73/b8/92/73b892ba-5175-262a-33d7-7ff4085097b5/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple4/v4/95/cf/4c/95cf4cc8-a4f2-bc94-b4c9-86ead47d0c1b/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple/v4/3b/f3/4f/3bf34f73-f151-a327-44e0-26cf5465354c/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple4/v4/69/9d/8f/699d8f27-68e9-9916-528d-4dc97b1d7b10/screen1136x1136.jpeg" alt="app screenshot" /></li>
+		</ul>
+	</div>
+</div>

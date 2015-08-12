@@ -1,0 +1,19 @@
+
+<div class="review clearfix">
+	<div class="image"><img class="icon_rounded" src="http://a1936.phobos.apple.com/us/r30/Purple1/v4/6e/33/70/6e3370c0-a087-e4de-e460-7bd8a9ecbdbb/mzl.nmyyshmu.png" alt="icona" /></div>
+	<div class="right-info">
+		<div class="header">
+			<h2 class="h2">App universale per iOs</h2><h1 class="h1">Il Corpo Umano</h1><div class="download"><a href="https://itunes.apple.com/it/app/il-corpo-umano/id682046579?mt=8&uo=4" class="tasc-button" target="_blank">Download</a></div>
+		</div>
+		<div class="content">
+			<div class="field price"><span class="icon"></span>3,99 €</div>
+			<div class="field cat"><span class="icon"></span>Istruzione</div>
+			<div class="field author"><span class="icon"></span><a href="http://tinybop.com">Tinybop Inc.</a></div>
+		</div>
+	</div>
+	<div class="screenshots">
+		<ul>
+			<li><img src="http://a4.mzstatic.com/eu/r30/Purple1/v4/33/76/c0/3376c0ef-d90d-ad52-133b-c41c03a6d427/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple1/v4/86/15/ff/8615ff59-8580-4515-abaa-080051e134c1/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple3/v4/5a/0e/8c/5a0e8c2a-b672-76ea-98e4-eb77a3febc78/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple3/v4/b7/fc/20/b7fc2014-3856-14f2-670e-4ccad3611ab2/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple3/v4/c8/17/c3/c817c388-05f9-8971-268c-31c7937c11b2/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple3/v4/1c/20/47/1c204781-7dd5-04ed-3a11-67e817a9fcef/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple3/v4/22/06/57/220657f8-998c-dabd-d961-968dda7f3648/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple1/v4/c7/7c/94/c77c940f-a180-1646-28c8-c5fe0daa1140/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple5/v4/68/6d/86/686d86d7-d782-d8e3-92af-e0847a3bfb05/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple3/v4/85/a6/96/85a696da-06d0-3b77-b2f5-e04e2021f4b2/screen480x480.jpeg" alt="app screenshot" /></li>
+		</ul>
+	</div>
+</div>

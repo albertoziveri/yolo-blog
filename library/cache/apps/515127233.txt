@@ -1,0 +1,19 @@
+
+<div class="review clearfix">
+	<div class="image"><img class="icon_rounded" src="http://a119.phobos.apple.com/us/r30/Purple1/v4/e0/bd/31/e0bd311d-e81e-804f-7802-bcadb9bfb98e/mzl.hxnmxuxl.png" alt="icona" /></div>
+	<div class="right-info">
+		<div class="header">
+			<h2 class="h2">App universale per iOs</h2><h1 class="h1">WordReference Dizionario Inglese</h1><div class="download"><a href="https://itunes.apple.com/it/app/wordreference-dizionario-inglese/id515127233?mt=8&uo=4" class="tasc-button" target="_blank">Download</a></div>
+		</div>
+		<div class="content">
+			<div class="field price"><span class="icon"></span>Gratis</div>
+			<div class="field cat"><span class="icon"></span>Riferimento</div>
+			<div class="field author"><span class="icon"></span><a href="http://www.wordreference.com/">WordReference.com, LLC</a></div>
+		</div>
+	</div>
+	<div class="screenshots">
+		<ul>
+			<li><img src="http://a4.mzstatic.com/eu/r30/Purple/v4/f6/c1/17/f6c1178a-06e0-e01c-0110-1e6b0d88ac77/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple/v4/fa/bc/e0/fabce013-4484-2edc-90eb-7cadcaac7bd1/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple/v4/df/a4/38/dfa43813-8c96-6dc2-248d-4e5a46e7e710/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple/v4/c6/c0/3b/c6c03b4f-7878-416f-fb55-055273d896c4/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple/v4/fc/91/c1/fc91c1f4-6c28-522c-6d49-c871a0ce21bf/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple/v4/d2/1d/d1/d21dd1aa-c96c-4d37-8970-503a298f8450/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple/v4/f8/9e/90/f89e905f-7082-c59a-a9e3-8fd59fc1ae8c/screen480x480.jpeg" alt="app screenshot" /></li>
+		</ul>
+	</div>
+</div>

@@ -1,0 +1,19 @@
+
+<div class="review clearfix">
+	<div class="image"><img class="icon_rounded" src="http://a589.phobos.apple.com/us/r30/Purple3/v4/bc/db/da/bcdbdac9-d81e-a083-d9fd-4bff10b50b85/mzl.twmxujqh.png" alt="icona" /></div>
+	<div class="right-info">
+		<div class="header">
+			<h2 class="h2">App per iPad</h2><h1 class="h1">Ruzzle</h1><div class="download"><a href="https://itunes.apple.com/it/app/ruzzle/id504265646?mt=8&uo=4" class="tasc-button" target="_blank">Download</a></div>
+		</div>
+		<div class="content">
+			<div class="field price"><span class="icon"></span>Gratis</div>
+			<div class="field cat"><span class="icon"></span>Giochi</div>
+			<div class="field author"><span class="icon"></span><a href="http://www.ruzzle-game.com">MAG Interactive</a></div>
+		</div>
+	</div>
+	<div class="screenshots">
+		<ul>
+			<li><img src="http://a2.mzstatic.com/eu/r30/Purple6/v4/4e/e0/eb/4ee0eb2d-e7ed-312a-06d1-d37c34d9e0b6/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple6/v4/34/e8/20/34e82054-bca7-cc69-66f6-c448d4774201/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple6/v4/76/79/e8/7679e8cd-988f-7a82-2b27-3b7d2a77c7bd/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple/v4/7d/ae/6e/7dae6e63-5556-3371-9c0f-77e716bb60ba/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple4/v4/84/68/c8/8468c853-fbe7-e201-e60e-af53ea55eee8/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple/v4/2e/5d/f4/2e5df42f-1e83-615b-3ade-eb4e028d3efa/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple/v4/78/15/09/7815098b-9b19-f46c-ff6b-446cd780efc1/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple4/v4/77/89/c7/7789c7c2-71fe-b2a2-ab83-3d3b5264c546/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple6/v4/eb/0a/36/eb0a3617-1ae3-8b97-8396-69b153aa441a/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple/v4/c7/0b/b3/c70bb348-81c8-2d02-d75c-d2b16936e23f/screen480x480.jpeg" alt="app screenshot" /></li>
+		</ul>
+	</div>
+</div>

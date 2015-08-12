@@ -1,0 +1,19 @@
+
+<div class="review clearfix">
+	<div class="image"><img class="icon_rounded" src="http://a1081.phobos.apple.com/us/r30/Purple3/v4/50/62/0b/50620b16-eade-2cd4-4d68-85ef6399680b/mzl.dsmquoqx.png" alt="icona" /></div>
+	<div class="right-info">
+		<div class="header">
+			<h2 class="h2">App universale per iOs</h2><h1 class="h1">Desktop remoto Microsoft</h1><div class="download"><a href="https://itunes.apple.com/it/app/desktop-remoto-microsoft/id714464092?mt=8&uo=4" class="tasc-button" target="_blank">Download</a></div>
+		</div>
+		<div class="content">
+			<div class="field price"><span class="icon"></span>Gratis</div>
+			<div class="field cat"><span class="icon"></span>Economia</div>
+			<div class="field author"><span class="icon"></span><a href="http://go.microsoft.com/fwlink/p/?LinkId=324281">Microsoft Corporation</a></div>
+		</div>
+	</div>
+	<div class="screenshots">
+		<ul>
+			<li><img src="http://a4.mzstatic.com/eu/r30/Purple1/v4/27/a2/bf/27a2bf6b-d845-bb94-5c21-ffae407b982f/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple3/v4/5b/3e/69/5b3e6976-66bb-3cb4-d762-c891426414d8/screen320x320.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple3/v4/82/2e/bf/822ebfd0-9dd9-3a88-8e03-53d695d838f6/screen320x320.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple3/v4/37/1f/47/371f478c-e2f2-b733-487e-23d86d916a08/screen320x320.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple5/v4/5c/6b/db/5c6bdbb0-98c1-88f2-4205-5ba3a638407f/screen320x320.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple1/v4/cf/b2/3b/cfb23b14-82ff-8547-c0a6-2d86154d93f1/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple1/v4/74/de/88/74de88a9-100d-1e29-bf77-b3433712b319/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple3/v4/64/97/23/649723cc-9f79-1c17-fec5-815b24ec3044/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple5/v4/9a/85/cb/9a85cb98-fe62-22ce-5504-1c1aed34a2a2/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple1/v4/4c/e7/6b/4ce76bb9-1a45-8285-8c46-b7ec75dcd2d3/screen480x480.jpeg" alt="app screenshot" /></li>
+		</ul>
+	</div>
+</div>

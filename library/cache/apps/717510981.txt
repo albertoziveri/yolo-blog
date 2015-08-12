@@ -1,0 +1,19 @@
+
+<div class="review clearfix">
+	<div class="image"><img class="icon_rounded" src="http://a1038.phobos.apple.com/us/r30/Purple3/v4/08/89/b5/0889b5ec-3dbb-d804-0064-8ab0079a9f93/mzl.zqrdqtyn.png" alt="icona" /></div>
+	<div class="right-info">
+		<div class="header">
+			<h2 class="h2">App per iPhone</h2><h1 class="h1">Shares 2</h1><div class="download"><a href="https://itunes.apple.com/it/app/shares-2/id717510981?mt=8&uo=4" class="tasc-button" target="_blank">Download</a></div>
+		</div>
+		<div class="content">
+			<div class="field price"><span class="icon"></span>Gratis</div>
+			<div class="field cat"><span class="icon"></span>Finanza</div>
+			<div class="field author"><span class="icon"></span><a href="http://getsharesapp.com">Nothing Magical Inc.</a></div>
+		</div>
+	</div>
+	<div class="screenshots">
+		<ul>
+			<li><img src="http://a2.mzstatic.com/eu/r30/Purple4/v4/15/7e/b4/157eb412-b5f6-1251-b029-3b86106559ef/screen322x572.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple1/v4/b2/c2/fd/b2c2fd65-73bd-bf54-3342-7cd21248e383/screen322x572.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple3/v4/88/55/37/88553713-649f-8565-d1b0-0bb1d44aa238/screen322x572.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple3/v4/21/e8/c5/21e8c58b-461b-c08b-ecc4-274fa43ab184/screen322x572.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple3/v4/3e/25/a2/3e25a2e1-5714-ed88-110c-b624a32857d8/screen322x572.jpeg" alt="app screenshot" /></li>
+		</ul>
+	</div>
+</div>

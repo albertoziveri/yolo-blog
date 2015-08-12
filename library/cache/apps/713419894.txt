@@ -1,0 +1,19 @@
+
+<div class="review clearfix">
+	<div class="image"><img class="icon_rounded" src="http://a1035.phobos.apple.com/us/r30/Purple5/v4/77/20/57/772057b3-8b0f-4890-2056-d8b2ede867c1/mzl.wiavlkki.png" alt="icona" /></div>
+	<div class="right-info">
+		<div class="header">
+			<h2 class="h2">App universale per iOs</h2><h1 class="h1">TruSloMo - Share slow motion video to Instagram, WhatsApp, WeChat. Supports 240fps and 120fps video from iPhone 5S, iPhone 6, iPhone 6+</h1><div class="download"><a href="https://itunes.apple.com/it/app/truslomo-share-slow-motion/id713419894?mt=8&uo=4" class="tasc-button" target="_blank">Download</a></div>
+		</div>
+		<div class="content">
+			<div class="field price"><span class="icon"></span>Gratis</div>
+			<div class="field cat"><span class="icon"></span>Foto e video</div>
+			<div class="field author"><span class="icon"></span><a href="http://truslomo.com">William Wu</a></div>
+		</div>
+	</div>
+	<div class="screenshots">
+		<ul>
+			<li><img src="http://a5.mzstatic.com/eu/r30/Purple5/v4/9f/a6/ff/9fa6ff37-2d2d-2108-3ded-ea5f4789b154/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple3/v4/5a/2a/b0/5a2ab0c6-24dc-9286-6705-558d6efb9bb8/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple1/v4/d3/73/c7/d373c7ce-61ef-d033-100a-fc7148a5fd09/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple1/v4/99/fc/3e/99fc3e01-227a-978e-9b3d-6c3ddc63d271/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple5/v4/c4/db/e2/c4dbe2c8-6685-f3ad-e619-4903adfca3ec/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple3/v4/56/d9/60/56d9604f-044b-d7e8-3952-b19166e113a8/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple5/v4/c9/a3/3a/c9a33a7f-5cbc-231c-f969-9aecd424ac32/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple1/v4/82/3e/63/823e638f-ea5d-9e5f-0f65-ec62ae327d3e/screen480x480.jpeg" alt="app screenshot" /></li>
+		</ul>
+	</div>
+</div>

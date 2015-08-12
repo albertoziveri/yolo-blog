@@ -1,0 +1,19 @@
+
+<div class="review clearfix">
+	<div class="image"><img class="icon_rounded" src="http://a1361.phobos.apple.com/us/r30/Purple4/v4/69/3d/3f/693d3fc1-2b89-cb0e-14c0-1213841d9ead/mzl.pvdouuvv.png" alt="icona" /></div>
+	<div class="right-info">
+		<div class="header">
+			<h2 class="h2">App universale per iOs</h2><h1 class="h1">Skitch: Scatta, Contrassegna, Invia</h1><div class="download"><a href="https://itunes.apple.com/it/app/skitch-scatta-contrassegna/id490505997?mt=8&uo=4" class="tasc-button" target="_blank">Download</a></div>
+		</div>
+		<div class="content">
+			<div class="field price"><span class="icon"></span>Gratis</div>
+			<div class="field cat"><span class="icon"></span>Produttività</div>
+			<div class="field author"><span class="icon"></span><a href="http://www.evernote.com/skitch/">Evernote</a></div>
+		</div>
+	</div>
+	<div class="screenshots">
+		<ul>
+			<li><img src="http://a1.mzstatic.com/eu/r30/Purple1/v4/46/a4/3b/46a43b7b-e8d6-b686-387e-1412979ba2c3/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple5/v4/b8/16/80/b81680b3-b65d-6348-91bb-e35b860ef7e7/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple5/v4/3f/76/6c/3f766c4b-7a37-d848-941a-9fa47db009d9/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple3/v4/76/56/a8/7656a840-8a58-ac6d-aeb6-ae10c37215ad/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple4/v4/be/4e/64/be4e6471-b5e0-28db-2c08-e244757d0dac/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple3/v4/44/60/93/446093d4-9fe6-29c0-a32e-6aaff1057207/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple3/v4/f9/ad/90/f9ad908c-06ec-32ff-3237-21e810791e92/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple5/v4/1a/55/83/1a55834a-6283-ff27-01c9-c8feb86106c8/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple3/v4/92/d2/dd/92d2dd74-ee6e-a3fe-59f7-e45c5894c779/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple5/v4/36/54/0a/36540a89-5495-97f0-4283-6913be843e57/screen480x480.jpeg" alt="app screenshot" /></li>
+		</ul>
+	</div>
+</div>

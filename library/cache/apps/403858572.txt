@@ -1,0 +1,19 @@
+
+<div class="review clearfix">
+	<div class="image"><img class="icon_rounded" src="http://a1815.phobos.apple.com/us/r30/Purple3/v4/12/7b/57/127b57e9-aca1-7971-c979-1762d9d0b85c/pr_source.jpg?downloadKey=1422315748_b9f0b204f4143641ca720c4af93aa89a" alt="icona" /></div>
+	<div class="right-info">
+		<div class="header">
+			<h2 class="h2">App per iPad</h2><h1 class="h1">Fruit Ninja Free</h1><div class="download"><a href="https://itunes.apple.com/it/app/fruit-ninja-free/id403858572?mt=8&uo=4" class="tasc-button" target="_blank">Download</a></div>
+		</div>
+		<div class="content">
+			<div class="field price"><span class="icon"></span>Gratis</div>
+			<div class="field cat"><span class="icon"></span>Giochi</div>
+			<div class="field author"><span class="icon"></span><a href="http://fruitninja.com/">Halfbrick Studios</a></div>
+		</div>
+	</div>
+	<div class="screenshots">
+		<ul>
+			<li><img src="http://a3.mzstatic.com/eu/r30/Purple5/v4/7e/b7/34/7eb73426-1b54-4d89-802f-c373a9528d9a/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple3/v4/57/05/eb/5705eba9-5952-c272-cc58-c68530e65943/screen320x320.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple5/v4/6e/f9/9e/6ef99e68-6d9b-f600-ca94-de8f06e4b4bd/screen320x320.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple5/v4/3e/e7/c6/3ee7c678-b48e-f1fd-6c4f-2a126b1f9a33/screen320x320.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple1/v4/84/a1/29/84a12971-a4cd-33c0-9f8e-6a3ca2452e5f/screen320x320.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple3/v4/14/83/5e/14835ed5-c999-fa89-5d28-c28841cfa63d/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple1/v4/1d/12/98/1d12989f-b6bd-da35-eabd-8523201b7be6/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple3/v4/4e/02/42/4e02426b-362d-f34c-a30d-05beb3d6d380/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple1/v4/2f/cb/aa/2fcbaa4d-fcd9-d17b-c432-1f32cedf5531/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple5/v4/ea/28/79/ea287924-6a9f-c10a-a151-2398abedfa48/screen480x480.jpeg" alt="app screenshot" /></li>
+		</ul>
+	</div>
+</div>

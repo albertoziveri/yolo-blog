@@ -1,0 +1,19 @@
+
+<div class="review clearfix">
+	<div class="image"><img class="icon_rounded" src="http://a1896.phobos.apple.com/us/r30/Purple/v4/dd/fd/92/ddfd9229-5de0-117b-7d81-052ab74930c1/mzl.wyuyfeyy.png" alt="icona" /></div>
+	<div class="right-info">
+		<div class="header">
+			<h2 class="h2">App per iPhone</h2><h1 class="h1">Awesome Note (To-do/Calendar/Reminder/Memo)</h1><div class="download"><a href="https://itunes.apple.com/it/app/awesome-note-to-do-calendar/id320203391?mt=8&uo=4" class="tasc-button" target="_blank">Download</a></div>
+		</div>
+		<div class="content">
+			<div class="field price"><span class="icon"></span>3,99 €</div>
+			<div class="field cat"><span class="icon"></span>Produttività</div>
+			<div class="field author"><span class="icon"></span><a href="http://bridworks.com">BRID</a></div>
+		</div>
+	</div>
+	<div class="screenshots">
+		<ul>
+			<li><img src="http://a1.mzstatic.com/eu/r30/Purple/v4/fb/3b/fb/fb3bfb29-36be-ae45-3fed-421521c3e9be/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple/v4/e6/e2/1a/e6e21a7b-049c-ae15-8ad5-3a943da1b532/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple/v4/ec/41/c8/ec41c8de-1d3b-1259-483d-137117c856bc/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple/v4/c7/b7/3a/c7b73ac2-f5a5-80e7-4fe4-a81d7d0f5f8b/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple6/v4/96/2e/e9/962ee943-6d8d-f956-26d5-506cffb904f5/screen320x320.jpeg" alt="app screenshot" /></li>
+		</ul>
+	</div>
+</div>

@@ -1,0 +1,19 @@
+
+<div class="review clearfix">
+	<div class="image"><img class="icon_rounded" src="http://a14.phobos.apple.com/us/r30/Purple1/v4/41/3e/f4/413ef44d-a1c8-a3b9-fe16-0cfab5b21968/mzl.jjotlgnj.png" alt="icona" /></div>
+	<div class="right-info">
+		<div class="header">
+			<h2 class="h2">App per iPad</h2><h1 class="h1">Spreaker DJ - mix, registra e trasmetti radio e podcast</h1><div class="download"><a href="https://itunes.apple.com/it/app/spreaker-dj-mix-registra-e/id585625596?mt=8&uo=4" class="tasc-button" target="_blank">Download</a></div>
+		</div>
+		<div class="content">
+			<div class="field price"><span class="icon"></span>Gratis</div>
+			<div class="field cat"><span class="icon"></span>Musica</div>
+			<div class="field author"><span class="icon"></span><a href="http://www.spreaker.com">Spreaker Inc.</a></div>
+		</div>
+	</div>
+	<div class="screenshots">
+		<ul>
+			<li><img src="http://a1.mzstatic.com/eu/r30/Purple3/v4/c1/24/d2/c124d28d-a58c-e07d-6a32-442df4c006a8/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple5/v4/ee/17/85/ee17856d-4507-8b59-3f16-e3fa6142d7c0/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple4/v4/3d/ac/29/3dac29cc-dd19-371b-367c-d3b94aed3055/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple3/v4/2d/60/66/2d606692-2c19-1fe7-2582-fd8979577931/screen480x480.jpeg" alt="app screenshot" /></li>
+		</ul>
+	</div>
+</div>

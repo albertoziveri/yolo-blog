@@ -1,0 +1,19 @@
+
+<div class="review clearfix">
+	<div class="image"><img class="icon_rounded" src="http://a1673.phobos.apple.com/us/r30/Purple5/v4/1d/4c/84/1d4c847e-b152-3b0a-2f30-a5cd82f90ace/mzl.eplmcfdm.png" alt="icona" /></div>
+	<div class="right-info">
+		<div class="header">
+			<h2 class="h2">App per iPad</h2><h1 class="h1">Crossy Road - Endless Arcade Hopper</h1><div class="download"><a href="https://itunes.apple.com/it/app/crossy-road-endless-arcade/id924373886?mt=8&uo=4" class="tasc-button" target="_blank">Download</a></div>
+		</div>
+		<div class="content">
+			<div class="field price"><span class="icon"></span>Gratis</div>
+			<div class="field cat"><span class="icon"></span>Giochi</div>
+			<div class="field author"><span class="icon"></span><a href="http://www.crossyroad.com">HIPSTER WHALE</a></div>
+		</div>
+	</div>
+	<div class="screenshots">
+		<ul>
+			<li><img src="http://a1.mzstatic.com/eu/r30/Purple3/v4/3a/a9/ef/3aa9efdd-8a80-a946-ee2f-2bfabe86b6a5/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple5/v4/23/39/9e/23399eeb-1a2f-c9eb-151d-3815d14b40c0/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple5/v4/0e/dc/24/0edc24cd-bcfe-423a-bbd2-ae64fe3c1f29/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple3/v4/53/ee/c5/53eec56a-5c50-b6ab-ad9f-62d4925c2995/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple1/v4/de/97/9a/de979a61-8ae8-1fa8-3259-6e8523c86913/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple1/v4/13/3e/11/133e11cb-d783-314f-67d4-0d74516e97a5/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple3/v4/ad/0b/db/ad0bdb34-9729-284f-f82f-bf4a192e5d0a/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple3/v4/27/13/f4/2713f48f-0e3f-0975-96ba-b6a0d6ef989e/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple5/v4/ba/85/3a/ba853a95-0490-a79e-16dc-e9cde5fbc352/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple3/v4/e6/8c/b6/e68cb611-aa67-4dc5-2770-77c8c679a6e7/screen480x480.jpeg" alt="app screenshot" /></li>
+		</ul>
+	</div>
+</div>

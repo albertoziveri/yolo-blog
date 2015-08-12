@@ -1,0 +1,19 @@
+
+<div class="review clearfix">
+	<div class="image"><img class="icon_rounded" src="http://a1020.phobos.apple.com/us/r30/Purple3/v4/18/70/22/187022ba-580b-c8ad-5fb3-ed3f3501ecec/mzl.maexiada.png" alt="icona" /></div>
+	<div class="right-info">
+		<div class="header">
+			<h2 class="h2">App universale per iOs</h2><h1 class="h1">Grid Lens</h1><div class="download"><a href="https://itunes.apple.com/it/app/grid-lens/id490495120?mt=8&uo=4" class="tasc-button" target="_blank">Download</a></div>
+		</div>
+		<div class="content">
+			<div class="field price"><span class="icon"></span>0,99 €</div>
+			<div class="field cat"><span class="icon"></span>Foto e video</div>
+			<div class="field author"><span class="icon"></span><a href="http://www.bucketlabs.net">Bucket Labs</a></div>
+		</div>
+	</div>
+	<div class="screenshots">
+		<ul>
+			<li><img src="http://a3.mzstatic.com/eu/r30/Purple/v4/39/46/c5/3946c5f6-01cc-3662-008b-6da4c13c3805/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple/v4/52/a1/9a/52a19abf-8f65-451c-429c-c7b760b146e3/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple/v4/3d/18/e1/3d18e1be-bfca-c497-6105-649e4c1bb721/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple/v4/0d/cd/45/0dcd45bd-0dca-6c5c-8d03-3092ebf648fa/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple/v4/6f/1d/09/6f1d0968-119e-8a14-a20e-b5327999a05a/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple/v4/34/10/a6/3410a6ec-6ca7-f637-4203-cd30d7930611/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple/v4/8f/dc/4b/8fdc4b72-d498-63ca-638c-c6a8ee6a1f41/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple/v4/dd/ab/20/ddab20cb-3256-8b4c-bbaa-1c8010fffc57/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple/v4/2a/c9/66/2ac9661b-6138-08ba-2b3c-626b0f0aedac/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple/v4/5f/49/09/5f4909b9-4280-098b-bc5d-bf2166f65ea5/screen480x480.jpeg" alt="app screenshot" /></li>
+		</ul>
+	</div>
+</div>

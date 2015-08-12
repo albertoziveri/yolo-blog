@@ -1,0 +1,19 @@
+
+<div class="review clearfix">
+	<div class="image"><img class="" src="http://is2.mzstatic.com/image/pf/us/r30/Purple1/v4/4a/1b/77/4a1b772d-ec10-48f1-2b9d-59ab71304540/AppIcon.512x512-75.png" alt="icona" /></div>
+	<div class="right-info">
+		<div class="header">
+			<h2 class="h2">App per Mac</h2><h1 class="h1">Tweetbot for Twitter</h1><div class="download"><a href="https://itunes.apple.com/it/app/tweetbot-for-twitter/id557168941?mt=12&uo=4" class="tasc-button" target="_blank">Download</a></div>
+		</div>
+		<div class="content">
+			<div class="field price"><span class="icon"></span>12,99 €</div>
+			<div class="field cat"><span class="icon"></span>Social Network</div>
+			<div class="field author"><span class="icon"></span><a href="http://tapbots.com/software/tweetbot/mac">Tapbots</a></div>
+		</div>
+	</div>
+	<div class="screenshots">
+		<ul>
+			<li><img src="http://a3.mzstatic.com/eu/r30/Purple7/v4/7b/c3/14/7bc31403-1a78-a66b-261c-62784dfb1e65/screen800x500.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple1/v4/d1/e8/43/d1e843f1-39b4-67be-d631-13b6e3335cd6/screen800x500.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple5/v4/11/f5/f8/11f5f8d3-5b9e-09ce-67ff-c6589565e0b7/screen800x500.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple7/v4/29/73/3c/29733c0e-da3c-8590-6486-817a1f3f60d4/screen800x500.jpeg" alt="app screenshot" /></li>
+		</ul>
+	</div>
+</div>

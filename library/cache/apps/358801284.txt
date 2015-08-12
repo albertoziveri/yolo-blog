@@ -1,0 +1,19 @@
+
+<div class="review clearfix">
+	<div class="image"><img class="icon_rounded" src="http://a1661.phobos.apple.com/us/r30/Purple3/v4/4e/86/f4/4e86f4fa-16ad-0bac-2d66-afb42f8b1cc3/mzl.ekowvvoc.png" alt="icona" /></div>
+	<div class="right-info">
+		<div class="header">
+			<h2 class="h2">App universale per iOs</h2><h1 class="h1">Flipboard: La tua rivista sociale di notizie</h1><div class="download"><a href="https://itunes.apple.com/it/app/flipboard-la-tua-rivista-sociale/id358801284?mt=8&uo=4" class="tasc-button" target="_blank">Download</a></div>
+		</div>
+		<div class="content">
+			<div class="field price"><span class="icon"></span>Gratis</div>
+			<div class="field cat"><span class="icon"></span>News</div>
+			<div class="field author"><span class="icon"></span><a href="http://www.flipboard.com">Flipboard Inc.</a></div>
+		</div>
+	</div>
+	<div class="screenshots">
+		<ul>
+			<li><img src="http://a3.mzstatic.com/eu/r30/Purple3/v4/b1/59/a2/b159a297-359d-9579-c9a9-b33ef4c7046a/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple3/v4/b6/2a/a1/b62aa13c-ca96-d653-76ba-c0f9d92d0ce6/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple3/v4/97/48/51/9748517a-2d8e-8a60-d25b-51e81627ad45/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple3/v4/7e/c2/bf/7ec2bf22-b685-4a1d-469e-51314e20439e/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple1/v4/75/ee/db/75eedb6a-4698-f0e7-d680-43f3c1d3e196/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple5/v4/4e/47/f8/4e47f83b-bdf8-56fa-19a4-812a36377819/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple3/v4/43/0e/24/430e24fc-fcbe-457e-cfe1-aaf2e97d661e/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple3/v4/3e/91/2b/3e912bc2-3a38-7d52-9fae-f46202742a50/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple3/v4/59/d3/76/59d37635-adb9-3f91-97aa-926965819245/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple1/v4/a1/f4/6b/a1f46bfb-dfa1-313b-226b-501ba43c8859/screen480x480.jpeg" alt="app screenshot" /></li>
+		</ul>
+	</div>
+</div>

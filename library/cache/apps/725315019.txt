@@ -1,0 +1,19 @@
+
+<div class="review clearfix">
+	<div class="image"><img class="icon_rounded" src="http://a1009.phobos.apple.com/us/r30/Purple5/v4/ff/a9/40/ffa940e1-cdab-aae4-c571-5c2bb9a2eef3/mzl.nuxnitrv.png" alt="icona" /></div>
+	<div class="right-info">
+		<div class="header">
+			<h2 class="h2">App universale per iOs</h2><h1 class="h1">Calcolatrice X Pro</h1><div class="download"><a href="https://itunes.apple.com/it/app/calcolatrice-x-pro/id725315019?mt=8&uo=4" class="tasc-button" target="_blank">Download</a></div>
+		</div>
+		<div class="content">
+			<div class="field price"><span class="icon"></span>0,99 €</div>
+			<div class="field cat"><span class="icon"></span>Utility</div>
+			<div class="field author"><span class="icon"></span><a href="http://www.calconvert.com">Droxic OOD</a></div>
+		</div>
+	</div>
+	<div class="screenshots">
+		<ul>
+			<li><img src="http://a2.mzstatic.com/eu/r30/Purple4/v4/83/8a/05/838a05dd-082b-4437-9d28-bd090fdc0758/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple/v4/18/88/54/18885413-ab3c-f9b5-ca04-f526185968e6/screen320x320.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple/v4/0a/ea/a9/0aeaa9e7-b9d9-e91a-84d7-9e0332b9be25/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple4/v4/a9/35/e4/a935e447-1b39-44fe-5acf-2c46d1473122/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple4/v4/0e/be/f3/0ebef3bc-ad8f-f3a7-d15b-89ce6545e2b0/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple/v4/49/f3/f4/49f3f4b7-f4db-6f9f-c9e5-8b3f441f9b01/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple6/v4/b1/76/5a/b1765a15-670f-b5ee-e9e7-d9dba849bee1/screen480x480.jpeg" alt="app screenshot" /></li>
+		</ul>
+	</div>
+</div>

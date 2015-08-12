@@ -1,0 +1,19 @@
+
+<div class="review clearfix">
+	<div class="image"><img class="icon_rounded" src="http://a1190.phobos.apple.com/us/r30/Purple3/v4/07/4e/59/074e59ae-134e-b316-466c-c880b48443a0/mzl.chhprhcf.png" alt="icona" /></div>
+	<div class="right-info">
+		<div class="header">
+			<h2 class="h2">App per iPhone</h2><h1 class="h1">Lumosity Mobile</h1><div class="download"><a href="https://itunes.apple.com/it/app/lumosity-mobile/id577232024?mt=8&uo=4" class="tasc-button" target="_blank">Download</a></div>
+		</div>
+		<div class="content">
+			<div class="field price"><span class="icon"></span>Gratis</div>
+			<div class="field cat"><span class="icon"></span>Istruzione</div>
+			<div class="field author"><span class="icon"></span><a href="http://www.lumosity.com">Lumos Labs, Inc.</a></div>
+		</div>
+	</div>
+	<div class="screenshots">
+		<ul>
+			<li><img src="http://a5.mzstatic.com/eu/r30/Purple4/v4/a5/b1/50/a5b150a6-13b0-1e20-529d-9bf0d3edb920/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple/v4/f1/81/1e/f1811e53-8308-9c36-b41f-0ae1279dd6ee/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple/v4/cc/9a/a6/cc9aa6e6-173e-2558-5750-aceecae1c7e9/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple4/v4/5f/ef/df/5fefdf45-261a-bb2e-e516-bd46092d0ee1/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple6/v4/52/8c/ee/528ceeb6-11ec-e040-52b5-b9273e64470f/screen1136x1136.jpeg" alt="app screenshot" /></li>
+		</ul>
+	</div>
+</div>

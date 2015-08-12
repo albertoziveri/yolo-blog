@@ -1,0 +1,19 @@
+
+<div class="review clearfix">
+	<div class="image"><img class="icon_rounded" src="http://a643.phobos.apple.com/us/r30/Purple4/v4/50/55/dc/5055dcee-a305-859f-2639-13572901595f/mzl.wsjlkvzz.png" alt="icona" /></div>
+	<div class="right-info">
+		<div class="header">
+			<h2 class="h2">App universale per iOs</h2><h1 class="h1">Articles</h1><div class="download"><a href="https://itunes.apple.com/it/app/articles/id364881979?mt=8&uo=4" class="tasc-button" target="_blank">Download</a></div>
+		</div>
+		<div class="content">
+			<div class="field price"><span class="icon"></span>Gratis</div>
+			<div class="field cat"><span class="icon"></span>Riferimento</div>
+			<div class="field author"><span class="icon"></span><a href="http://www.sophiestication.com/articles/">Sophia Teutschler</a></div>
+		</div>
+	</div>
+	<div class="screenshots">
+		<ul>
+			<li><img src="http://a3.mzstatic.com/eu/r30/Purple/v4/f2/d2/26/f2d226f7-ad32-d788-7273-6e6b754aff7a/screen322x572.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple/v4/c8/16/f1/c816f16d-81fc-cd8f-29a7-fc9439ad62a7/screen322x572.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple2/v4/89/8f/29/898f298a-6610-9b21-3cda-8c9211316b9e/screen322x572.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple/v4/c9/4c/10/c94c10dc-7b69-fec5-a146-894d49ea5905/screen322x572.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple/v4/e0/bf/ef/e0bfefb2-1a37-3704-dee7-330e180fc509/screen322x572.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple/v4/f6/c3/ad/f6c3ad84-0461-c341-35ef-54f708af6030/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple/v4/f6/50/02/f6500234-091b-02ff-5db2-e36d0f08c164/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple/v4/e8/3b/d8/e83bd8ff-321d-8dcf-80e0-fa4c6d30131c/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple/v4/ec/c7/2b/ecc72b16-556c-71e5-98f5-91f4fb06ce07/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple/v4/e5/3c/fa/e53cfad1-894e-4d11-5f80-00f169aac0e4/screen480x480.jpeg" alt="app screenshot" /></li>
+		</ul>
+	</div>
+</div>

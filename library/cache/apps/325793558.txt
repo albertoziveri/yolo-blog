@@ -1,0 +1,19 @@
+
+<div class="review clearfix">
+	<div class="image"><img class="icon_rounded" src="http://a1965.phobos.apple.com/us/r30/Purple/v4/35/0a/63/350a637e-9011-7552-fb4a-04ab71120bef/mzl.lapdqgtf.png" alt="icona" /></div>
+	<div class="right-info">
+		<div class="header">
+			<h2 class="h2">App per iPhone</h2><h1 class="h1">Geared</h1><div class="download"><a href="https://itunes.apple.com/it/app/geared/id325793558?mt=8&uo=4" class="tasc-button" target="_blank">Download</a></div>
+		</div>
+		<div class="content">
+			<div class="field price"><span class="icon"></span>0,99 €</div>
+			<div class="field cat"><span class="icon"></span>Giochi</div>
+			<div class="field author"><span class="icon"></span><a href="http://playfulart.com/">Bryan Mitchell</a></div>
+		</div>
+	</div>
+	<div class="screenshots">
+		<ul>
+			<li><img src="http://a5.mzstatic.com/eu/r30/Purple/v4/ae/e8/fb/aee8fb1b-c7d6-07d2-0a24-b1a2ce5a8ea2/screen320x480.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple/v4/a8/43/a9/a843a936-1c6c-0890-5fdd-4eb7160ea678/screen320x480.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple/v4/7d/b1/d9/7db1d989-9792-ebbb-8fda-472e62b5a5cb/screen320x480.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple/v4/65/15/32/651532f4-d645-fb7c-6528-b70aca186010/screen320x480.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple/v4/9e/c7/53/9ec753ad-914f-4395-aa8d-4e0c6e3a7416/screen320x480.jpeg" alt="app screenshot" /></li>
+		</ul>
+	</div>
+</div>

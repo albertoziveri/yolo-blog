@@ -1,0 +1,19 @@
+
+<div class="review clearfix">
+	<div class="image"><img class="icon_rounded" src="http://a1766.phobos.apple.com/us/r30/Purple3/v4/2c/ed/95/2ced950f-6c6f-e6af-7446-7858fc320ab5/mzl.qpcpshui.png" alt="icona" /></div>
+	<div class="right-info">
+		<div class="header">
+			<h2 class="h2">App universale per iOs</h2><h1 class="h1">Impara l'inglese con Duolingo</h1><div class="download"><a href="https://itunes.apple.com/it/app/impara-linglese-con-duolingo/id570060128?mt=8&uo=4" class="tasc-button" target="_blank">Download</a></div>
+		</div>
+		<div class="content">
+			<div class="field price"><span class="icon"></span>Gratis</div>
+			<div class="field cat"><span class="icon"></span>Istruzione</div>
+			<div class="field author"><span class="icon"></span><a href="http://www.duolingo.com">Duolingo</a></div>
+		</div>
+	</div>
+	<div class="screenshots">
+		<ul>
+			<li><img src="http://a3.mzstatic.com/eu/r30/Purple5/v4/c5/15/c4/c515c4ac-750f-c87c-c4c2-82c457b460a8/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple5/v4/0a/17/62/0a176287-0177-b12e-37d6-d97cce83d07c/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple1/v4/e5/36/c5/e536c5dd-e85c-068b-b917-de1d91f2c49d/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple3/v4/52/3b/46/523b46d5-b282-08ee-fab9-1d9dd74258b9/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple5/v4/63/ca/bc/63cabcb0-a490-9061-f092-9b32fa6e36b3/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple3/v4/3f/6b/72/3f6b7212-1af6-1149-2645-a15b508f284b/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple1/v4/b1/a6/b8/b1a6b8c1-09ab-148a-d2f1-d20a0a387be7/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple5/v4/c1/47/26/c147263e-07ab-2af7-4dab-dddb266b327b/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple3/v4/f8/2e/04/f82e04ca-ef8d-8f8d-bb28-83c07a5bc405/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple1/v4/75/e9/cf/75e9cf0d-a61a-bd50-54f9-9bacef015ce7/screen480x480.jpeg" alt="app screenshot" /></li>
+		</ul>
+	</div>
+</div>

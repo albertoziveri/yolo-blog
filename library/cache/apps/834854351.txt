@@ -1,0 +1,19 @@
+
+<div class="review clearfix">
+	<div class="image"><img class="icon_rounded" src="http://a362.phobos.apple.com/us/r30/Purple5/v4/bb/f6/99/bbf6990e-e7d9-8b0a-2eaa-c114c8fb50e5/mzl.xuhncrtj.png" alt="icona" /></div>
+	<div class="right-info">
+		<div class="header">
+			<h2 class="h2">App universale per iOs</h2><h1 class="h1">Scanbot · Scansione documenti e lettore di codici QR</h1><div class="download"><a href="https://itunes.apple.com/it/app/scanbot-scansione-documenti/id834854351?mt=8&uo=4" class="tasc-button" target="_blank">Download</a></div>
+		</div>
+		<div class="content">
+			<div class="field price"><span class="icon"></span>Gratis</div>
+			<div class="field cat"><span class="icon"></span>Utility</div>
+			<div class="field author"><span class="icon"></span><a href="https://scanbot.io">doo GmbH</a></div>
+		</div>
+	</div>
+	<div class="screenshots">
+		<ul>
+			<li><img src="http://a4.mzstatic.com/eu/r30/Purple3/v4/de/8b/69/de8b697d-46e2-d1a9-2a5e-e3bf4ec20bf6/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple3/v4/c2/26/cc/c226cc4b-37f7-9ff3-2486-daaf3c25c743/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple5/v4/af/6e/b9/af6eb9f9-962c-4968-5960-de69114c1886/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple3/v4/8c/f5/13/8cf513bb-74e4-875e-6a9e-bb2ab70627dc/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple5/v4/d9/09/be/d909bea7-a033-aad4-1749-d5d7f36a2330/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple1/v4/d8/96/54/d8965432-c69b-a08b-643c-3d3c44cea38a/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple5/v4/07/34/1e/07341e78-e216-abc5-7394-8a6646f953b1/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple3/v4/3c/6a/b2/3c6ab2a3-3936-6d77-4505-46ccc62d1f96/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple3/v4/c0/9f/67/c09f67fe-50bf-e32e-d5aa-8702ab869064/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple3/v4/e6/c5/dc/e6c5dc97-3816-9599-59b6-75094af05e5a/screen480x480.jpeg" alt="app screenshot" /></li>
+		</ul>
+	</div>
+</div>

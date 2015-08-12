@@ -1,0 +1,19 @@
+
+<div class="review clearfix">
+	<div class="image"><img class="icon_rounded" src="http://a1395.phobos.apple.com/us/r30/Purple1/v4/f1/e3/36/f1e33690-2639-84f5-6954-adfb270ece6d/mzl.glsgaiam.png" alt="icona" /></div>
+	<div class="right-info">
+		<div class="header">
+			<h2 class="h2">App universale per iOs</h2><h1 class="h1">Byword</h1><div class="download"><a href="https://itunes.apple.com/it/app/byword/id482063361?mt=8&uo=4" class="tasc-button" target="_blank">Download</a></div>
+		</div>
+		<div class="content">
+			<div class="field price"><span class="icon"></span>2,99 €</div>
+			<div class="field cat"><span class="icon"></span>Produttività</div>
+			<div class="field author"><span class="icon"></span><a href="http://metaclassy.com/">Metaclassy, Lda.</a></div>
+		</div>
+	</div>
+	<div class="screenshots">
+		<ul>
+			<li><img src="http://a3.mzstatic.com/eu/r30/Purple1/v4/90/34/11/9034116e-565c-627c-07b5-9c5a921eac52/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple3/v4/c7/a3/99/c7a39971-1101-292b-da0d-5ccc356e517d/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple3/v4/a2/66/0f/a2660ff5-a660-b8bb-8dbc-872eacb6ce60/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple3/v4/c7/4d/35/c74d354a-7d11-99e0-8a7a-f9a8b122f2fc/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple3/v4/5c/d3/63/5cd3630d-6377-54ea-321f-0351f6260043/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple1/v4/df/d5/3a/dfd53a9a-518a-840b-1713-5354ff3f8c27/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple1/v4/51/e0/d5/51e0d5f3-87b7-7160-7f96-cf221d36f296/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple1/v4/38/2a/54/382a54e4-1bc9-84b8-ff61-3f3c8a456587/screen480x480.jpeg" alt="app screenshot" /></li>
+		</ul>
+	</div>
+</div>

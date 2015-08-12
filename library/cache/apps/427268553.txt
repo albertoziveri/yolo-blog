@@ -1,0 +1,19 @@
+
+<div class="review clearfix">
+	<div class="image"><img class="icon_rounded" src="http://a932.phobos.apple.com/us/r30/Purple4/v4/d6/03/ec/d603ec0a-27d0-e4aa-d92e-cba51eb382b2/mzl.jbmurjqh.png" alt="icona" /></div>
+	<div class="right-info">
+		<div class="header">
+			<h2 class="h2">App per iPhone</h2><h1 class="h1">Analytiks - Google Analytics website stats, infographics, social media</h1><div class="download"><a href="https://itunes.apple.com/it/app/analytiks-google-analytics/id427268553?mt=8&uo=4" class="tasc-button" target="_blank">Download</a></div>
+		</div>
+		<div class="content">
+			<div class="field price"><span class="icon"></span>Gratis</div>
+			<div class="field cat"><span class="icon"></span>Economia</div>
+			<div class="field author"><span class="icon"></span><a href="http://analytiksapp.com/">Blatt Labs</a></div>
+		</div>
+	</div>
+	<div class="screenshots">
+		<ul>
+			<li><img src="http://a1.mzstatic.com/eu/r30/Purple4/v4/78/28/ed/7828ed36-8614-cd72-a2ae-ba6ef39b9573/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple6/v4/05/5e/f9/055ef946-8e2c-f792-403b-ed93ae89bba0/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple4/v4/fd/1b/81/fd1b816d-cc40-3536-ce57-639239eb56a0/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple6/v4/81/32/ae/8132aee2-b45d-de0a-2830-8f4e6deabf0c/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple6/v4/e3/ae/52/e3ae52be-8ae2-f9a3-96f9-dc555c162ea9/screen1136x1136.jpeg" alt="app screenshot" /></li>
+		</ul>
+	</div>
+</div>

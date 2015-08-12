@@ -1,0 +1,19 @@
+
+<div class="review clearfix">
+	<div class="image"><img class="icon_rounded" src="http://is4.mzstatic.com/image/pf/us/r30/Purple3/v4/44/cd/bb/44cdbb44-fd2b-0c2b-9eac-0f84e89b6b20/mzl.cmnkmucj.png" alt="icona" /></div>
+	<div class="right-info">
+		<div class="header">
+			<h2 class="h2">App universale per iOs</h2><h1 class="h1">Talkboard by Citrix</h1><div class="download"><a href="https://itunes.apple.com/it/app/talkboard-by-citrix/id691766202?mt=8&uo=4" class="tasc-button" target="_blank">Download</a></div>
+		</div>
+		<div class="content">
+			<div class="field price"><span class="icon"></span>Gratis</div>
+			<div class="field cat"><span class="icon"></span>Istruzione</div>
+			<div class="field author"><span class="icon"></span><a href="http://talkboard.com">Citrix</a></div>
+		</div>
+	</div>
+	<div class="screenshots">
+		<ul>
+			<li><img src="http://a2.mzstatic.com/eu/r30/Purple3/v4/59/03/ff/5903fffb-1ceb-1b91-7674-92c65fd1e554/screen320x320.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple3/v4/2a/9b/20/2a9b2026-9fdc-1aef-5d51-c94c087f9d63/screen320x320.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple3/v4/09/4c/41/094c4159-d924-510c-2a8b-49aa27c22566/screen320x320.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple5/v4/f8/a1/73/f8a173ad-01e8-a400-1895-fb575f51929f/screen320x320.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple1/v4/26/26/37/26263710-1253-549c-18b5-fe02fbcc3fd8/screen320x320.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple1/v4/85/54/f2/8554f283-3267-8a0d-a3f1-05b2d8cd1f38/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple3/v4/d9/e0/80/d9e08073-460d-c6e1-14db-a30c18800914/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple3/v4/0e/6c/34/0e6c349b-4cbb-7d74-d64e-f4d50c136d0f/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple3/v4/28/95/ec/2895ec5b-802b-db2f-43af-f641984507f0/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple3/v4/a2/72/9b/a2729b0f-82ca-5356-0d2c-3364f410fd12/screen480x480.jpeg" alt="app screenshot" /></li>
+		</ul>
+	</div>
+</div>

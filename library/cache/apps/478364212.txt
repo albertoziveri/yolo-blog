@@ -1,0 +1,19 @@
+
+<div class="review clearfix">
+	<div class="image"><img class="icon_rounded" src="http://a1021.phobos.apple.com/us/r30/Purple6/v4/22/7f/e7/227fe7ba-453d-56d2-177f-f9bbe0d1950e/mzl.neeigphl.png" alt="icona" /></div>
+	<div class="right-info">
+		<div class="header">
+			<h2 class="h2">App per iPad</h2><h1 class="h1">Logos Quiz - Guess the logos!</h1><div class="download"><a href="https://itunes.apple.com/it/app/logos-quiz-guess-the-logos!/id478364212?mt=8&uo=4" class="tasc-button" target="_blank">Download</a></div>
+		</div>
+		<div class="content">
+			<div class="field price"><span class="icon"></span>Gratis</div>
+			<div class="field cat"><span class="icon"></span>Giochi</div>
+			<div class="field author"><span class="icon"></span><a href="http://playlogosquiz.com">AticoD Entertainment S.L.</a></div>
+		</div>
+	</div>
+	<div class="screenshots">
+		<ul>
+			<li><img src="http://a5.mzstatic.com/eu/r30/Purple1/v4/ea/6d/ad/ea6dadd4-a88a-4acb-fa5a-eaaaba3bd79a/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple1/v4/74/81/37/7481377c-25d9-545e-fcd1-c7182cc63566/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple5/v4/d1/d3/14/d1d314ea-7603-be1d-a612-1f712226386d/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple3/v4/f8/04/84/f804848d-18ec-5c6f-3e49-c7da300f55c0/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple3/v4/5d/b1/e9/5db1e9cb-9a58-cdd0-ecd8-7fc136fb6cea/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple1/v4/98/97/35/98973531-38a9-4f76-d9df-f4784d76b421/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple1/v4/f2/d5/e2/f2d5e297-e1ce-e301-0849-81bca61f5f4a/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple1/v4/df/f8/40/dff840f2-3419-adc2-367d-b51549c0ffe7/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple3/v4/97/ef/d7/97efd7bc-da70-232a-2376-9cc0a045e0b0/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple3/v4/f0/a4/4a/f0a44a92-6871-6dcb-3b73-1f020ffe3718/screen480x480.jpeg" alt="app screenshot" /></li>
+		</ul>
+	</div>
+</div>

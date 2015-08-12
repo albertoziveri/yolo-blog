@@ -1,0 +1,19 @@
+
+<div class="review clearfix">
+	<div class="image"><img class="icon_rounded" src="http://a1712.phobos.apple.com/us/r30/Purple3/v4/e6/14/28/e61428fd-ab70-afbd-7e84-a7b6596a9557/mzl.dysrgsep.png" alt="icona" /></div>
+	<div class="right-info">
+		<div class="header">
+			<h2 class="h2">App per iPhone</h2><h1 class="h1">Retrica Pro</h1><div class="download"><a href="https://itunes.apple.com/it/app/retrica-pro/id577733648?mt=8&uo=4" class="tasc-button" target="_blank">Download</a></div>
+		</div>
+		<div class="content">
+			<div class="field price"><span class="icon"></span>2,99 €</div>
+			<div class="field cat"><span class="icon"></span>Foto e video</div>
+			<div class="field author"><span class="icon"></span><a href="">Venticake Inc.</a></div>
+		</div>
+	</div>
+	<div class="screenshots">
+		<ul>
+			<li><img src="http://a4.mzstatic.com/eu/r30/Purple3/v4/c1/35/a1/c135a1ce-3e2d-4666-1791-258c315e3221/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple5/v4/84/33/45/84334573-299a-a065-4202-a964ea030a7a/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple3/v4/eb/70/6b/eb706b98-1990-80ec-a191-022e5ce8c107/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple3/v4/0f/23/fd/0f23fda1-dc6f-1273-7e10-38f7db284be8/screen1136x1136.jpeg" alt="app screenshot" /></li>
+		</ul>
+	</div>
+</div>

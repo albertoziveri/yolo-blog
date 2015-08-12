@@ -1,0 +1,19 @@
+
+<div class="review clearfix">
+	<div class="image"><img class="icon_rounded" src="http://a1071.phobos.apple.com/us/r30/Purple3/v4/a0/a2/66/a0a26636-eae2-640d-36b8-5d7cdb4ff1c8/mzl.nicvqdju.png" alt="icona" /></div>
+	<div class="right-info">
+		<div class="header">
+			<h2 class="h2">App universale per iOs</h2><h1 class="h1">Insta picframes - Free pic and photo collage maker & picture frames editor app for images to use in flipagram, instagram,snapchat,deviantart</h1><div class="download"><a href="https://itunes.apple.com/it/app/insta-picframes-free-pic-photo/id536422900?mt=8&uo=4" class="tasc-button" target="_blank">Download</a></div>
+		</div>
+		<div class="content">
+			<div class="field price"><span class="icon"></span>Gratis</div>
+			<div class="field cat"><span class="icon"></span>Foto e video</div>
+			<div class="field author"><span class="icon"></span><a href="http://www.instapicframes.com">vijaya kumar reddy doddavala</a></div>
+		</div>
+	</div>
+	<div class="screenshots">
+		<ul>
+			<li><img src="http://a2.mzstatic.com/eu/r30/Purple6/v4/2d/c1/4a/2dc14adc-e010-d58e-de89-a95dd2204b47/screen320x320.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple/v4/e8/e5/ff/e8e5fffe-ab70-5036-2272-dfefcbefb50a/screen320x320.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple/v4/c6/44/05/c64405ab-8deb-c2a4-3b17-bab90f9ad641/screen320x320.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple/v4/e5/12/49/e51249b6-e3de-59d4-cf26-a5beba82baed/screen320x320.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple/v4/d2/64/2a/d2642a52-c3c7-1d08-8a22-319e26c358e7/screen320x320.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple/v4/d9/2f/d9/d92fd9de-8922-d1fa-b21e-fe3dda4ba61e/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple/v4/e1/0e/f2/e10ef27e-89dd-1331-a767-a7d27411fc8f/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple6/v4/36/d2/1f/36d21f7e-da9b-567d-0844-e1092bd46a5b/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple6/v4/da/b4/ca/dab4ca20-e01f-54da-68ca-19aad4d41d3d/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple6/v4/ec/07/26/ec072624-94c6-3f6b-dabd-968770fed963/screen480x480.jpeg" alt="app screenshot" /></li>
+		</ul>
+	</div>
+</div>

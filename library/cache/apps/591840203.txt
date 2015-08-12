@@ -1,0 +1,19 @@
+
+<div class="review clearfix">
+	<div class="image"><img class="icon_rounded" src="http://is3.mzstatic.com/image/pf/us/r30/Purple1/v4/85/8e/06/858e0659-fcca-d6bc-ffb0-6e087ee55d2e/mzl.ptkxikvb.png" alt="icona" /></div>
+	<div class="right-info">
+		<div class="header">
+			<h2 class="h2">App per iPhone</h2><h1 class="h1">CARROT To-Do - Talking Task List</h1><div class="download"><a href="https://itunes.apple.com/it/app/carrot-to-do-talking-task-list/id591840203?mt=8&uo=4" class="tasc-button" target="_blank">Download</a></div>
+		</div>
+		<div class="content">
+			<div class="field price"><span class="icon"></span>2,99 €</div>
+			<div class="field cat"><span class="icon"></span>Produttività</div>
+			<div class="field author"><span class="icon"></span><a href="http://www.meetCARROT.com/todo">Grailr LLC</a></div>
+		</div>
+	</div>
+	<div class="screenshots">
+		<ul>
+			<li><img src="http://a5.mzstatic.com/eu/r30/Purple3/v4/12/c5/c4/12c5c4bc-5a76-05bc-a61d-09e0fd960fe3/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple3/v4/3c/1c/88/3c1c8847-0d9a-2785-4019-d1589104f2de/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple3/v4/4f/85/c4/4f85c4fa-b588-7343-d78f-8dd8b25f1990/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple3/v4/1d/3f/87/1d3f87d1-a33f-2705-a79a-dea689e0e134/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple1/v4/24/a2/d8/24a2d881-da87-7507-0c5c-7b8aeb9f373c/screen1136x1136.jpeg" alt="app screenshot" /></li>
+		</ul>
+	</div>
+</div>

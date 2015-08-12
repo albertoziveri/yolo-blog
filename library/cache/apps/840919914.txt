@@ -1,0 +1,19 @@
+
+<div class="review clearfix">
+	<div class="image"><img class="icon_rounded" src="http://a516.phobos.apple.com/us/r30/Purple3/v4/6c/d6/f5/6cd6f558-fa7b-a1b3-2fbe-fd335e1d0cd0/mzl.qlhasifp.jpg" alt="icona" /></div>
+	<div class="right-info">
+		<div class="header">
+			<h2 class="h2">App per iPad</h2><h1 class="h1">2048</h1><div class="download"><a href="https://itunes.apple.com/it/app/2048/id840919914?mt=8&uo=4" class="tasc-button" target="_blank">Download</a></div>
+		</div>
+		<div class="content">
+			<div class="field price"><span class="icon"></span>Gratis</div>
+			<div class="field cat"><span class="icon"></span>Giochi</div>
+			<div class="field author"><span class="icon"></span><a href="https://twitter.com/2048_game">Ketchapp</a></div>
+		</div>
+	</div>
+	<div class="screenshots">
+		<ul>
+			<li><img src="http://a4.mzstatic.com/eu/r30/Purple2/v4/91/f0/e4/91f0e403-0df3-7478-c4ff-e2edaefc4fc7/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple2/v4/dc/d8/50/dcd850a9-6b34-b365-70a3-ec84afccbd26/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple6/v4/c5/3c/28/c53c28a1-3999-543f-947c-8caefaaeaaf1/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple6/v4/21/5f/57/215f574c-2017-8323-da8c-2a7d8bb97229/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple2/v4/bb/40/d5/bb40d5b2-a2a8-c5de-7713-942b84cb948f/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple/v4/51/98/e6/5198e613-70a2-a4fa-25cd-c1a483f538bb/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple6/v4/7d/d3/b1/7dd3b1c4-3523-7ce9-bf96-e93bc09947c5/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple6/v4/9f/91/97/9f9197cd-92b7-6c88-22e4-343604690372/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple/v4/bb/40/19/bb401992-3a23-e288-9552-302c376a62e6/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple4/v4/b9/b0/3c/b9b03c36-6cdd-434f-bde0-010d461a170d/screen480x480.jpeg" alt="app screenshot" /></li>
+		</ul>
+	</div>
+</div>

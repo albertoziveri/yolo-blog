@@ -1,0 +1,19 @@
+
+<div class="review clearfix">
+	<div class="image"><img class="icon_rounded" src="http://a700.phobos.apple.com/us/r30/Purple1/v4/43/86/6a/43866a32-4560-ca27-4973-2eb8730d2658/mzl.dgvqzyfv.png" alt="icona" /></div>
+	<div class="right-info">
+		<div class="header">
+			<h2 class="h2">App universale per iOs</h2><h1 class="h1">StockTouch</h1><div class="download"><a href="https://itunes.apple.com/it/app/stocktouch/id445170859?mt=8&uo=4" class="tasc-button" target="_blank">Download</a></div>
+		</div>
+		<div class="content">
+			<div class="field price"><span class="icon"></span>Gratis</div>
+			<div class="field cat"><span class="icon"></span>Finanza</div>
+			<div class="field author"><span class="icon"></span><a href="http://stocktouch.com">Visible Market Inc.</a></div>
+		</div>
+	</div>
+	<div class="screenshots">
+		<ul>
+			<li><img src="http://a5.mzstatic.com/eu/r30/Purple/v4/ce/1f/62/ce1f625d-b49b-6bdd-e34b-767473a7b3f2/screen320x320.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple/v4/f1/2d/24/f12d2498-a98c-ef5d-9172-eef8ab85ae82/screen320x320.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple/v4/d0/9b/9a/d09b9a7d-3792-5ade-9326-b793a5975a38/screen320x320.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple/v4/c5/41/75/c541752f-a710-63c4-a8fb-4d7d7dbb6db9/screen320x320.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple4/v4/9a/95/e7/9a95e737-d5d5-80fa-c3c1-a54b53d6c905/screen320x320.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple4/v4/ad/ce/a6/adcea6bc-a64f-fb78-f335-ec7abcd329b5/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple/v4/f5/93/38/f59338d9-cae2-f4e7-794e-5a486e7fe476/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple4/v4/a1/99/bc/a199bcda-e8d3-0ab9-25fa-6d278e2d7b85/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple/v4/db/9a/95/db9a9564-ba84-7e31-554b-013b4ebe9ec0/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple4/v4/ab/89/10/ab89106c-b481-0bfc-c300-e4479d8759b9/screen480x480.jpeg" alt="app screenshot" /></li>
+		</ul>
+	</div>
+</div>

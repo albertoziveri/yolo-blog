@@ -1,0 +1,19 @@
+
+<div class="review clearfix">
+	<div class="image"><img class="icon_rounded" src="http://a1804.phobos.apple.com/us/r30/Purple/v4/c9/ef/89/c9ef8975-4b84-037d-4028-16db48afa22d/mzl.ijxpcqzx.png" alt="icona" /></div>
+	<div class="right-info">
+		<div class="header">
+			<h2 class="h2">App per iPhone</h2><h1 class="h1">Haze</h1><div class="download"><a href="https://itunes.apple.com/it/app/haze/id594476963?mt=8&uo=4" class="tasc-button" target="_blank">Download</a></div>
+		</div>
+		<div class="content">
+			<div class="field price"><span class="icon"></span>2,99 €</div>
+			<div class="field cat"><span class="icon"></span>Meteorologia</div>
+			<div class="field author"><span class="icon"></span><a href="http://robocatapps.com">Robocat</a></div>
+		</div>
+	</div>
+	<div class="screenshots">
+		<ul>
+			<li><img src="http://a4.mzstatic.com/eu/r30/Purple/v4/c6/71/0e/c6710ef3-62e5-4547-cf69-6313f692077e/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple2/v4/1d/41/fc/1d41fc37-cb2c-2889-9a6d-1a17c2dcf76d/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple2/v4/af/2a/bc/af2abce2-f908-3853-5440-fe2d62effb0f/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple2/v4/be/76/57/be7657f8-ef84-8f60-ded2-646349a8bd0c/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple/v4/e9/74/f9/e974f98f-4252-a3a0-3560-b115419a5b81/screen1136x1136.jpeg" alt="app screenshot" /></li>
+		</ul>
+	</div>
+</div>

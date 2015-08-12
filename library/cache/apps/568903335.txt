@@ -1,0 +1,19 @@
+
+<div class="review clearfix">
+	<div class="image"><img class="icon_rounded" src="http://a500.phobos.apple.com/us/r30/Purple3/v4/55/fc/96/55fc967f-521c-fcc8-78d6-67a462b875e0/pr_source.png?downloadKey=1422300946_18eb6be809f04c731e6f472adbc752ee" alt="icona" /></div>
+	<div class="right-info">
+		<div class="header">
+			<h2 class="h2">App universale per iOs</h2><h1 class="h1">1Password</h1><div class="download"><a href="https://itunes.apple.com/it/app/1password/id568903335?mt=8&uo=4" class="tasc-button" target="_blank">Download</a></div>
+		</div>
+		<div class="content">
+			<div class="field price"><span class="icon"></span>Gratis</div>
+			<div class="field cat"><span class="icon"></span>Produttività</div>
+			<div class="field author"><span class="icon"></span><a href="https://agilebits.com/onepassword">AgileBits Inc.</a></div>
+		</div>
+	</div>
+	<div class="screenshots">
+		<ul>
+			<li><img src="http://a5.mzstatic.com/eu/r30/Purple3/v4/b0/68/52/b0685289-f6aa-f126-01ce-c9c3984c1e7a/screen322x572.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple3/v4/8a/09/dc/8a09dcb8-a8c5-c013-2fdc-7c42aa160d9f/screen322x572.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple1/v4/69/dd/8a/69dd8aa8-37be-7761-2887-54c0d8a92cfe/screen322x572.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple3/v4/07/f8/f0/07f8f03c-2452-5eb8-8f33-ce229baafafc/screen322x572.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple3/v4/09/95/b7/0995b7c4-6247-9b6e-ff67-796c8ef24ad7/screen322x572.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple3/v4/70/55/ef/7055efdf-70d3-145d-cc2d-ac490f23c44c/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple3/v4/b7/83/f1/b783f1dd-ed20-518b-44d2-ed995bf615a5/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple1/v4/d4/ef/ff/d4efffc3-5eda-a500-a5c3-512f2323fd0f/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple5/v4/1a/f5/a9/1af5a9ba-2bcc-abbd-9258-810575513044/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple3/v4/ab/5d/b8/ab5db8e9-452a-cbe9-5a9c-305ea1ce4935/screen480x480.jpeg" alt="app screenshot" /></li>
+		</ul>
+	</div>
+</div>

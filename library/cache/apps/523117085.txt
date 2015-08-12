@@ -1,0 +1,19 @@
+
+<div class="review clearfix">
+	<div class="image"><img class="icon_rounded" src="http://a929.phobos.apple.com/us/r30/Purple/v4/fb/a9/8e/fba98ec0-0251-9959-05b7-654415d3fa2a/mzl.dgoykoqt.jpg" alt="icona" /></div>
+	<div class="right-info">
+		<div class="header">
+			<h2 class="h2">App universale per iOs</h2><h1 class="h1">Parrot Audio Suite</h1><div class="download"><a href="https://itunes.apple.com/it/app/parrot-audio-suite/id523117085?mt=8&uo=4" class="tasc-button" target="_blank">Download</a></div>
+		</div>
+		<div class="content">
+			<div class="field price"><span class="icon"></span>Gratis</div>
+			<div class="field cat"><span class="icon"></span>Musica</div>
+			<div class="field author"><span class="icon"></span><a href="http://www.parrot.com/zik/">Parrot SA</a></div>
+		</div>
+	</div>
+	<div class="screenshots">
+		<ul>
+			<li><img src="http://a3.mzstatic.com/eu/r30/Purple4/v4/38/80/fb/3880fb90-a503-7d5f-f578-9b9be5e6b595/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple6/v4/9e/bf/17/9ebf1717-e7ca-7958-a7c6-2a7c67524079/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple4/v4/6f/3c/34/6f3c347a-e027-8a68-93c7-fec4244d9066/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple6/v4/e7/0b/d1/e70bd1f9-8428-5018-4cc1-597454585cdb/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple6/v4/42/66/a0/4266a02a-323a-f33a-2ebc-f7938c5da5e5/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple6/v4/bb/a4/63/bba463ee-bad6-a52a-16f4-000a7e42b272/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple6/v4/38/48/b1/3848b137-43a0-906f-26ba-4aac64fffb95/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple4/v4/cb/c0/5d/cbc05d44-8954-6b73-c3bf-705811d4b552/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple6/v4/88/00/7e/88007e46-c263-edb7-23c0-84ee0c6ca9f0/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple/v4/af/8c/a2/af8ca295-1ca0-c627-070b-42e489a21c5d/screen480x480.jpeg" alt="app screenshot" /></li>
+		</ul>
+	</div>
+</div>

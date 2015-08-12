@@ -1,0 +1,19 @@
+
+<div class="review clearfix">
+	<div class="image"><img class="icon_rounded" src="http://a1634.phobos.apple.com/us/r30/Purple3/v4/1f/05/a6/1f05a6b2-8fc6-4d3e-fdad-ad424e0c142f/pr_source.png?downloadKey=1422401039_7c361ac5c19ee8dd42bc18c3dfb8e3da" alt="icona" /></div>
+	<div class="right-info">
+		<div class="header">
+			<h2 class="h2">App universale per iOs</h2><h1 class="h1">IFTTT</h1><div class="download"><a href="https://itunes.apple.com/it/app/ifttt/id660944635?mt=8&uo=4" class="tasc-button" target="_blank">Download</a></div>
+		</div>
+		<div class="content">
+			<div class="field price"><span class="icon"></span>Gratis</div>
+			<div class="field cat"><span class="icon"></span>Produttività</div>
+			<div class="field author"><span class="icon"></span><a href="https://ifttt.com">IFTTT</a></div>
+		</div>
+	</div>
+	<div class="screenshots">
+		<ul>
+			<li><img src="http://a3.mzstatic.com/eu/r30/Purple5/v4/5e/b9/cb/5eb9cbcf-05bb-20c6-3807-3a99e1cf4b25/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple5/v4/22/18/f0/2218f0af-d415-0bda-ccac-83e2351e6ea2/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple3/v4/81/ec/9c/81ec9c0d-d379-4290-6717-208141be77e7/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple1/v4/b7/d5/d0/b7d5d04d-3be5-c5e2-09cc-0eea2612aab9/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple5/v4/bf/2e/5f/bf2e5fc9-1dba-f608-3680-4e6e23303568/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple5/v4/e2/51/af/e251af46-7569-cecd-f04f-e0b61e4aaabc/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple3/v4/fc/ea/08/fcea0809-f1a2-30b8-af88-80b0d94288e0/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple3/v4/43/be/c7/43bec73f-7259-e979-6bda-e4e28fb29567/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple3/v4/96/a1/19/96a119a2-85e9-51f3-a91b-02f41a296d37/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple5/v4/24/30/80/243080ff-dd15-4a71-6c68-897ef3a194d5/screen480x480.jpeg" alt="app screenshot" /></li>
+		</ul>
+	</div>
+</div>

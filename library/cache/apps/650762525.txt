@@ -1,0 +1,19 @@
+
+<div class="review clearfix">
+	<div class="image"><img class="icon_rounded" src="http://is1.mzstatic.com/image/pf/us/r30/Purple7/v4/07/5f/30/075f30c5-dffa-27a8-86fd-0121d91bd6d3/mzl.kvyiynxw.png" alt="icona" /></div>
+	<div class="right-info">
+		<div class="header">
+			<h2 class="h2">App universale per iOs</h2><h1 class="h1">7 Minute Workout</h1><div class="download"><a href="https://itunes.apple.com/it/app/7-minute-workout/id650762525?mt=8&uo=4" class="tasc-button" target="_blank">Download</a></div>
+		</div>
+		<div class="content">
+			<div class="field price"><span class="icon"></span>Gratis</div>
+			<div class="field cat"><span class="icon"></span>Salute e benessere</div>
+			<div class="field author"><span class="icon"></span><a href="http://www.wahoofitness.com/tickrx7minute">Wahoo Fitness</a></div>
+		</div>
+	</div>
+	<div class="screenshots">
+		<ul>
+			<li><img src="http://a5.mzstatic.com/eu/r30/Purple5/v4/10/8e/3b/108e3b63-c9fc-093d-9605-c24acac64e0a/screen322x572.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple5/v4/24/81/4a/24814ae1-4a57-802b-5357-55fc4bd2a4b9/screen322x572.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple1/v4/9d/29/72/9d2972ce-422e-5de0-e032-1fd3be9e6570/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple3/v4/d5/8e/8c/d58e8c91-5325-cc14-b645-1ce352c2d2b3/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple1/v4/92/57/ab/9257abe8-098e-c0f7-55e2-b001d06a0521/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple3/v4/f9/41/4a/f9414a79-7da9-deba-d8d0-7b2a0fef1231/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple3/v4/76/97/6b/76976b28-aafd-f85e-ba1c-a17d0a608de0/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple3/v4/22/36/30/22363076-d3a6-85a5-8b51-086bc21a2710/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple3/v4/86/bf/57/86bf5798-b58a-b8de-6566-bc5750e50888/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple5/v4/e9/a2/b1/e9a2b143-2f65-4dae-3403-527314b961dd/screen480x480.jpeg" alt="app screenshot" /></li>
+		</ul>
+	</div>
+</div>

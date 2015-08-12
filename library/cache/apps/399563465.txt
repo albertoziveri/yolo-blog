@@ -1,0 +1,19 @@
+
+<div class="review clearfix">
+	<div class="image"><img class="icon_rounded" src="http://a601.phobos.apple.com/us/r30/Purple5/v4/8a/43/70/8a4370ab-d6ad-0826-4955-a5a4ebc0c86e/mzl.kexkklie.png" alt="icona" /></div>
+	<div class="right-info">
+		<div class="header">
+			<h2 class="h2">App universale per iOs</h2><h1 class="h1">Houzz Interior Design Ideas</h1><div class="download"><a href="https://itunes.apple.com/it/app/houzz-interior-design-ideas/id399563465?mt=8&uo=4" class="tasc-button" target="_blank">Download</a></div>
+		</div>
+		<div class="content">
+			<div class="field price"><span class="icon"></span>Gratis</div>
+			<div class="field cat"><span class="icon"></span>Mode e tendenze</div>
+			<div class="field author"><span class="icon"></span><a href="http://www.houzz.com/">Houzz Inc.</a></div>
+		</div>
+	</div>
+	<div class="screenshots">
+		<ul>
+			<li><img src="http://a5.mzstatic.com/eu/r30/Purple3/v4/8c/07/49/8c07492c-6e43-2d28-3452-98ad1d203798/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple3/v4/34/f5/fc/34f5fc78-bc04-498f-3cc6-644521fb14fa/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple5/v4/55/85/7c/55857cca-9f8b-94b6-555a-d27b95cd5e0e/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple5/v4/b0/3c/6f/b03c6fd3-fcde-9fd6-0b25-1f24058e3a17/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple1/v4/3c/31/1a/3c311ae2-511b-6baf-57a0-538a29c19036/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple3/v4/72/f6/7f/72f67ff0-d737-bb9c-e5f8-c32a256044cd/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple3/v4/05/98/9d/05989dc9-082a-3fcd-53f1-2e1380d0873e/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple5/v4/ee/dd/da/eeddda03-4d70-d09a-69d0-169c787fbacd/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple3/v4/d8/36/cb/d836cb69-5738-815e-9c19-d134b0707bc2/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple3/v4/1c/5a/56/1c5a5670-f798-7566-298c-7bb6391954d7/screen480x480.jpeg" alt="app screenshot" /></li>
+		</ul>
+	</div>
+</div>

@@ -1,0 +1,19 @@
+
+<div class="review clearfix">
+	<div class="image"><img class="icon_rounded" src="http://a734.phobos.apple.com/us/r30/Purple3/v4/d0/99/0c/d0990c0f-c65f-db24-71bc-feee64dd985d/mzl.wqoeskbg.png" alt="icona" /></div>
+	<div class="right-info">
+		<div class="header">
+			<h2 class="h2">App universale per iOs</h2><h1 class="h1">Shazam</h1><div class="download"><a href="https://itunes.apple.com/it/app/shazam/id284993459?mt=8&uo=4" class="tasc-button" target="_blank">Download</a></div>
+		</div>
+		<div class="content">
+			<div class="field price"><span class="icon"></span>Gratis</div>
+			<div class="field cat"><span class="icon"></span>Musica</div>
+			<div class="field author"><span class="icon"></span><a href="http://www.shazam.com/iphone">Shazam Entertainment Ltd.</a></div>
+		</div>
+	</div>
+	<div class="screenshots">
+		<ul>
+			<li><img src="http://a3.mzstatic.com/eu/r30/Purple3/v4/25/b2/6a/25b26adc-3ee1-6417-ba18-259c43406d54/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple3/v4/22/9a/9b/229a9bef-86b7-2154-3a6a-76a62cf1135f/screen322x572.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple5/v4/85/82/a3/8582a3e2-8b00-5e26-ad05-2fcb3667bbac/screen322x572.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple3/v4/a4/69/05/a46905d9-6742-727f-1bc0-ff3d4032d65d/screen322x572.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple5/v4/a6/b2/e0/a6b2e0c0-4401-c87e-9182-2f1fbe672747/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple3/v4/ba/84/6f/ba846f2d-1b39-163a-b459-bcda2b1c36da/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple1/v4/8e/89/6d/8e896ddb-5942-ed24-823a-2752f45ba51f/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple5/v4/3e/98/45/3e9845ba-e997-1295-4088-b39b73af41ea/screen480x480.jpeg" alt="app screenshot" /></li>
+		</ul>
+	</div>
+</div>

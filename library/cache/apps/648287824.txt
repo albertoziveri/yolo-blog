@@ -1,0 +1,19 @@
+
+<div class="review clearfix">
+	<div class="image"><img class="icon_rounded" src="http://a512.phobos.apple.com/us/r30/Purple6/v4/78/bb/1d/78bb1d61-0262-76c4-2edb-f421111365d4/mzl.fxvayqgf.png" alt="icona" /></div>
+	<div class="right-info">
+		<div class="header">
+			<h2 class="h2">App per iPhone</h2><h1 class="h1">Cal – Calendar for iCloud, Google & Exchange</h1><div class="download"><a href="https://itunes.apple.com/it/app/cal-calendar-for-icloud-google/id648287824?mt=8&uo=4" class="tasc-button" target="_blank">Download</a></div>
+		</div>
+		<div class="content">
+			<div class="field price"><span class="icon"></span>Gratis</div>
+			<div class="field cat"><span class="icon"></span>Produttività</div>
+			<div class="field author"><span class="icon"></span><a href="http://www.any.do">Any.DO</a></div>
+		</div>
+	</div>
+	<div class="screenshots">
+		<ul>
+			<li><img src="http://a1.mzstatic.com/eu/r30/Purple6/v4/1d/26/ab/1d26ab95-10a0-ca51-9fb9-d834bd87b89b/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple/v4/26/6a/fd/266afd93-27e2-04e6-a6c8-92ef15980a82/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple6/v4/e3/b5/95/e3b5951c-f3e0-69d8-6199-276193b70a1b/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple/v4/b6/39/a7/b639a7fa-ffa1-bcc8-5271-f0a8894b8b8a/screen1136x1136.jpeg" alt="app screenshot" /></li>
+		</ul>
+	</div>
+</div>

@@ -1,0 +1,19 @@
+
+<div class="review clearfix">
+	<div class="image"><img class="icon_rounded" src="http://a435.phobos.apple.com/us/r30/Purple/v4/ad/f5/7e/adf57e25-b740-9f16-a83c-fc7949376d70/mzm.cleltpai.png" alt="icona" /></div>
+	<div class="right-info">
+		<div class="header">
+			<h2 class="h2">App per iPhone</h2><h1 class="h1">Studenti.it Latino</h1><div class="download"><a href="https://itunes.apple.com/it/app/studenti.it-latino/id414249486?mt=8&uo=4" class="tasc-button" target="_blank">Download</a></div>
+		</div>
+		<div class="content">
+			<div class="field price"><span class="icon"></span>Gratis</div>
+			<div class="field cat"><span class="icon"></span>Istruzione</div>
+			<div class="field author"><span class="icon"></span><a href="http://mobile.banzai.it/showcase/latino/it/">Banzai</a></div>
+		</div>
+	</div>
+	<div class="screenshots">
+		<ul>
+			<li><img src="http://a5.mzstatic.com/eu/r30/Purple/v4/f5/6c/50/f56c50be-cc5e-28ff-007d-d2c40cb0b0b4/screen320x480.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple/v4/eb/c2/96/ebc296c3-df75-7a5a-628e-2eff73f4d7db/screen320x480.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple/v4/ef/ee/0c/efee0cc5-bd75-eb51-020d-f7f8737876d1/screen320x480.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple/v4/22/68/48/226848da-9298-3747-21b4-9f36a91e3e15/screen320x480.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple/v4/f5/ba/d1/f5bad14e-559d-17c2-efa5-2397b1fd82ea/screen320x480.jpeg" alt="app screenshot" /></li>
+		</ul>
+	</div>
+</div>

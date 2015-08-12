@@ -1,0 +1,19 @@
+
+<div class="review clearfix">
+	<div class="image"><img class="icon_rounded" src="http://a677.phobos.apple.com/us/r30/Purple1/v4/e3/eb/ac/e3ebac58-8b0a-fd2b-411b-6fcb20acfc34/pr_source.jpg?downloadKey=1422301544_231ba78c9afa8f3965edf47a597606a4" alt="icona" /></div>
+	<div class="right-info">
+		<div class="header">
+			<h2 class="h2">App universale per iOs</h2><h1 class="h1">L-Lingo Impara l' Inglese</h1><div class="download"><a href="https://itunes.apple.com/it/app/l-lingo-impara-l-inglese/id602491376?mt=8&uo=4" class="tasc-button" target="_blank">Download</a></div>
+		</div>
+		<div class="content">
+			<div class="field price"><span class="icon"></span>Gratis</div>
+			<div class="field cat"><span class="icon"></span>Istruzione</div>
+			<div class="field author"><span class="icon"></span><a href="">Smart Language Apps Limited</a></div>
+		</div>
+	</div>
+	<div class="screenshots">
+		<ul>
+			<li><img src="http://a4.mzstatic.com/eu/r30/Purple3/v4/17/ff/e2/17ffe2fa-8ad5-b5fa-cc36-0f4fcc49b6a7/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple3/v4/64/9c/5b/649c5b86-7f50-01fc-96a8-515bfccd50e0/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple1/v4/2a/86/49/2a864993-ca0e-4397-dc72-461a34e073c7/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple1/v4/19/ad/70/19ad7066-fb46-1193-a4a0-49e4fe40f556/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple3/v4/13/01/8f/13018fe9-10f9-d982-60f5-9640645e0679/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple3/v4/ab/e9/dc/abe9dc03-2602-4d4a-c014-e5cbbab20942/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple3/v4/ea/fc/f8/eafcf8a2-d2eb-3ff2-9687-cefebc7a47f9/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple1/v4/a2/a0/1c/a2a01c56-91aa-2bd2-1c1a-4e570555ec0a/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple1/v4/f8/e0/b3/f8e0b397-63be-0b9c-5045-3a98edfde7a5/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple5/v4/48/8a/af/488aafe8-b6c8-ba93-0f8f-ff2b8b3a6dce/screen480x480.jpeg" alt="app screenshot" /></li>
+		</ul>
+	</div>
+</div>

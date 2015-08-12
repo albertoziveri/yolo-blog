@@ -1,0 +1,19 @@
+
+<div class="review clearfix">
+	<div class="image"><img class="icon_rounded" src="http://a937.phobos.apple.com/us/r30/Purple3/v4/c0/10/0f/c0100f90-7e14-4703-2ab9-ec0c1bd31116/mzl.vhbwerpl.png" alt="icona" /></div>
+	<div class="right-info">
+		<div class="header">
+			<h2 class="h2">App per iPhone</h2><h1 class="h1">Quotes. Get Inspired</h1><div class="download"><a href="https://itunes.apple.com/it/app/quotes.-get-inspired/id688421333?mt=8&uo=4" class="tasc-button" target="_blank">Download</a></div>
+		</div>
+		<div class="content">
+			<div class="field price"><span class="icon"></span>Gratis</div>
+			<div class="field cat"><span class="icon"></span>Riferimento</div>
+			<div class="field author"><span class="icon"></span><a href="">Andrea Fabbri</a></div>
+		</div>
+	</div>
+	<div class="screenshots">
+		<ul>
+			<li><img src="http://a5.mzstatic.com/eu/r30/Purple4/v4/80/3a/6c/803a6ceb-a1a1-e349-624d-d5885e4c36f7/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple/v4/c1/b6/78/c1b678df-ba57-4498-169b-1e2253ee3869/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple4/v4/f6/ee/95/f6ee95f4-5fa0-9905-7fc0-1f88de8fba37/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple4/v4/bb/03/c4/bb03c4d6-a148-7ec7-e602-69842800de06/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple/v4/da/7a/be/da7abea9-3a54-ba73-9443-b84ece3b46dd/screen1136x1136.jpeg" alt="app screenshot" /></li>
+		</ul>
+	</div>
+</div>

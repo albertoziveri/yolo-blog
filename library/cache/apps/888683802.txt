@@ -1,0 +1,19 @@
+
+<div class="review clearfix">
+	<div class="image"><img class="icon_rounded" src="http://a1561.phobos.apple.com/us/r30/Purple1/v4/e3/ce/b3/e3ceb34a-3c8e-81c4-03b0-80b0ab051054/mzl.staumqdj.png" alt="icona" /></div>
+	<div class="right-info">
+		<div class="header">
+			<h2 class="h2">App per iPad</h2><h1 class="h1">Shades: Un puzzle semplice</h1><div class="download"><a href="https://itunes.apple.com/it/app/shades-un-puzzle-semplice/id888683802?mt=8&uo=4" class="tasc-button" target="_blank">Download</a></div>
+		</div>
+		<div class="content">
+			<div class="field price"><span class="icon"></span>1,99 €</div>
+			<div class="field cat"><span class="icon"></span>Giochi</div>
+			<div class="field author"><span class="icon"></span><a href="http://www.uovo.dk/shades">UOVO</a></div>
+		</div>
+	</div>
+	<div class="screenshots">
+		<ul>
+			<li><img src="http://a2.mzstatic.com/eu/r30/Purple3/v4/f4/39/03/f4390312-d13c-2c4c-3b94-72fe6f5dc034/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple5/v4/a7/43/7a/a7437a0d-518e-da03-2496-3b58996b647a/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple5/v4/a0/04/70/a00470f7-57fb-bafc-0917-c74ee0097d1f/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple1/v4/70/e0/05/70e00574-97b5-3bc2-9d4e-26a635f5d036/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple5/v4/25/2d/ae/252daefc-bbef-b082-a537-d59fdcd7e13d/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple5/v4/be/a9/71/bea97175-03d9-412f-70de-c39a7fe373e7/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple1/v4/73/2f/64/732f64d8-253c-2399-f028-7c267b28e709/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple3/v4/ee/9f/9a/ee9f9abe-df05-32bc-d1f4-837a1c4c3486/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple1/v4/65/69/4f/65694f92-0bf2-4cbe-25fc-5dc41b5edfff/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple3/v4/1b/5e/dc/1b5edc2e-1850-a36b-9b74-11dae9935536/screen480x480.jpeg" alt="app screenshot" /></li>
+		</ul>
+	</div>
+</div>

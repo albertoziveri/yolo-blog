@@ -1,0 +1,19 @@
+
+<div class="review clearfix">
+	<div class="image"><img class="icon_rounded" src="http://a938.phobos.apple.com/us/r30/Purple3/v4/e7/06/ab/e706ab70-7e65-8bbd-41a2-3e0c2e71054f/mzl.qrdlowod.png" alt="icona" /></div>
+	<div class="right-info">
+		<div class="header">
+			<h2 class="h2">App universale per iOs</h2><h1 class="h1">Magisto - Magical Video Editor</h1><div class="download"><a href="https://itunes.apple.com/it/app/magisto-magical-video-editor/id486781045?mt=8&uo=4" class="tasc-button" target="_blank">Download</a></div>
+		</div>
+		<div class="content">
+			<div class="field price"><span class="icon"></span>Gratis</div>
+			<div class="field cat"><span class="icon"></span>Foto e video</div>
+			<div class="field author"><span class="icon"></span><a href="http://www.magisto.com">Magisto Ltd</a></div>
+		</div>
+	</div>
+	<div class="screenshots">
+		<ul>
+			<li><img src="http://a3.mzstatic.com/eu/r30/Purple5/v4/05/a4/8e/05a48e39-4f44-9343-b7e3-e9545c32a46b/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple4/v4/d9/53/84/d953843b-8adb-d86b-b9e4-ff5ad332a167/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple5/v4/4e/3a/3d/4e3a3d06-4943-1388-a0e9-5f5c4c6f9275/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple3/v4/06/26/d5/0626d540-bf82-6255-340f-6eba844522e5/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple5/v4/dc/da/17/dcda1742-4521-d278-349c-df9e1e017251/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple3/v4/4f/8a/a2/4f8aa279-46ec-d42f-1c45-1d1d7ec60b8a/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple1/v4/d5/6f/02/d56f02ed-bd62-7212-5eef-c827606a945b/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple4/v4/8c/9e/55/8c9e5536-7ec5-1ff8-585c-ba59acda7523/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple4/v4/af/40/17/af401783-41e0-2f5c-2a3f-9996030c2b57/screen480x480.jpeg" alt="app screenshot" /></li>
+		</ul>
+	</div>
+</div>

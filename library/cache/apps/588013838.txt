@@ -1,0 +1,19 @@
+
+<div class="review clearfix">
+	<div class="image"><img class="icon_rounded" src="http://a1189.phobos.apple.com/us/r30/Purple3/v4/22/b6/eb/22b6eb55-b0bb-a90f-927b-ebf681eec262/mzl.kvwmfujq.png" alt="icona" /></div>
+	<div class="right-info">
+		<div class="header">
+			<h2 class="h2">App universale per iOs</h2><h1 class="h1">VSCO Cam®</h1><div class="download"><a href="https://itunes.apple.com/it/app/vsco-cam/id588013838?mt=8&uo=4" class="tasc-button" target="_blank">Download</a></div>
+		</div>
+		<div class="content">
+			<div class="field price"><span class="icon"></span>Gratis</div>
+			<div class="field cat"><span class="icon"></span>Foto e video</div>
+			<div class="field author"><span class="icon"></span><a href="http://vsco.co/vscocam">Visual Supply Company</a></div>
+		</div>
+	</div>
+	<div class="screenshots">
+		<ul>
+			<li><img src="http://a4.mzstatic.com/eu/r30/Purple1/v4/d5/c7/bd/d5c7bd29-bd47-dd10-d7fa-4507d8bc8d7e/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple3/v4/99/8b/d3/998bd363-489c-738b-9135-233253525f86/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple5/v4/9f/44/89/9f4489d8-61b2-172d-8fab-c9f76acf8c7e/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple1/v4/fc/37/d9/fc37d9b4-d4b5-cda3-212d-6861960f452e/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple3/v4/8f/57/a6/8f57a6b3-c7fa-bf62-093e-2bd4367397fd/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple3/v4/f1/4f/e8/f14fe861-fd43-ade4-2d50-742c6dee9eb2/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple1/v4/e0/9a/a9/e09aa9e4-44a4-e04c-8f2e-017efa5f7d8c/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple5/v4/d0/2f/0f/d02f0faf-bd30-a897-b422-8319d5b25a14/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple3/v4/91/67/09/91670964-fd20-f886-c2c8-6787f72e8252/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple1/v4/ce/dc/fb/cedcfb5c-396c-2006-3d68-2115c294601e/screen480x480.jpeg" alt="app screenshot" /></li>
+		</ul>
+	</div>
+</div>

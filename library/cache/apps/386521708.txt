@@ -1,0 +1,19 @@
+
+<div class="review clearfix">
+	<div class="image"><img class="icon_rounded" src="http://a1762.phobos.apple.com/us/r30/Purple3/v4/4f/9b/08/4f9b0876-f2e5-558a-ca2f-7a8b00722eb2/pr_source.jpg?downloadKey=1422395635_d564feb2091bc3bb2a87788ca0594b52" alt="icona" /></div>
+	<div class="right-info">
+		<div class="header">
+			<h2 class="h2">App per iPhone</h2><h1 class="h1">Glamoo</h1><div class="download"><a href="https://itunes.apple.com/it/app/glamoo/id386521708?mt=8&uo=4" class="tasc-button" target="_blank">Download</a></div>
+		</div>
+		<div class="content">
+			<div class="field price"><span class="icon"></span>Gratis</div>
+			<div class="field cat"><span class="icon"></span>Mode e tendenze</div>
+			<div class="field author"><span class="icon"></span><a href="http://www.glamoo.com">Glamoo Ltd</a></div>
+		</div>
+	</div>
+	<div class="screenshots">
+		<ul>
+			<li><img src="http://a5.mzstatic.com/eu/r30/Purple1/v4/7b/da/a9/7bdaa9dc-fdc6-b136-5c32-9a424b9ab824/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple3/v4/c0/9b/a2/c09ba241-0db8-c322-9cb8-0fc4141df7e7/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple1/v4/7c/04/26/7c0426d6-78b2-13f4-ec2d-a11bc032fd94/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple5/v4/cd/d6/95/cdd69543-51b9-7a6e-1b17-a74e29984879/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple3/v4/c9/f0/c9/c9f0c936-53a5-cf4b-8a4e-dc2e1dcdb82f/screen1136x1136.jpeg" alt="app screenshot" /></li>
+		</ul>
+	</div>
+</div>

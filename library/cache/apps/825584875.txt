@@ -1,0 +1,19 @@
+
+<div class="review clearfix">
+	<div class="image"><img class="icon_rounded" src="http://a638.phobos.apple.com/us/r30/Purple4/v4/62/7b/67/627b67a3-f56d-57df-00ef-83b068f786df/mzl.bpklogmj.png" alt="icona" /></div>
+	<div class="right-info">
+		<div class="header">
+			<h2 class="h2">App universale per iOs</h2><h1 class="h1">Video Compressor - Just set the target size!</h1><div class="download"><a href="https://itunes.apple.com/it/app/video-compressor-just-set/id825584875?mt=8&uo=4" class="tasc-button" target="_blank">Download</a></div>
+		</div>
+		<div class="content">
+			<div class="field price"><span class="icon"></span>Gratis</div>
+			<div class="field cat"><span class="icon"></span>Foto e video</div>
+			<div class="field author"><span class="icon"></span><a href="">Jin Jeon</a></div>
+		</div>
+	</div>
+	<div class="screenshots">
+		<ul>
+			<li><img src="http://a2.mzstatic.com/eu/r30/Purple3/v4/57/e4/a4/57e4a491-0b3f-04d3-8a6c-43d6c00c5da7/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple3/v4/51/f1/00/51f100f7-4ef1-8b0d-a2f9-9582c7a0046f/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple3/v4/b5/8b/78/b58b7874-b51a-87c7-d7c0-aed148303d3f/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple4/v4/44/66/da/4466da78-7af7-c658-a9a8-6bfa056b6056/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple4/v4/9c/69/95/9c699552-0fb2-1603-ed36-ef83dd35aedf/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple3/v4/74/18/ce/7418ce47-cb06-fe77-cfb9-16c963fa4b86/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple4/v4/74/c5/53/74c5539c-a9b8-54c0-4575-ae617daa56ea/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple5/v4/a6/a1/59/a6a159f0-7dfa-1784-6aba-18ff899a4e7c/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple3/v4/5b/50/58/5b505872-cfc5-1bd1-4fa1-929f4846af7e/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple3/v4/e8/05/e7/e805e774-6bb2-93ca-dde9-bc42c12e5e6e/screen480x480.jpeg" alt="app screenshot" /></li>
+		</ul>
+	</div>
+</div>

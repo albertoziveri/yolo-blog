@@ -1,0 +1,19 @@
+
+<div class="review clearfix">
+	<div class="image"><img class="icon_rounded" src="http://a1581.phobos.apple.com/us/r30/Purple3/v4/fe/47/70/fe4770b1-236d-3ead-d323-587192072c9a/pr_source.png?downloadKey=1422321360_6543a111bfa666e03aa9ea7ce7919726" alt="icona" /></div>
+	<div class="right-info">
+		<div class="header">
+			<h2 class="h2">App universale per iOs</h2><h1 class="h1">Fetchnotes - Shared Notes, Reminders & To Do List</h1><div class="download"><a href="https://itunes.apple.com/it/app/fetchnotes-shared-notes-reminders/id515765678?mt=8&uo=4" class="tasc-button" target="_blank">Download</a></div>
+		</div>
+		<div class="content">
+			<div class="field price"><span class="icon"></span>Gratis</div>
+			<div class="field cat"><span class="icon"></span>Produttività</div>
+			<div class="field author"><span class="icon"></span><a href="http://fetchnotes.com">Fetchnotes</a></div>
+		</div>
+	</div>
+	<div class="screenshots">
+		<ul>
+			<li><img src="http://a3.mzstatic.com/eu/r30/Purple6/v4/51/04/19/510419d3-4f0c-8a2f-55f8-9e8ccd4bd239/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple4/v4/b6/c3/1e/b6c31ef5-dca6-4ebd-be2c-a6711fb345e7/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple6/v4/70/ea/33/70ea3353-68c7-dacb-4c7e-3787768821f3/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple4/v4/d4/2d/fb/d42dfbeb-d08e-6440-5021-0d506c6c1633/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple/v4/10/33/b1/1033b13c-3cf7-8afb-3050-6fe0253cbd11/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple6/v4/3f/f3/35/3ff335d2-0e09-e9f5-fa71-29f3c282e1fb/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple/v4/f5/94/8f/f5948f50-0287-6189-595c-809f6bcf9072/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple4/v4/4e/9e/e8/4e9ee8bf-0bfb-824b-fee2-c5f54f0f0bb6/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple6/v4/d8/17/7f/d8177f0e-97fb-6205-40d8-85df30359f55/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple/v4/4e/b1/ae/4eb1ae5a-51f5-1480-bdf6-72d8817acd6c/screen480x480.jpeg" alt="app screenshot" /></li>
+		</ul>
+	</div>
+</div>

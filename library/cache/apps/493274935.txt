@@ -1,0 +1,19 @@
+
+<div class="review clearfix">
+	<div class="image"><img class="icon_rounded" src="http://a1049.phobos.apple.com/us/r30/Purple/v4/35/9a/9a/359a9a51-c46b-4fdb-b94d-ceb12b11b044/mzl.nbupjgak.png" alt="icona" /></div>
+	<div class="right-info">
+		<div class="header">
+			<h2 class="h2">App per iPad</h2><h1 class="h1">Bubble Blast 2 !</h1><div class="download"><a href="https://itunes.apple.com/it/app/bubble-blast-2-!/id493274935?mt=8&uo=4" class="tasc-button" target="_blank">Download</a></div>
+		</div>
+		<div class="content">
+			<div class="field price"><span class="icon"></span>Gratis</div>
+			<div class="field cat"><span class="icon"></span>Giochi</div>
+			<div class="field author"><span class="icon"></span><a href="http://www.magmamobile.com">Magma Mobile</a></div>
+		</div>
+	</div>
+	<div class="screenshots">
+		<ul>
+			<li><img src="http://a3.mzstatic.com/eu/r30/Purple/v4/7c/da/8e/7cda8e89-1eee-e199-b1ca-fcca4ae42aa1/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple/v4/51/0a/b6/510ab60d-5f9d-46e5-901c-cea8b631df06/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple/v4/51/fd/78/51fd78b1-fd87-c48d-d05c-6d1ee58df606/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple/v4/82/9b/7b/829b7bca-34dc-b5e8-fdc6-f1d0207a1832/screen480x480.jpeg" alt="app screenshot" /></li>
+		</ul>
+	</div>
+</div>

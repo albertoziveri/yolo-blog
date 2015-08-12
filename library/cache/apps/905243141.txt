@@ -1,0 +1,19 @@
+
+<div class="review clearfix">
+	<div class="image"><img class="icon_rounded" src="http://a1414.phobos.apple.com/us/r30/Purple3/v4/ba/43/19/ba431945-fe55-d6ed-d6af-9eb69ee4b8ab/mzl.acsvnkvc.png" alt="icona" /></div>
+	<div class="right-info">
+		<div class="header">
+			<h2 class="h2">App per iPhone</h2><h1 class="h1">Tempo. L'App Definitiva per il Meteo.</h1><div class="download"><a href="https://itunes.apple.com/it/app/tempo.-lapp-definitiva-per/id905243141?mt=8&uo=4" class="tasc-button" target="_blank">Download</a></div>
+		</div>
+		<div class="content">
+			<div class="field price"><span class="icon"></span>0,99 €</div>
+			<div class="field cat"><span class="icon"></span>Meteorologia</div>
+			<div class="field author"><span class="icon"></span><a href="http://www.tempoapp.co">Andrea Fabbri</a></div>
+		</div>
+	</div>
+	<div class="screenshots">
+		<ul>
+			<li><img src="http://a3.mzstatic.com/eu/r30/Purple5/v4/96/70/5e/96705e2a-3e08-7353-4cd2-4d756ef9a8b8/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple4/v4/78/d0/e5/78d0e58f-100a-1158-6f27-b638319fdf9b/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple1/v4/e4/f7/32/e4f732cf-49ea-4cc4-d536-54cfeed15c00/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple3/v4/bc/1f/f6/bc1ff641-865b-73d8-2ece-197a25eafb12/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple5/v4/65/d3/c2/65d3c2f7-6c71-a7f9-0bf1-a5205a90c2ec/screen1136x1136.jpeg" alt="app screenshot" /></li>
+		</ul>
+	</div>
+</div>

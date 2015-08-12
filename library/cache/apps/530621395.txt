@@ -1,0 +1,19 @@
+
+<div class="review clearfix">
+	<div class="image"><img class="icon_rounded" src="http://a1148.phobos.apple.com/us/r30/Purple5/v4/f0/03/00/f003006b-f773-209e-7428-f2da0c353872/pr_source.jpg?downloadKey=1422309113_8ab4e2c6d30b2d14e60bc2cd972a0d38" alt="icona" /></div>
+	<div class="right-info">
+		<div class="header">
+			<h2 class="h2">App universale per iOs</h2><h1 class="h1">Wish - Carrello preso in giro</h1><div class="download"><a href="https://itunes.apple.com/it/app/wish-carrello-preso-in-giro/id530621395?mt=8&uo=4" class="tasc-button" target="_blank">Download</a></div>
+		</div>
+		<div class="content">
+			<div class="field price"><span class="icon"></span>Gratis</div>
+			<div class="field cat"><span class="icon"></span>Mode e tendenze</div>
+			<div class="field author"><span class="icon"></span><a href="">ContextLogic Inc.</a></div>
+		</div>
+	</div>
+	<div class="screenshots">
+		<ul>
+			<li><img src="http://a2.mzstatic.com/eu/r30/Purple6/v4/78/42/eb/7842eb39-d8fe-a7a1-d8f2-444c8e8d1df7/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple/v4/b3/d7/f4/b3d7f407-97c3-51f9-1856-030bdb679676/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple6/v4/2e/5d/6e/2e5d6e92-c968-0fa4-95d5-0017bb354307/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple/v4/87/09/f7/8709f7d3-4ada-7ed7-e403-8f5a01514482/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple2/v4/7d/cd/a6/7dcda681-d2a4-4f18-d87f-dd4cba5d94b3/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple/v4/26/e1/98/26e19899-5f81-a447-93cf-1d082a3f434d/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple6/v4/d4/4b/47/d44b47aa-8603-fe50-ee89-c6e2460ddecd/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple6/v4/fe/a9/27/fea92700-ed9e-084b-a569-5c00930e739f/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple/v4/6c/32/a7/6c32a7cd-2694-0293-8b5b-2b52a359ef42/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple/v4/da/19/15/da191567-8079-5613-cdf9-af25c0bfe748/screen480x480.jpeg" alt="app screenshot" /></li>
+		</ul>
+	</div>
+</div>

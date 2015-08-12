@@ -1,0 +1,19 @@
+
+<div class="review clearfix">
+	<div class="image"><img class="icon_rounded" src="http://a460.phobos.apple.com/us/r30/Purple6/v4/8a/9b/4b/8a9b4b83-0faf-1575-3d44-f22c5d868dfe/mzl.jzopiblp.png" alt="icona" /></div>
+	<div class="right-info">
+		<div class="header">
+			<h2 class="h2">App per iPad</h2><h1 class="h1">Temple Run</h1><div class="download"><a href="https://itunes.apple.com/it/app/temple-run/id420009108?mt=8&uo=4" class="tasc-button" target="_blank">Download</a></div>
+		</div>
+		<div class="content">
+			<div class="field price"><span class="icon"></span>Gratis</div>
+			<div class="field cat"><span class="icon"></span>Giochi</div>
+			<div class="field author"><span class="icon"></span><a href="http://www.imangistudios.com">Imangi Studios, LLC</a></div>
+		</div>
+	</div>
+	<div class="screenshots">
+		<ul>
+			<li><img src="http://a5.mzstatic.com/eu/r30/Purple/v4/d4/8d/5b/d48d5bb7-c91e-ef2b-7e22-b442e3027cc8/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple/v4/e1/c5/20/e1c5201f-6c87-9f43-fffc-a4fe6c3f18d2/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple/v4/e8/41/06/e84106d7-9828-49c8-e8f1-fa7ca0be547e/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple/v4/c0/2d/4d/c02d4dc6-77dc-6b7c-0653-163631d96289/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple/v4/f0/5d/4a/f05d4aa0-4533-fe98-6ed3-72cdeebb9146/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple/v4/cc/c1/14/ccc1146b-3051-ec1a-9f53-9935572f36e6/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple/v4/e8/99/b4/e899b4eb-ae3f-ada3-0991-25a9218d7c20/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple/v4/c9/9e/fd/c99efd1b-5704-55e1-5345-2de8711e151e/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple/v4/d4/ff/65/d4ff650d-6974-2fa5-5dba-00446a56f479/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple/v4/fb/51/c3/fb51c397-2e73-9a06-d14d-144b0fcc01c8/screen480x480.jpeg" alt="app screenshot" /></li>
+		</ul>
+	</div>
+</div>

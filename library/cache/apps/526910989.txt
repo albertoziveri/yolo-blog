@@ -1,0 +1,19 @@
+
+<div class="review clearfix">
+	<div class="image"><img class="icon_rounded" src="http://a1816.phobos.apple.com/us/r30/Purple5/v4/93/31/58/933158f3-3365-bc1b-b6c0-73d85d795d58/pr_source.png?downloadKey=1422301736_12207415063e0128c51aadaa2c1f9196" alt="icona" /></div>
+	<div class="right-info">
+		<div class="header">
+			<h2 class="h2">App per iPhone</h2><h1 class="h1">Muzy</h1><div class="download"><a href="https://itunes.apple.com/it/app/muzy/id526910989?mt=8&uo=4" class="tasc-button" target="_blank">Download</a></div>
+		</div>
+		<div class="content">
+			<div class="field price"><span class="icon"></span>Gratis</div>
+			<div class="field cat"><span class="icon"></span>Foto e video</div>
+			<div class="field author"><span class="icon"></span><a href="">Tictoc Planet, Inc.</a></div>
+		</div>
+	</div>
+	<div class="screenshots">
+		<ul>
+			<li><img src="http://a4.mzstatic.com/eu/r30/Purple3/v4/c6/66/a5/c666a5cb-da83-f4e0-5308-3e4e83aa48b9/screen322x572.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple3/v4/a8/4f/5b/a84f5b43-2a40-6fac-6629-990cdf3820fb/screen322x572.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple5/v4/0f/1d/e4/0f1de4f4-5973-bb4b-7b49-89c11a0b9f5c/screen322x572.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple3/v4/c5/11/e2/c511e296-d8f4-9099-dda2-423ed42ce14a/screen322x572.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple1/v4/a7/4c/f3/a74cf327-45a9-a983-4e55-f1e93c6c84bc/screen322x572.jpeg" alt="app screenshot" /></li>
+		</ul>
+	</div>
+</div>

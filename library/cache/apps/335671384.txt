@@ -1,0 +1,19 @@
+
+<div class="review clearfix">
+	<div class="image"><img class="icon_rounded" src="http://a557.phobos.apple.com/us/r30/Purple/v4/c0/71/bf/c071bf1a-dcca-24aa-822f-8d179b202a42/mzl.sivzjsdu.png" alt="icona" /></div>
+	<div class="right-info">
+		<div class="header">
+			<h2 class="h2">App universale per iOs</h2><h1 class="h1">Sphere - 360º Photography</h1><div class="download"><a href="https://itunes.apple.com/it/app/sphere-360o-photography/id335671384?mt=8&uo=4" class="tasc-button" target="_blank">Download</a></div>
+		</div>
+		<div class="content">
+			<div class="field price"><span class="icon"></span>Gratis</div>
+			<div class="field cat"><span class="icon"></span>Foto e video</div>
+			<div class="field author"><span class="icon"></span><a href="http://theSphere.com">Spherical Inc.</a></div>
+		</div>
+	</div>
+	<div class="screenshots">
+		<ul>
+			<li><img src="http://a5.mzstatic.com/eu/r30/Purple/v4/ae/cb/af/aecbaf36-6e44-81fc-5336-aadb89f9d214/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple4/v4/85/43/7e/85437e32-4b1e-33ac-7645-c51e2f01b354/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple4/v4/68/08/81/68088148-a5e5-c79e-8808-76750ca94cd5/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple4/v4/5b/d9/45/5bd94568-f774-dd06-0631-76e5836759d1/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple4/v4/42/d2/c7/42d2c782-0240-d4c9-3aa0-17d046a3709b/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple4/v4/67/55/56/67555660-9418-9e36-a401-de3dbbf2fa3f/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple6/v4/05/45/33/054533e2-ba87-a811-ea88-aa5b9a98ecdc/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple6/v4/86/23/3b/86233bda-fedc-2448-48d7-ea28d6fee0fc/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple6/v4/df/38/a7/df38a7e1-273d-26f4-139c-e96ae3edc937/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple6/v4/33/9c/d8/339cd851-5491-6f91-d442-2768f79de2fe/screen480x480.jpeg" alt="app screenshot" /></li>
+		</ul>
+	</div>
+</div>

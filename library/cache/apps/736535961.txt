@@ -1,0 +1,19 @@
+
+<div class="review clearfix">
+	<div class="image"><img class="icon_rounded" src="http://a372.phobos.apple.com/us/r30/Purple3/v4/3d/a3/ae/3da3aed3-7547-617c-bb5f-db90775505ae/mzl.uimgkfes.png" alt="icona" /></div>
+	<div class="right-info">
+		<div class="header">
+			<h2 class="h2">App universale per iOs</h2><h1 class="h1">Coursera</h1><div class="download"><a href="https://itunes.apple.com/it/app/coursera/id736535961?mt=8&uo=4" class="tasc-button" target="_blank">Download</a></div>
+		</div>
+		<div class="content">
+			<div class="field price"><span class="icon"></span>Gratis</div>
+			<div class="field cat"><span class="icon"></span>Istruzione</div>
+			<div class="field author"><span class="icon"></span><a href="">Coursera</a></div>
+		</div>
+	</div>
+	<div class="screenshots">
+		<ul>
+			<li><img src="http://a2.mzstatic.com/eu/r30/Purple1/v4/6f/c2/95/6fc29529-0c1f-af94-486e-38abe0e1252d/screen322x572.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple5/v4/bc/02/3b/bc023b48-3b6c-c7a0-afec-2a2a0925653a/screen322x572.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple5/v4/98/d3/f6/98d3f66f-0988-7feb-b6d7-4ac995bd781b/screen322x572.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple3/v4/42/24/3b/42243bba-195c-ffbc-c9a2-5260b9a09f1c/screen322x572.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple3/v4/a3/83/59/a3835942-439c-5031-63f1-2cebb5d0d999/screen322x572.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple5/v4/2a/03/01/2a030177-63a7-27bb-cbc1-a0ada31e6220/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple5/v4/52/e4/c8/52e4c8db-4783-5bbc-d832-9502fee28871/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple3/v4/b8/db/be/b8dbbec3-f547-6447-4246-3fd2fa837a1c/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple5/v4/a3/37/82/a3378250-2ef1-642a-bb64-fac854e48177/screen480x480.jpeg" alt="app screenshot" /></li>
+		</ul>
+	</div>
+</div>

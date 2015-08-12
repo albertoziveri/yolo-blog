@@ -1,0 +1,19 @@
+
+<div class="review clearfix">
+	<div class="image"><img class="icon_rounded" src="http://a372.phobos.apple.com/us/r30/Purple3/v4/0f/9a/13/0f9a13c7-8070-ac26-0250-d1b2def59e8b/mzl.yovtjgml.png" alt="icona" /></div>
+	<div class="right-info">
+		<div class="header">
+			<h2 class="h2">App universale per iOs</h2><h1 class="h1">Solar Walk Modello 3D del Sistema Solare</h1><div class="download"><a href="https://itunes.apple.com/it/app/solar-walk-modello-3d-del/id347546771?mt=8&uo=4" class="tasc-button" target="_blank">Download</a></div>
+		</div>
+		<div class="content">
+			<div class="field price"><span class="icon"></span>2,99 €</div>
+			<div class="field cat"><span class="icon"></span>Istruzione</div>
+			<div class="field author"><span class="icon"></span><a href="http://www.vitotechnology.com/solar-walk.html">Vito Technology Inc.</a></div>
+		</div>
+	</div>
+	<div class="screenshots">
+		<ul>
+			<li><img src="http://a4.mzstatic.com/eu/r30/Purple5/v4/ca/cb/f5/cacbf5d9-9464-96d0-222b-78ca37903469/screen320x320.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple4/v4/a2/cf/30/a2cf305d-e8c8-f8bf-d9ff-6514e3296f59/screen320x320.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple1/v4/fa/0c/d6/fa0cd6d5-2072-c08e-9491-2ea25bb1704a/screen320x320.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple5/v4/8e/ba/d7/8ebad7ec-8fb9-a54e-a437-787bf5069a87/screen320x320.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple4/v4/35/d5/97/35d5977d-f520-1ba8-767c-d8da65add2f0/screen320x320.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple1/v4/d3/89/fb/d389fba0-d783-6bbe-59ef-2358570c2883/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple1/v4/28/7e/9c/287e9c64-71f4-d132-cb5f-064fb9617cf3/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple3/v4/b9/35/06/b9350672-abbd-02f0-b6cd-aeb44dde164a/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple4/v4/e8/17/3c/e8173c6a-c11a-78c4-a14c-771a22afc7d8/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple4/v4/48/88/a6/4888a65a-fdbe-13b2-37bd-3a3aa42c0a30/screen480x480.jpeg" alt="app screenshot" /></li>
+		</ul>
+	</div>
+</div>

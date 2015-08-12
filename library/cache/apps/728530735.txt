@@ -1,0 +1,19 @@
+
+<div class="review clearfix">
+	<div class="image"><img class="icon_rounded" src="http://a1090.phobos.apple.com/us/r30/Purple3/v4/fb/ac/83/fbac83fa-806f-17d0-dca5-d1c7dbe50b21/mzl.ajtatwnj.png" alt="icona" /></div>
+	<div class="right-info">
+		<div class="header">
+			<h2 class="h2">App per iPhone</h2><h1 class="h1">ASAP54</h1><div class="download"><a href="https://itunes.apple.com/it/app/asap54/id728530735?mt=8&uo=4" class="tasc-button" target="_blank">Download</a></div>
+		</div>
+		<div class="content">
+			<div class="field price"><span class="icon"></span>Gratis</div>
+			<div class="field cat"><span class="icon"></span>Mode e tendenze</div>
+			<div class="field author"><span class="icon"></span><a href="">ASAP54</a></div>
+		</div>
+	</div>
+	<div class="screenshots">
+		<ul>
+			<li><img src="http://a5.mzstatic.com/eu/r30/Purple3/v4/df/3e/7f/df3e7fd9-de14-19aa-8925-778500e7a504/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple5/v4/86/c6/84/86c68484-9fb9-4504-048d-77c57f50cd0a/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple1/v4/0f/21/b6/0f21b640-d384-9c13-6853-583fccd1c591/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple3/v4/49/fc/46/49fc467a-f0bb-ee6e-4869-d99522f72ff0/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple3/v4/d7/55/92/d7559290-9f37-1af3-9093-706b81805972/screen1136x1136.jpeg" alt="app screenshot" /></li>
+		</ul>
+	</div>
+</div>

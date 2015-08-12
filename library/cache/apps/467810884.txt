@@ -1,0 +1,19 @@
+
+<div class="review clearfix">
+	<div class="image"><img class="icon_rounded" src="http://a1817.phobos.apple.com/us/r30/Purple1/v4/de/da/a0/dedaa086-5a0d-bcde-aea0-d54784993823/mzl.ybvgjuqq.png" alt="icona" /></div>
+	<div class="right-info">
+		<div class="header">
+			<h2 class="h2">App per iPad</h2><h1 class="h1">Dov'è la mia acqua? Gratis</h1><div class="download"><a href="https://itunes.apple.com/it/app/dove-la-mia-acqua-gratis/id467810884?mt=8&uo=4" class="tasc-button" target="_blank">Download</a></div>
+		</div>
+		<div class="content">
+			<div class="field price"><span class="icon"></span>Gratis</div>
+			<div class="field cat"><span class="icon"></span>Giochi</div>
+			<div class="field author"><span class="icon"></span><a href="http://disney.go.com">Disney</a></div>
+		</div>
+	</div>
+	<div class="screenshots">
+		<ul>
+			<li><img src="http://a5.mzstatic.com/eu/r30/Purple/v4/f3/58/c0/f358c09c-b7af-2273-0c2e-c026c3264df3/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple2/v4/b4/7c/6a/b47c6a6f-a336-5fa7-d728-63afe8253914/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple/v4/d9/2a/7e/d92a7e8f-223c-bc73-30ca-bb24c0847137/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple/v4/f1/63/78/f16378c4-7f50-8ce5-246d-3987da6e1750/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple2/v4/5c/f9/48/5cf9480a-017f-e582-7122-08ce3c34ee35/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple/v4/da/14/d9/da14d91d-3b02-d3f4-c242-d82efffe87d7/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple2/v4/cd/b0/c3/cdb0c3ed-3eed-aa92-0c37-72117e6e511b/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple/v4/d5/a5/12/d5a512bc-c4e9-7005-4592-842ac336f3ed/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple/v4/f9/4f/c3/f94fc364-8427-82d4-7594-a58baf6e5f9b/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple/v4/ce/72/db/ce72dbb7-cd43-5a8f-c360-d9ea0d64a038/screen480x480.jpeg" alt="app screenshot" /></li>
+		</ul>
+	</div>
+</div>

@@ -1,0 +1,19 @@
+
+<div class="review clearfix">
+	<div class="image"><img class="icon_rounded" src="http://is5.mzstatic.com/image/pf/us/r30/Purple6/v4/06/0c/2c/060c2c48-676d-6fe1-d752-f8ecafeb2ac3/mzl.hnkjefsd.png" alt="icona" /></div>
+	<div class="right-info">
+		<div class="header">
+			<h2 class="h2">App universale per iOs</h2><h1 class="h1">Bat Sharing - una sola app per tutti i carsharing</h1><div class="download"><a href="https://itunes.apple.com/it/app/bat-sharing-una-sola-app-per/id804024567?mt=8&uo=4" class="tasc-button" target="_blank">Download</a></div>
+		</div>
+		<div class="content">
+			<div class="field price"><span class="icon"></span>Gratis</div>
+			<div class="field cat"><span class="icon"></span>Navigazione</div>
+			<div class="field author"><span class="icon"></span><a href="https://twitter.com/batsharing">Emiliano Saurin</a></div>
+		</div>
+	</div>
+	<div class="screenshots">
+		<ul>
+			<li><img src="http://a3.mzstatic.com/eu/r30/Purple5/v4/0a/b6/a4/0ab6a41e-771b-6c1e-e99c-81f76bebcafb/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple5/v4/a4/b4/76/a4b4762e-dac2-fa65-d0cf-4f6610248bd5/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple5/v4/2d/a7/23/2da72327-2b4c-4d4c-1f4f-c5c4ab913e5e/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple5/v4/c8/98/aa/c898aab2-68e2-b010-fd03-38d09a6fc019/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple1/v4/67/ce/26/67ce26d8-963a-c981-8f13-edb3494d4eb8/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple1/v4/da/e6/70/dae670ee-5529-daa6-8f7d-e30b654e8565/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple5/v4/6e/08/a7/6e08a744-36c0-1af2-c18d-ff0ed930067a/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple5/v4/d7/33/58/d733587c-bc95-6d03-c723-0d93f53f597e/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple3/v4/b2/a1/fc/b2a1fc48-bf0e-3758-35e2-930cc565903b/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple3/v4/9d/8d/7f/9d8d7fea-fa46-4a8b-0499-81947e81b245/screen480x480.jpeg" alt="app screenshot" /></li>
+		</ul>
+	</div>
+</div>

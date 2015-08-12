@@ -1,0 +1,19 @@
+
+<div class="review clearfix">
+	<div class="image"><img class="icon_rounded" src="http://a228.phobos.apple.com/us/r30/Purple/v4/ac/c0/5f/acc05ffc-1d25-5373-d8f7-426a6ce357e6/mzl.vqfdicxl.png" alt="icona" /></div>
+	<div class="right-info">
+		<div class="header">
+			<h2 class="h2">App per iPhone</h2><h1 class="h1">Angry Birds Free</h1><div class="download"><a href="https://itunes.apple.com/it/app/angry-birds-free/id409807569?mt=8&uo=4" class="tasc-button" target="_blank">Download</a></div>
+		</div>
+		<div class="content">
+			<div class="field price"><span class="icon"></span>Gratis</div>
+			<div class="field cat"><span class="icon"></span>Giochi</div>
+			<div class="field author"><span class="icon"></span><a href="">Rovio Entertainment Ltd</a></div>
+		</div>
+	</div>
+	<div class="screenshots">
+		<ul>
+			<li><img src="http://a4.mzstatic.com/eu/r30/Purple/v4/d0/ae/ad/d0aeadef-2b97-91b6-64e1-0e5a85593c29/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple4/v4/11/c6/c0/11c6c04f-6621-7e70-2c84-7c512731227b/screen320x320.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple4/v4/a0/3d/fe/a03dfeb5-2746-ee5f-58b6-f311834c8577/screen320x320.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple6/v4/f1/ea/d8/f1ead828-8d58-c753-ec9b-af6f42486daa/screen320x320.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple2/v4/78/3d/3a/783d3a16-f74b-ff3d-a93f-d33b0b65998d/screen320x320.jpeg" alt="app screenshot" /></li>
+		</ul>
+	</div>
+</div>

@@ -1,0 +1,19 @@
+
+<div class="review clearfix">
+	<div class="image"><img class="icon_rounded" src="http://a1822.phobos.apple.com/us/r30/Purple3/v4/97/66/79/976679a7-71c7-0f21-6431-04d93c135312/mzl.metjgrqn.png" alt="icona" /></div>
+	<div class="right-info">
+		<div class="header">
+			<h2 class="h2">App universale per iOs</h2><h1 class="h1">Telegram Messenger</h1><div class="download"><a href="https://itunes.apple.com/it/app/telegram-messenger/id686449807?mt=8&uo=4" class="tasc-button" target="_blank">Download</a></div>
+		</div>
+		<div class="content">
+			<div class="field price"><span class="icon"></span>Gratis</div>
+			<div class="field cat"><span class="icon"></span>Social Network</div>
+			<div class="field author"><span class="icon"></span><a href="">Telegram LLC</a></div>
+		</div>
+	</div>
+	<div class="screenshots">
+		<ul>
+			<li><img src="http://a4.mzstatic.com/eu/r30/Purple1/v4/0a/11/a9/0a11a9f8-cb8f-4bfd-d5c9-f700eeea866b/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple1/v4/72/e5/5d/72e55d2f-f214-2008-e867-b6b05039e0d8/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple3/v4/99/d6/38/99d6388c-5434-4fc1-25bb-639cdb36a780/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple3/v4/5a/93/5d/5a935dc4-da10-161a-d144-272dabec60be/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple5/v4/84/f1/fb/84f1fb03-b488-42d1-7c7e-78d217aff2fb/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple3/v4/69/9a/42/699a4269-8dd6-a6a5-0c00-c029ab5ab8b0/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple3/v4/18/ef/eb/18efeb16-5240-6696-47d6-b273ea6ffc0e/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple5/v4/17/b7/5c/17b75c3b-c7a4-8125-92d4-d040ba77ae8b/screen480x480.jpeg" alt="app screenshot" /></li>
+		</ul>
+	</div>
+</div>

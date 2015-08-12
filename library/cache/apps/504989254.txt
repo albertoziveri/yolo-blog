@@ -1,0 +1,19 @@
+
+<div class="review clearfix">
+	<div class="image"><img class="icon_rounded" src="http://a1132.phobos.apple.com/us/r30/Purple3/v4/0b/ab/92/0bab9232-ad9b-a846-b771-074781f866b1/mzl.qtllumgh.png" alt="icona" /></div>
+	<div class="right-info">
+		<div class="header">
+			<h2 class="h2">App universale per iOs</h2><h1 class="h1">Curiosone</h1><div class="download"><a href="https://itunes.apple.com/it/app/curiosone/id504989254?mt=8&uo=4" class="tasc-button" target="_blank">Download</a></div>
+		</div>
+		<div class="content">
+			<div class="field price"><span class="icon"></span>Gratis</div>
+			<div class="field cat"><span class="icon"></span>News</div>
+			<div class="field author"><span class="icon"></span><a href="http://www.curiosone.tv/pubblicita/">KONOLAB SRL</a></div>
+		</div>
+	</div>
+	<div class="screenshots">
+		<ul>
+			<li><img src="http://a1.mzstatic.com/eu/r30/Purple4/v4/3e/68/31/3e68318f-444f-4d8f-5bdf-3ea2ff3242e5/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple/v4/94/51/e5/9451e5ef-41de-03c4-d4ba-6d92ff801e18/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple6/v4/57/7e/cf/577ecfa5-16a6-f718-492b-3cbf600362e5/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple4/v4/ba/aa/9c/baaa9c2f-65a3-eb44-a1e7-1d1cf555bce6/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple4/v4/f9/21/c3/f921c3d0-beb8-3e43-511b-7307f3a3720b/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple4/v4/5d/ac/c2/5dacc278-e79f-8019-94ca-78faacf511ee/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple6/v4/d6/57/06/d657064f-4383-cf82-660e-48d15b92e505/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple/v4/8b/eb/8e/8beb8e24-5c1c-874c-e3c3-8248984b0b7e/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple4/v4/4d/3f/c2/4d3fc238-8743-d0af-c0ee-0ceda713724b/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple4/v4/00/ed/6f/00ed6ff7-c344-020a-f187-a19c89183c09/screen480x480.jpeg" alt="app screenshot" /></li>
+		</ul>
+	</div>
+</div>

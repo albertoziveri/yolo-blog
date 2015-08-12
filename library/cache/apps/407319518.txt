@@ -1,0 +1,19 @@
+
+<div class="review clearfix">
+	<div class="image"><img class="icon_rounded" src="http://a286.phobos.apple.com/us/r30/Purple3/v4/8a/b4/44/8ab444ca-577c-6fc0-dc65-79b3a588a112/mzl.llyzqnme.png" alt="icona" /></div>
+	<div class="right-info">
+		<div class="header">
+			<h2 class="h2">App universale per iOs</h2><h1 class="h1">7inLatino - A scuola il latino non lo odierai più! Versioni, dizionario e uno zoo di appunti per gli studenti</h1><div class="download"><a href="https://itunes.apple.com/it/app/7inlatino-scuola-latino-non/id407319518?mt=8&uo=4" class="tasc-button" target="_blank">Download</a></div>
+		</div>
+		<div class="content">
+			<div class="field price"><span class="icon"></span>Gratis</div>
+			<div class="field cat"><span class="icon"></span>Istruzione</div>
+			<div class="field author"><span class="icon"></span><a href="http://www.7inLatino.it">Sempronio corporation</a></div>
+		</div>
+	</div>
+	<div class="screenshots">
+		<ul>
+			<li><img src="http://a1.mzstatic.com/eu/r30/Purple6/v4/14/c7/ff/14c7ff73-48f0-b10e-c7c9-8d3c6f07a23d/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple4/v4/55/90/25/559025e3-1b11-32db-bb0e-0dcfab306859/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple4/v4/0b/f1/c4/0bf1c46a-0546-4ff2-eceb-28d0bf682656/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple6/v4/17/69/21/176921d4-050d-33b8-f405-ab4161c7dbcf/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple6/v4/ab/53/36/ab53366a-d5e6-4ae3-489a-c2a9e8f31fac/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple4/v4/47/2e/61/472e61be-c9d8-525e-2f88-92e28d3981e5/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple4/v4/e4/af/fd/e4affd7b-9350-0e40-d4b5-61a330bf7f91/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple4/v4/55/d0/3e/55d03e24-5aef-a573-ce11-2d1aa3a68080/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple6/v4/a5/a9/14/a5a914b3-f71b-a8fd-07fe-9e8895187055/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple/v4/c7/a6/2b/c7a62b49-b769-52ee-50fc-5960e2e07c60/screen480x480.jpeg" alt="app screenshot" /></li>
+		</ul>
+	</div>
+</div>

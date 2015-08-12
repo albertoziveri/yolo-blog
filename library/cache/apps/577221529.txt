@@ -1,0 +1,19 @@
+
+<div class="review clearfix">
+	<div class="image"><img class="icon_rounded" src="http://a32.phobos.apple.com/us/r30/Purple/v4/c2/76/8d/c2768db3-960d-7e1b-e2a1-1e9a48cee0f6/mzl.eoevansn.png" alt="icona" /></div>
+	<div class="right-info">
+		<div class="header">
+			<h2 class="h2">App universale per iOs</h2><h1 class="h1">Rise Alarm Clock</h1><div class="download"><a href="https://itunes.apple.com/it/app/rise-alarm-clock/id577221529?mt=8&uo=4" class="tasc-button" target="_blank">Download</a></div>
+		</div>
+		<div class="content">
+			<div class="field price"><span class="icon"></span>1,99 €</div>
+			<div class="field cat"><span class="icon"></span>Utility</div>
+			<div class="field author"><span class="icon"></span><a href="http://rise.simplebots.co/">Kellen Styler</a></div>
+		</div>
+	</div>
+	<div class="screenshots">
+		<ul>
+			<li><img src="http://a1.mzstatic.com/eu/r30/Purple4/v4/29/3d/ee/293dee55-3ab2-806e-f86c-0c1ceab6e66b/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple/v4/d7/21/4b/d7214b8b-ea88-5a20-7a94-f3575031f5f3/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple6/v4/27/4a/66/274a6641-b403-ef8a-794a-0cdc03f53b96/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple/v4/1d/95/fd/1d95fd77-183e-61d3-873d-3438c8841605/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple/v4/4a/15/e9/4a15e939-86fb-cd3c-26a9-46ba82025564/screen320x320.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple/v4/20/6c/30/206c30b4-ab73-8405-a934-421ad818316d/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple6/v4/c8/a4/3e/c8a43e1e-97fd-b16e-fa72-98c948e7c6a3/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple4/v4/16/0b/65/160b65e1-25b6-3cd4-1ba0-6657c65ab738/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple4/v4/22/c1/5a/22c15ada-3616-0088-4eaf-0459a4124ae7/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple/v4/31/7c/77/317c777b-2299-b156-e574-1cb4a41cac7b/screen480x480.jpeg" alt="app screenshot" /></li>
+		</ul>
+	</div>
+</div>

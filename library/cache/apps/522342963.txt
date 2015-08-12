@@ -1,0 +1,19 @@
+
+<div class="review clearfix">
+	<div class="image"><img class="icon_rounded" src="http://a1748.phobos.apple.com/us/r30/Purple/v4/cb/29/19/cb2919af-3a25-d826-ba2d-d059fc21fe11/mzl.nplkirth.png" alt="icona" /></div>
+	<div class="right-info">
+		<div class="header">
+			<h2 class="h2">App universale per iOs</h2><h1 class="h1">Cloudfogger Cloud-Encryption</h1><div class="download"><a href="https://itunes.apple.com/it/app/cloudfogger-cloud-encryption/id522342963?mt=8&uo=4" class="tasc-button" target="_blank">Download</a></div>
+		</div>
+		<div class="content">
+			<div class="field price"><span class="icon"></span>Gratis</div>
+			<div class="field cat"><span class="icon"></span>Utility</div>
+			<div class="field author"><span class="icon"></span><a href="">Cloudfogger</a></div>
+		</div>
+	</div>
+	<div class="screenshots">
+		<ul>
+			<li><img src="http://a2.mzstatic.com/eu/r30/Purple/v4/c2/24/97/c224979c-ff85-d70f-14a9-731aaca33ff1/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple2/v4/e9/fb/8c/e9fb8c6f-0c24-18b5-6d1b-206aa457f759/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple/v4/ff/9f/bb/ff9fbbd0-4ad0-c999-4198-3c5ca1d3e0b0/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple/v4/e1/ad/e7/e1ade73f-6990-e182-69f4-7a83e245f964/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple/v4/fa/d5/8b/fad58b81-f96e-177b-9d28-df04c69a69a9/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple2/v4/0e/f2/72/0ef272bd-6d23-219f-71ec-d6aac7032064/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple2/v4/72/61/5e/72615e3a-b8e6-5798-c9e3-8d048c9243ff/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple2/v4/c7/58/22/c758224c-61d8-9e80-ab59-b9b02ca88b29/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple/v4/c9/1b/9a/c91b9a56-b6ca-1066-d6e2-61df88c271fb/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple2/v4/42/b6/5d/42b65ddf-8ce8-015a-ca71-86616dbe4705/screen480x480.jpeg" alt="app screenshot" /></li>
+		</ul>
+	</div>
+</div>

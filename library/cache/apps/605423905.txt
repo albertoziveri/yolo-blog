@@ -1,0 +1,19 @@
+
+<div class="review clearfix">
+	<div class="image"><img class="icon_rounded" src="http://a1082.phobos.apple.com/us/r30/Purple5/v4/a4/7f/ab/a47fab91-dff5-1bb4-5752-95563a1567c0/mzl.qfglenzb.png" alt="icona" /></div>
+	<div class="right-info">
+		<div class="header">
+			<h2 class="h2">App universale per iOs</h2><h1 class="h1">Primary for Instagram</h1><div class="download"><a href="https://itunes.apple.com/it/app/primary-for-instagram/id605423905?mt=8&uo=4" class="tasc-button" target="_blank">Download</a></div>
+		</div>
+		<div class="content">
+			<div class="field price"><span class="icon"></span>Gratis</div>
+			<div class="field cat"><span class="icon"></span>Foto e video</div>
+			<div class="field author"><span class="icon"></span><a href="http://primaryapp.co">Think Tap Work</a></div>
+		</div>
+	</div>
+	<div class="screenshots">
+		<ul>
+			<li><img src="http://a4.mzstatic.com/eu/r30/Purple1/v4/fa/c7/e0/fac7e051-2d06-a05e-202d-ab32021c9421/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple3/v4/22/62/5d/22625dc8-61e5-8a64-8b8d-98d2f6099eea/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple1/v4/a0/15/1c/a0151c54-97f8-3059-b5d9-ae4bf0a67ab0/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple3/v4/f1/c4/a3/f1c4a3ee-53ed-c37b-941c-9fe963c97de7/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple5/v4/c1/32/8a/c1328ac0-c8ad-4257-7488-e131469f5781/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple1/v4/3c/08/0e/3c080e9e-e7c2-043f-fd20-0f343d24b329/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple5/v4/64/62/13/646213ab-2e87-1457-722c-2163697f5c00/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple3/v4/81/54/b3/8154b37d-3379-147c-269f-b6c653a253cc/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple3/v4/50/0f/9a/500f9a92-832e-593e-9c68-de5bd669eb45/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple5/v4/6a/cb/20/6acb20eb-84bc-de2f-a87f-087be2593d72/screen480x480.jpeg" alt="app screenshot" /></li>
+		</ul>
+	</div>
+</div>

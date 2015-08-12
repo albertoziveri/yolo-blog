@@ -1,0 +1,19 @@
+
+<div class="review clearfix">
+	<div class="image"><img class="icon_rounded" src="http://a282.phobos.apple.com/us/r30/Purple6/v4/62/d2/97/62d297bf-e5c8-4893-b744-4269896e1572/mzl.zbfpxcbm.png" alt="icona" /></div>
+	<div class="right-info">
+		<div class="header">
+			<h2 class="h2">App per iPhone</h2><h1 class="h1">Tieni traccia delle spese e gestisci le finanze personali con Moni (il libretto degli assegni)</h1><div class="download"><a href="https://itunes.apple.com/it/app/tieni-traccia-delle-spese/id523994373?mt=8&uo=4" class="tasc-button" target="_blank">Download</a></div>
+		</div>
+		<div class="content">
+			<div class="field price"><span class="icon"></span>Gratis</div>
+			<div class="field cat"><span class="icon"></span>Finanza</div>
+			<div class="field author"><span class="icon"></span><a href="http://moni.whitewaterlabs.com">Whitewater Labs, LLC</a></div>
+		</div>
+	</div>
+	<div class="screenshots">
+		<ul>
+			<li><img src="http://a1.mzstatic.com/eu/r30/Purple6/v4/9e/41/bd/9e41bd65-6e5e-231e-ac67-17b7f415069e/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple/v4/ff/28/40/ff2840f4-d67a-5e04-a6ce-c36075bb6f62/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple/v4/c3/48/8d/c3488dbf-d98c-ffb6-e1e6-98287e5ed031/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple/v4/e2/f0/bc/e2f0bcc6-63b5-8ecd-b625-bb1c18856356/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple6/v4/e9/b6/6a/e9b66a98-a14a-548b-329a-598e3948e92f/screen1136x1136.jpeg" alt="app screenshot" /></li>
+		</ul>
+	</div>
+</div>

@@ -1,0 +1,19 @@
+
+<div class="review clearfix">
+	<div class="image"><img class="icon_rounded" src="http://a570.phobos.apple.com/us/r30/Purple3/v4/7f/4b/d5/7f4bd541-3079-94e2-decc-16be90133537/mzl.qckyyjdr.png" alt="icona" /></div>
+	<div class="right-info">
+		<div class="header">
+			<h2 class="h2">App per iPhone</h2><h1 class="h1">Lapka</h1><div class="download"><a href="https://itunes.apple.com/it/app/lapka/id534257633?mt=8&uo=4" class="tasc-button" target="_blank">Download</a></div>
+		</div>
+		<div class="content">
+			<div class="field price"><span class="icon"></span>Gratis</div>
+			<div class="field cat"><span class="icon"></span>Salute e benessere</div>
+			<div class="field author"><span class="icon"></span><a href="">Lapka</a></div>
+		</div>
+	</div>
+	<div class="screenshots">
+		<ul>
+			<li><img src="http://a5.mzstatic.com/eu/r30/Purple3/v4/8c/94/b8/8c94b8ba-74a6-469e-0000-d65a6e23d0b9/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple3/v4/73/37/c2/7337c200-7c85-7670-0241-6289e78d9b48/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple5/v4/3b/e1/9c/3be19c92-504e-9158-53e1-9768958eaf55/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple5/v4/08/e4/30/08e43069-32a1-fb4a-affe-2d9aa100b8cb/screen1136x1136.jpeg" alt="app screenshot" /></li>
+		</ul>
+	</div>
+</div>

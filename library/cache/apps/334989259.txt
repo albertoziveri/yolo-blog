@@ -1,0 +1,19 @@
+
+<div class="review clearfix">
+	<div class="image"><img class="icon_rounded" src="http://a658.phobos.apple.com/us/r30/Purple1/v4/19/8f/60/198f60cc-203a-6b6a-c844-4432ef4caaf7/mzl.csvxormk.png" alt="icona" /></div>
+	<div class="right-info">
+		<div class="header">
+			<h2 class="h2">App universale per iOs</h2><h1 class="h1">WolframAlpha</h1><div class="download"><a href="https://itunes.apple.com/it/app/wolframalpha/id334989259?mt=8&uo=4" class="tasc-button" target="_blank">Download</a></div>
+		</div>
+		<div class="content">
+			<div class="field price"><span class="icon"></span>2,99 €</div>
+			<div class="field cat"><span class="icon"></span>Riferimento</div>
+			<div class="field author"><span class="icon"></span><a href="http://products.wolframalpha.com/iphone">Wolfram Group LLC</a></div>
+		</div>
+	</div>
+	<div class="screenshots">
+		<ul>
+			<li><img src="http://a3.mzstatic.com/eu/r30/Purple5/v4/77/5c/d1/775cd1d0-cace-e125-ade4-55fc14ce0fe6/screen322x572.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple3/v4/3e/17/b6/3e17b68c-3f76-8937-412e-66f75e596b7a/screen322x572.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple5/v4/00/26/1a/00261a5b-db28-17d5-c27a-cae312cdf6ee/screen322x572.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple1/v4/29/24/65/292465d6-3db3-b45e-6217-8f988d8e2c17/screen322x572.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple5/v4/94/16/c2/9416c243-5c47-c745-ef4d-2606301373d3/screen322x572.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple3/v4/f9/32/12/f932120b-d750-0053-f099-a78cc9c585c9/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple1/v4/e4/5d/4b/e45d4bae-4d0b-1139-538f-ab5cf40b08b6/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple3/v4/de/b9/5d/deb95d58-ddaf-a0b0-88e5-e911515092f8/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple1/v4/3b/1c/3f/3b1c3fd0-4910-79ff-de44-b0efffb6b193/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple3/v4/36/60/ce/3660ced6-2db7-8af8-3eb8-28d47e4cc1eb/screen480x480.jpeg" alt="app screenshot" /></li>
+		</ul>
+	</div>
+</div>

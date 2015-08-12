@@ -1,0 +1,19 @@
+
+<div class="review clearfix">
+	<div class="image"><img class="icon_rounded" src="http://a1383.phobos.apple.com/us/r30/Purple3/v4/b5/93/b3/b593b3fe-d0b4-478e-366d-052f95d2ae48/mzl.sayreknd.png" alt="icona" /></div>
+	<div class="right-info">
+		<div class="header">
+			<h2 class="h2">App universale per iOs</h2><h1 class="h1">Quick Graph+: Your Scientific Graphing Calculator</h1><div class="download"><a href="https://itunes.apple.com/it/app/quick-graph+-your-scientific/id541477533?mt=8&uo=4" class="tasc-button" target="_blank">Download</a></div>
+		</div>
+		<div class="content">
+			<div class="field price"><span class="icon"></span>1,99 €</div>
+			<div class="field cat"><span class="icon"></span>Istruzione</div>
+			<div class="field author"><span class="icon"></span><a href="">Colombiamug</a></div>
+		</div>
+	</div>
+	<div class="screenshots">
+		<ul>
+			<li><img src="http://a2.mzstatic.com/eu/r30/Purple6/v4/ef/d5/ea/efd5eaa9-e7b9-84c3-8c03-dab793fd938d/screen320x320.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple4/v4/0a/5a/37/0a5a37f8-cc45-a96e-d20a-053925591410/screen320x320.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple4/v4/eb/1e/81/eb1e8159-e1be-1d96-778a-9575ae352bd0/screen320x320.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple/v4/99/27/3c/99273ccc-3d6a-5ade-2031-7fa6b512bfdb/screen320x320.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple/v4/44/c6/f3/44c6f3c0-03b0-c4a5-9514-78f9e0e7b22a/screen320x320.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple4/v4/05/36/e2/0536e2cb-78fb-0657-53a7-06662051c4f8/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple6/v4/6b/b7/a5/6bb7a54f-5b33-9762-5366-f4b50ea453dd/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple/v4/fc/4a/c3/fc4ac305-81f4-a28e-9658-b4b3814aff12/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple/v4/3a/c5/39/3ac539cb-2af1-62f9-6fa8-4edb7dfb92ed/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple4/v4/78/b5/f3/78b5f3f1-35c2-4e2d-40d5-21913a27b520/screen480x480.jpeg" alt="app screenshot" /></li>
+		</ul>
+	</div>
+</div>

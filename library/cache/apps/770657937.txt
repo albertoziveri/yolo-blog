@@ -1,0 +1,19 @@
+
+<div class="review clearfix">
+	<div class="image"><img class="icon_rounded" src="http://is3.mzstatic.com/image/pf/us/r30/Purple1/v4/d6/ef/dd/d6efdd38-2ef0-230c-6139-bbd177271452/mzl.iunhoero.png" alt="icona" /></div>
+	<div class="right-info">
+		<div class="header">
+			<h2 class="h2">App per iPhone</h2><h1 class="h1">iFoodies</h1><div class="download"><a href="https://itunes.apple.com/it/app/ifoodies/id770657937?mt=8&uo=4" class="tasc-button" target="_blank">Download</a></div>
+		</div>
+		<div class="content">
+			<div class="field price"><span class="icon"></span>Gratis</div>
+			<div class="field cat"><span class="icon"></span>Cibi e bevande</div>
+			<div class="field author"><span class="icon"></span><a href="http://www.ifoodies.it">Filippo Polidori</a></div>
+		</div>
+	</div>
+	<div class="screenshots">
+		<ul>
+			<li><img src="http://a4.mzstatic.com/eu/r30/Purple7/v4/25/ac/53/25ac53da-a62b-c40d-6dc8-9be724abb7e0/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple1/v4/fe/3c/a1/fe3ca1da-50c5-0d2b-0675-4ed174414d3b/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple7/v4/9c/f9/03/9cf90348-4ba1-ecad-5992-06102fe272f0/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple7/v4/97/6b/40/976b40f6-7b72-bd8b-f9ed-c75907405b00/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple7/v4/d2/41/35/d24135da-04ae-0a76-c6b1-6f4bfed95e0a/screen1136x1136.jpeg" alt="app screenshot" /></li>
+		</ul>
+	</div>
+</div>

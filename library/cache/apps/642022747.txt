@@ -1,0 +1,19 @@
+
+<div class="review clearfix">
+	<div class="image"><img class="icon_rounded" src="http://is5.mzstatic.com/image/pf/us/r30/Purple3/v4/ec/87/c3/ec87c33b-2507-2ee2-a5d4-ad0f3b3b1831/mzl.dnsmbuzv.png" alt="icona" /></div>
+	<div class="right-info">
+		<div class="header">
+			<h2 class="h2">App per iPhone</h2><h1 class="h1">Dispatch: Email basata sull'azione</h1><div class="download"><a href="https://itunes.apple.com/it/app/dispatch-email-basata-sullazione/id642022747?mt=8&uo=4" class="tasc-button" target="_blank">Download</a></div>
+		</div>
+		<div class="content">
+			<div class="field price"><span class="icon"></span>4,99 €</div>
+			<div class="field cat"><span class="icon"></span>Produttività</div>
+			<div class="field author"><span class="icon"></span><a href="http://www.dispatchapp.net">Clean Shaven Apps</a></div>
+		</div>
+	</div>
+	<div class="screenshots">
+		<ul>
+			<li><img src="http://a2.mzstatic.com/eu/r30/Purple1/v4/31/9a/18/319a18b6-de2d-311e-25f9-9b0a3b4a5855/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple5/v4/5f/cd/6f/5fcd6fd2-c185-d7be-b8a4-bebec9b8e260/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple5/v4/68/51/9a/68519ab1-56cf-83fb-f50e-21d9471a0bdd/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple3/v4/5f/06/8f/5f068ffe-df4b-d11a-b583-3d25ad93b8ac/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple3/v4/0b/bb/3d/0bbb3da6-390c-3c7b-07a9-db642f7aae07/screen1136x1136.jpeg" alt="app screenshot" /></li>
+		</ul>
+	</div>
+</div>

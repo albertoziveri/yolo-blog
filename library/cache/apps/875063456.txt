@@ -1,0 +1,19 @@
+
+<div class="review clearfix">
+	<div class="image"><img class="icon_rounded" src="http://a1645.phobos.apple.com/us/r30/Purple1/v4/fa/ac/68/faac6862-d866-2dbb-233e-0e04845cd48e/mzl.afqclfuk.png" alt="icona" /></div>
+	<div class="right-info">
+		<div class="header">
+			<h2 class="h2">App universale per iOs</h2><h1 class="h1">Elevate - Brain Training</h1><div class="download"><a href="https://itunes.apple.com/it/app/elevate-brain-training/id875063456?mt=8&uo=4" class="tasc-button" target="_blank">Download</a></div>
+		</div>
+		<div class="content">
+			<div class="field price"><span class="icon"></span>Gratis</div>
+			<div class="field cat"><span class="icon"></span>Istruzione</div>
+			<div class="field author"><span class="icon"></span><a href="http://elevateapp.com">Elevate, Inc.</a></div>
+		</div>
+	</div>
+	<div class="screenshots">
+		<ul>
+			<li><img src="http://a5.mzstatic.com/eu/r30/Purple3/v4/0e/6d/28/0e6d28da-93cd-59c0-d25b-8b5b93f09293/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple3/v4/02/81/92/028192c3-4126-a038-ba90-cc112b77adbb/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple3/v4/b5/35/bf/b535bf5c-f2cf-ed1a-d39d-ac3b119503d0/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple3/v4/46/48/58/46485832-289b-0de6-5e2c-44b8fa38afe1/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple3/v4/4a/4d/35/4a4d357a-e6d6-06a4-6a15-7372e80e6be6/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple5/v4/8c/6f/b9/8c6fb913-c3b5-69e7-e373-41b6f2c47cc7/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple3/v4/72/db/d0/72dbd095-af5e-050c-4937-6fc1ba727b87/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple5/v4/b0/3b/37/b03b377d-b008-4a30-1065-3dc4b24ab0b0/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple1/v4/11/21/10/11211091-0c5e-a297-91b5-2c625229f0f9/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple3/v4/72/61/b8/7261b8c8-75f9-631f-6a17-41ff2c36c14a/screen480x480.jpeg" alt="app screenshot" /></li>
+		</ul>
+	</div>
+</div>

@@ -1,0 +1,19 @@
+
+<div class="review clearfix">
+	<div class="image"><img class="icon_rounded" src="http://a742.phobos.apple.com/us/r30/Purple5/v4/0a/f7/23/0af72340-e1e4-77b4-0a0e-b12d8994b76b/mzl.gokzxwow.png" alt="icona" /></div>
+	<div class="right-info">
+		<div class="header">
+			<h2 class="h2">App universale per iOs</h2><h1 class="h1">Gneo: Smart Calendar & Tasks with Evernote</h1><div class="download"><a href="https://itunes.apple.com/it/app/gneo-smart-calendar-tasks/id721651959?mt=8&uo=4" class="tasc-button" target="_blank">Download</a></div>
+		</div>
+		<div class="content">
+			<div class="field price"><span class="icon"></span>9,99 €</div>
+			<div class="field cat"><span class="icon"></span>Produttività</div>
+			<div class="field author"><span class="icon"></span><a href="http://www.gneo.co">Keane and Able Limited</a></div>
+		</div>
+	</div>
+	<div class="screenshots">
+		<ul>
+			<li><img src="http://a4.mzstatic.com/eu/r30/Purple3/v4/f6/cc/ee/f6cceee4-5f5a-e343-42a8-e86f14ad80d3/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple3/v4/fd/e8/4f/fde84f20-a1b0-55a0-76f2-a12af0dfb067/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple3/v4/98/7d/73/987d735e-f5b5-38c5-626d-227942fc1102/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple3/v4/0d/15/3d/0d153d1d-4c52-2323-c79a-4fd9ead54458/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple1/v4/98/d5/e6/98d5e6d1-8dd6-f7df-690e-c62cf16ac7b9/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple3/v4/07/1a/0f/071a0f92-d55e-c2dd-918d-c957470d33f0/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple3/v4/02/86/f0/0286f07d-d96f-7bfe-4aa1-e3f6703f76fe/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple3/v4/37/62/cf/3762cfd7-7974-6753-2123-ca732f02ea92/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple3/v4/69/91/8e/69918ef3-318f-45d3-b8ed-6a52c46b7325/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple3/v4/e6/14/0f/e6140fed-3c56-fe84-0298-9a286a5f4cbe/screen480x480.jpeg" alt="app screenshot" /></li>
+		</ul>
+	</div>
+</div>

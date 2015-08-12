@@ -1,0 +1,19 @@
+
+<div class="review clearfix">
+	<div class="image"><img class="icon_rounded" src="http://a1897.phobos.apple.com/us/r30/Purple3/v4/19/02/72/19027264-add8-b1c5-67f4-145dac70e3e4/mzl.eyqyzsrj.png" alt="icona" /></div>
+	<div class="right-info">
+		<div class="header">
+			<h2 class="h2">App universale per iOs</h2><h1 class="h1">Spotify Music</h1><div class="download"><a href="https://itunes.apple.com/it/app/spotify-music/id324684580?mt=8&uo=4" class="tasc-button" target="_blank">Download</a></div>
+		</div>
+		<div class="content">
+			<div class="field price"><span class="icon"></span>Gratis</div>
+			<div class="field cat"><span class="icon"></span>Musica</div>
+			<div class="field author"><span class="icon"></span><a href="http://www.spotify.com/">Spotify Ltd.</a></div>
+		</div>
+	</div>
+	<div class="screenshots">
+		<ul>
+			<li><img src="http://a5.mzstatic.com/eu/r30/Purple5/v4/ab/96/15/ab961568-29b9-339a-4fcb-324f4181fb88/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple3/v4/4a/d1/2d/4ad12d41-5b28-571c-1c76-4a3d6eace4f0/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple5/v4/89/c9/c0/89c9c017-03fa-9372-89a3-418973eb194e/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple3/v4/31/4b/27/314b27ce-ec9c-850f-01eb-0923f4790c98/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple5/v4/73/e8/8d/73e88d6b-0d0e-b16f-0de0-582fd1990105/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple3/v4/29/89/81/2989811c-cd04-fd3d-beff-93aef50452d1/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple3/v4/2a/1c/d5/2a1cd573-0073-1851-5c3c-71444c1c47f3/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple1/v4/27/d0/81/27d0817e-5043-095a-a614-a08cb277f9ca/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple3/v4/28/9d/51/289d5115-c63d-2c1a-0fdb-90b35a296f83/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple1/v4/79/aa/02/79aa02ea-263a-b42e-9f09-d541ff9be2d1/screen480x480.jpeg" alt="app screenshot" /></li>
+		</ul>
+	</div>
+</div>

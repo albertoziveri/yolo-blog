@@ -1,0 +1,19 @@
+
+<div class="review clearfix">
+	<div class="image"><img class="icon_rounded" src="http://a536.phobos.apple.com/us/r30/Purple3/v4/38/4c/42/384c421b-70db-f643-bdd4-f037c8db5ca0/mzl.wnvsqxda.png" alt="icona" /></div>
+	<div class="right-info">
+		<div class="header">
+			<h2 class="h2">App per iPhone</h2><h1 class="h1">Vivino: Scanner per il vino</h1><div class="download"><a href="https://itunes.apple.com/it/app/vivino-scanner-per-il-vino/id414461255?mt=8&uo=4" class="tasc-button" target="_blank">Download</a></div>
+		</div>
+		<div class="content">
+			<div class="field price"><span class="icon"></span>Gratis</div>
+			<div class="field cat"><span class="icon"></span>Cibi e bevande</div>
+			<div class="field author"><span class="icon"></span><a href="http://www.vivino.com">Vivino ApS</a></div>
+		</div>
+	</div>
+	<div class="screenshots">
+		<ul>
+			<li><img src="http://a2.mzstatic.com/eu/r30/Purple3/v4/0f/2b/a0/0f2ba096-008b-12d6-640d-e53b5af0887f/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple5/v4/ac/e5/c2/ace5c27e-67f7-8699-8c37-130545f8bcaa/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple3/v4/33/0d/ac/330dac2c-db77-e42e-d2c1-cc2fc6d675e7/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple1/v4/07/53/94/07539490-c682-46c1-8cc7-f5199d6cefe5/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple5/v4/1b/d9/29/1bd9295e-e294-c2ac-d80c-3ca5a76c455e/screen1136x1136.jpeg" alt="app screenshot" /></li>
+		</ul>
+	</div>
+</div>

@@ -1,0 +1,19 @@
+
+<div class="review clearfix">
+	<div class="image"><img class="icon_rounded" src="http://a365.phobos.apple.com/us/r30/Purple3/v4/8b/79/c0/8b79c0eb-715b-d95e-fc9a-0a660a665bb5/mzl.fwffyicp.jpg" alt="icona" /></div>
+	<div class="right-info">
+		<div class="header">
+			<h2 class="h2">App universale per iOs</h2><h1 class="h1">Duet Display</h1><div class="download"><a href="https://itunes.apple.com/it/app/duet-display/id935754064?mt=8&uo=4" class="tasc-button" target="_blank">Download</a></div>
+		</div>
+		<div class="content">
+			<div class="field price"><span class="icon"></span>7,99 €</div>
+			<div class="field cat"><span class="icon"></span>Produttività</div>
+			<div class="field author"><span class="icon"></span><a href="http://duetdisplay.com">Rahul Dewan</a></div>
+		</div>
+	</div>
+	<div class="screenshots">
+		<ul>
+			<li><img src="http://a3.mzstatic.com/eu/r30/Purple1/v4/1f/57/62/1f576227-8ca4-61aa-af54-ac19e71b3979/screen320x320.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple1/v4/69/e9/a1/69e9a1a5-d25e-e1a3-ca02-ed84b1268fdc/screen320x320.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple3/v4/a2/9e/e9/a29ee997-b7dd-a3d6-1ad4-e10a30154113/screen320x320.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple5/v4/74/57/d5/7457d5a4-86b0-f8e2-d47a-51884360a4b8/screen320x320.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple3/v4/17/7f/2f/177f2f69-10cd-02d9-5ca2-c74d5dc514af/screen320x320.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple5/v4/2e/a6/64/2ea66435-72cd-ddda-e021-ba1331da8898/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple3/v4/37/98/d0/3798d0cd-00d4-16cb-d331-fc2e672717e2/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple1/v4/cd/b7/45/cdb7459d-df08-d3be-9390-99bc468d8938/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple3/v4/91/38/48/913848b9-86b5-57e4-ef97-534d8cce380f/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple1/v4/9c/01/d2/9c01d203-e376-184f-1c3b-41b1d8bc0501/screen480x480.jpeg" alt="app screenshot" /></li>
+		</ul>
+	</div>
+</div>

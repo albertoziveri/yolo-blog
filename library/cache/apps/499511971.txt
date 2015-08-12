@@ -1,0 +1,19 @@
+
+<div class="review clearfix">
+	<div class="image"><img class="icon_rounded" src="http://a105.phobos.apple.com/us/r30/Purple5/v4/cb/8d/d1/cb8dd107-4e9c-1519-f85e-6b39e7d3a0a0/pr_source.png?downloadKey=1422352537_994d59d07f56ee2c1aa38980f64888d1" alt="icona" /></div>
+	<div class="right-info">
+		<div class="header">
+			<h2 class="h2">App per iPhone</h2><h1 class="h1">Angry Birds Space</h1><div class="download"><a href="https://itunes.apple.com/it/app/angry-birds-space/id499511971?mt=8&uo=4" class="tasc-button" target="_blank">Download</a></div>
+		</div>
+		<div class="content">
+			<div class="field price"><span class="icon"></span>0,99 €</div>
+			<div class="field cat"><span class="icon"></span>Giochi</div>
+			<div class="field author"><span class="icon"></span><a href="http://www.angrybirds.com/space">Rovio Entertainment Ltd</a></div>
+		</div>
+	</div>
+	<div class="screenshots">
+		<ul>
+			<li><img src="http://a4.mzstatic.com/eu/r30/Purple3/v4/9a/a9/a4/9aa9a470-47b7-777d-f3ee-a122aa67229f/screen320x320.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple5/v4/63/6e/47/636e47e7-b4b5-7252-9fa3-916d709c9fec/screen320x320.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple5/v4/dd/4e/27/dd4e2719-9c00-bfb8-8aed-8018e1e7d772/screen320x320.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple3/v4/30/b5/e7/30b5e7d4-df2b-eef8-7695-368565268499/screen320x320.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple3/v4/2e/16/f4/2e16f495-fa5a-f076-6f17-26399431f955/screen320x320.jpeg" alt="app screenshot" /></li>
+		</ul>
+	</div>
+</div>

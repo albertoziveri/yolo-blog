@@ -1,0 +1,19 @@
+
+<div class="review clearfix">
+	<div class="image"><img class="icon_rounded" src="http://a279.phobos.apple.com/us/r30/Purple1/v4/ca/c9/40/cac94019-0388-0123-63f5-e417e1cb188c/pr_source.png?downloadKey=1422303752_2b651d94794e0a378ca1ab2c6ac12bb2" alt="icona" /></div>
+	<div class="right-info">
+		<div class="header">
+			<h2 class="h2">App universale per iOs</h2><h1 class="h1">Pages</h1><div class="download"><a href="https://itunes.apple.com/it/app/pages/id361309726?mt=8&uo=4" class="tasc-button" target="_blank">Download</a></div>
+		</div>
+		<div class="content">
+			<div class="field price"><span class="icon"></span>9,99 €</div>
+			<div class="field cat"><span class="icon"></span>Produttività</div>
+			<div class="field author"><span class="icon"></span><a href="http://www.apple.com/it/ipad/features/pages.html">Apple</a></div>
+		</div>
+	</div>
+	<div class="screenshots">
+		<ul>
+			<li><img src="http://a3.mzstatic.com/eu/r30/Purple3/v4/d8/c5/a3/d8c5a3e5-6867-3d49-eb38-14a276041307/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple1/v4/4f/91/74/4f9174f2-0cbf-16f6-d624-5d22ebec29f4/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple3/v4/0e/41/f4/0e41f432-c089-e081-b99f-8afba0b46f20/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a3.mzstatic.com/eu/r30/Purple5/v4/70/8b/41/708b416d-81ab-3b41-e097-33456cdf8cbd/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a2.mzstatic.com/eu/r30/Purple3/v4/ac/28/c2/ac28c2a7-b946-b436-b1b1-ba8f56906252/screen1136x1136.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple3/v4/04/94/bd/0494bd41-4c64-8a74-5624-584bab0dc0b9/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a4.mzstatic.com/eu/r30/Purple1/v4/d1/55/0d/d1550d92-0f85-0e6e-185f-717b6a1cdffe/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a1.mzstatic.com/eu/r30/Purple3/v4/8f/4e/7b/8f4e7ba1-bfa0-14aa-5572-6feae6a3eed1/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple3/v4/ee/73/9c/ee739cdb-bb8b-db04-2e0f-0a6ec337050c/screen480x480.jpeg" alt="app screenshot" /></li><li><img src="http://a5.mzstatic.com/eu/r30/Purple1/v4/b0/ca/34/b0ca34ce-244c-4f73-c84f-7ae65e906083/screen480x480.jpeg" alt="app screenshot" /></li>
+		</ul>
+	</div>
+</div>

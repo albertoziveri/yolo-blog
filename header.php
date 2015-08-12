@@ -16,21 +16,38 @@ You are reading our code. Thank you for that: it's often said that imitation is 
 		<!--Typography-->
 		<link rel="stylesheet" type="text/css" href="https://cloud.typography.com/6718272/768424/css/fonts.css" />		
 		<meta http-equiv="Content-Type" content="<?php bloginfo('html_type'); ?>; charset="utf-8" />
-				
+		<meta name="theme-color" content="#0A0A0A">
 		<!-- Google Chrome Frame for IE -->
 		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 		
 		<!-- mobile meta (hooray!) -->
-		<link rel="apple-touch-icon-precomposed" sizes="144x144" href="<?php echo get_stylesheet_directory_uri(); ?>/library/images/apple-touch-icon-144x144.png">		
-		<link rel="apple-touch-icon-precomposed" sizes="72x72" href="<?php echo get_stylesheet_directory_uri(); ?>/library/images/apple-touch-icon-72x72.png">		
-		<link rel="apple-touch-icon-precomposed" sizes="114x114" href="<?php echo get_stylesheet_directory_uri(); ?>/library/images/apple-touch-icon-114x114.png">		
-		<link rel="apple-touch-icon-precomposed" sizes="57x57" href="<?php echo get_stylesheet_directory_uri(); ?>/library/images/apple-touch-icon-57x57.png">		
 		<meta name="HandheldFriendly" content="True">
 		<meta name="MobileOptimized" content="320">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0,minimum-scale=1.0, maximum-scale=1.0, user-scalable=no" >		
 		<!-- icons & favicons (for more: http://themble.com/support/adding-icons-favicons/) -->
+		
+		<link rel="apple-touch-icon" sizes="57x57" href="<?php echo get_stylesheet_directory_uri(); ?>/library/images/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="<?php echo get_stylesheet_directory_uri(); ?>/library/images/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="<?php echo get_stylesheet_directory_uri(); ?>/library/images/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="<?php echo get_stylesheet_directory_uri(); ?>/library/images/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="<?php echo get_stylesheet_directory_uri(); ?>/library/images/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="<?php echo get_stylesheet_directory_uri(); ?>/library/images/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="<?php echo get_stylesheet_directory_uri(); ?>/library/images/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="<?php echo get_stylesheet_directory_uri(); ?>/library/images/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="<?php echo get_stylesheet_directory_uri(); ?>/library/images/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="<?php echo get_stylesheet_directory_uri(); ?>/library/images/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="<?php echo get_stylesheet_directory_uri(); ?>/library/images/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="<?php echo get_stylesheet_directory_uri(); ?>/library/images/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="<?php echo get_stylesheet_directory_uri(); ?>/library/images/favicon-16x16.png">
+<link rel="manifest" href="<?php echo get_stylesheet_directory_uri(); ?>/library/images/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="<?php echo get_stylesheet_directory_uri(); ?>/library/images/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+		
+		
 		<link rel="shortcut icon" href="<?php echo get_stylesheet_directory_uri(); ?>/favicon.ico">
   		<link rel="pingback" href="<?php bloginfo('pingback_url'); ?>">
+  		
 		<?php wp_head(); ?>
 				 
 		<!-- WINDOWS PHONE FIX  -->
@@ -61,6 +78,25 @@ You are reading our code. Thank you for that: it's often said that imitation is 
 		<!-- \GOOGLE PLUS -->
 			
 		<!-- end of wordpress head -->
+
+<!-- Inizio Script affiliazione Fancy -->
+<script src="//fancy.com/anywhere.js?ref=patriziostella9&_=1422372658" class="fancy-anywhere" async></script>
+<!-- Fine Script affiliazione Fancy -->
+
+		<!-- IUBENDA -->
+		<script type="text/javascript">
+	var _iub = _iub || [];
+	_iub.csConfiguration = {
+		cookiePolicyId: 255193,
+		siteId: 277273,
+		lang: "it"
+	};
+	(function (w, d) {
+		var loader = function () { var s = d.createElement("script"), tag = d.getElementsByTagName("script")[0]; s.src = "//cdn.iubenda.com/cookie_solution/iubenda_cs.js"; tag.parentNode.insertBefore(s, tag); };
+		if (w.addEventListener) { w.addEventListener("load", loader, false); } else if (w.attachEvent) { w.attachEvent("onload", loader); } else { w.onload = loader; }
+	})(window, document);
+</script>
+
 		</head>
 	
 	<body <?php body_class(); ?>>

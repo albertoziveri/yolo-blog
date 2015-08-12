@@ -2,7 +2,7 @@
 			<div id="content-container" class="center-wrap">
 				<div id="content">
 					<div id="inner-content" class="clearfix">
-							<h1 class="archive-title">Risultati ricerca per  <?php /* Search Count */ $allsearch = &new WP_Query("s=$s&showposts=-1"); $key = wp_specialchars($s, 1); $count = $allsearch->post_count; _e('<span class="search-terms">'); echo $key; _e('</span>, ');  echo $count . ' ';  _e(' articoli trovati', 'l_skimbu');  wp_reset_query(); ?></h1>
+							<h1 class="archive-title">Risultati ricerca per  <?php /* Search Count */ $allsearch = &new WP_Query("s=$s&showposts=-1"); $key = wp_specialchars($s, 1); $count = $allsearch->post_count; _e('<span class="search-terms">'); echo $key; _e('</span>, ');  echo $count . ' ';  echo ' articoli trovati';  wp_reset_query(); ?></h1>
 								<div id="articles">
 									<?php if (have_posts()) : while (have_posts()) : the_post(); 
 											get_template_part( 'loop','bigstory' );

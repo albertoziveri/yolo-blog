@@ -159,7 +159,7 @@
 											<?php
 												$key = 'vyfl4dws0xnebf9ka95p9e'; 
 												$language = 'it';
-												$request = file_get_contents('https://www.getquotesapp.com/api/randomquote?key='.$key.'&ln='.$language);
+												$request = file_get_contents('https://www.getquotesapp.com/api/randomquote.php?key='.$key.'&ln='.$language);
 												$response = json_decode($request, true);
 												
 												$body_quote = $response['quote']['body'];

@@ -50,6 +50,7 @@ require_once('library/tasc_power.php');
 
 // CUSTOMIZE THE WORDPRESS ADMIN (off by default)
 require_once('library/admin.php'); // this comes turned off by default
+show_admin_bar(false);
 
 
 

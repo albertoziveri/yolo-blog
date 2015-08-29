@@ -149,6 +149,16 @@
 										?> </div> <?php
 										 
 									 endwhile; ?>	
+									 
+									 
+									 
+									 
+									 					    	
+						    		<div class="<?php if ($i % 2 == 0) { ?>second-tile <?php } else { echo "first-tile"; } $i++; ?> tile quote">
+							    			<p>
+											<p><small><a href="http://www.getquotesapp.com">GET QUOTES APP</a></small></p>
+											</p>
+							    		</div>
 							    		
 							    		<div class="<?php if ($i % 2 == 0) { ?>second-tile <?php } else { echo "first-tile"; } $i++; ?>">
 										<div id="tasc-world" class="promotion grafitestyle">

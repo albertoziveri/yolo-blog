@@ -534,7 +534,3 @@ function aggiorna_luoghi() {
 	    
      exit(); // this is required to return a proper result & exit is faster than die();
 }
-
-
-?>
-

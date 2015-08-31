@@ -149,6 +149,29 @@
 										?> </div> <?php
 										 
 									 endwhile; ?>	
+<<<<<<< HEAD
+=======
+									 
+									 
+									 
+									 
+									 					    	
+						    		<div class="<?php if ($i % 2 == 0) { ?>second-tile <?php } else { echo "first-tile"; } $i++; ?> tile quote">
+							    			<p>
+											<?php
+												$key = 'vyfl4dws0xnebf9ka95p9e'; 
+												$language = 'it';
+												$request = file_get_contents('https://www.getquotesapp.com/api/randomquote.php?key='.$key.'&ln='.$language);
+												$response = json_decode($request, true);
+												
+												$body_quote = $response['quote']['body'];
+												$author_quote = $response['quote']['author'];	
+												echo '"'.$body_quote . '" <p><small>' . $author_quote . '</small></p>';					
+											?>
+											<p><small><a href="http://www.getquotesapp.com">GET QUOTES APP</a></small></p>
+											</p>
+							    		</div>
+>>>>>>> origin/master
 							    		
 							    		<div class="<?php if ($i % 2 == 0) { ?>second-tile <?php } else { echo "first-tile"; } $i++; ?>">
 										<div id="tasc-world" class="promotion grafitestyle">

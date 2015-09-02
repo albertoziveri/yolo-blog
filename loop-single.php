@@ -62,7 +62,7 @@ elseif ( has_post_format( 'aside' )) {
 ?>
 
 <footer class="article-footer">
-    <div class="meta post-detailed-info " class="updated" datetime="<?php get_the_time( 'Y-m-j' ); ?>" >Pubblicato il <time datetime="<?php echo the_time('Y-m-j'); ?>" pubdate><?php the_time(get_option('date_format')); ?></time> - ha ricevuto <?php the_views(); ?></div>
+    <div class="meta post-detailed-info " class="updated" datetime="<?php get_the_time( 'Y-m-j' ); ?>" >Pubblicato il <time datetime="<?php echo the_time('Y-m-j'); ?>" pubdate><?php the_time(get_option('date_format')); ?></time></div>
     
 	<div class="tags post-detailed-info " style="display: none;"><?php the_tags('<span class="tags_icon iconfont">j</span> ', ', ', ''); ?></div>	
 	<div id="post-rating" class="post-detailed-info"><?php if(function_exists('the_ratings')) { the_ratings(); } ?></div>	
@@ -89,13 +89,6 @@ elseif ( has_post_format( 'aside' )) {
 	</div>
 	
 </div>
-
-
-<div class="related clearfix">
-	<h1 class="mediumone">Leggi anche</h1>
-	<?php global $wp_query; $postid = $wp_query->post->ID;;  related_posts(array(), $postid); ?>
-</div>
-
 
 <h1 class="mediumone">Esprimi la tua</h1>
 <?php comments_template(); // comments should go inside the article element ?>
